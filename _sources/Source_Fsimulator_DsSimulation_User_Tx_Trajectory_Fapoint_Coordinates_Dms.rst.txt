@@ -1,0 +1,20 @@
+Dms
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:USER:TX<Channel>:TRAJectory:FAPoint:COORdinates:DMS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:USER:TX<Channel>:TRAJectory:FAPoint:COORdinates:DMS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Tx_.Trajectory_.Fapoint_.Coordinates_.Dms.Dms
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,22 @@
+Block
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:DERRor:BLOCk:RATE
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:DERRor:BLOCk:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:DERRor:BLOCk:RATE
+	SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:DERRor:BLOCk:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Enhanced_.Dpdch_.Derror_.Block.Block
+	:members:
+	:undoc-members:
+	:noindex:

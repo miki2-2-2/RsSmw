@@ -1,0 +1,36 @@
+Antenna<AntennaIx>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr8
+	rc = driver.source.fsimulator.mimo.antenna.tx.antenna.repcap_antennaIx_get()
+	driver.source.fsimulator.mimo.antenna.tx.antenna.repcap_antennaIx_set(repcap.AntennaIx.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Antenna_.Tx_.Antenna.Antenna
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.mimo.antenna.tx.antenna.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Fsimulator_Mimo_Antenna_Tx_Antenna_Pfile.rst

@@ -1,0 +1,20 @@
+Data
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CELL<CarrierComponent>:XPUSch:DATA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CELL<CarrierComponent>:XPUSch:DATA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.Cell_.Xpusch_.Data.Data
+	:members:
+	:undoc-members:
+	:noindex:

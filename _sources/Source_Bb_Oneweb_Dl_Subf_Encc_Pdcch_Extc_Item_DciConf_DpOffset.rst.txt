@@ -1,0 +1,20 @@
+DpOffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:DCIConf:DPOFfset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:DCIConf:DPOFfset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.Subf_.Encc_.Pdcch_.Extc_.Item_.DciConf_.DpOffset.DpOffset
+	:members:
+	:undoc-members:
+	:noindex:

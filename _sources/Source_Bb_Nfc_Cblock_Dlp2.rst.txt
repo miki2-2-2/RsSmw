@@ -1,0 +1,20 @@
+Dlp2
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:DLP2
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:DLP2
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.Dlp2.Dlp2
+	:members:
+	:undoc-members:
+	:noindex:

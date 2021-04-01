@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SYSTem:BEIDou<Stream>:SIGNal:L1Band:B1C:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SYSTem:BEIDou<Stream>:SIGNal:L1Band:B1C:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.System_.Beidou_.Signal_.L1Band_.B1C_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

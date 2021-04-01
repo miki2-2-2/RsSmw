@@ -1,0 +1,20 @@
+LcMask
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:MSTation<Stream>:LCMask
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:MSTation<Stream>:LCMask
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Mstation_.LcMask.LcMask
+	:members:
+	:undoc-members:
+	:noindex:

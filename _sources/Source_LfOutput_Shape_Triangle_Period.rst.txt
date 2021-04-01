@@ -1,0 +1,20 @@
+Period
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:LFOutput<Channel>:SHAPe:TRIangle:PERiod
+
+.. code-block:: python
+
+	SOURce<HwInstance>:LFOutput<Channel>:SHAPe:TRIangle:PERiod
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.LfOutput_.Shape_.Triangle_.Period.Period
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Oi11
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:DL:BWP<NumSuffix>:PUSCh:OI11
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:DL:BWP<NumSuffix>:PUSCh:OI11
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Dl_.Bwp_.Pusch_.Oi11.Oi11
+	:members:
+	:undoc-members:
+	:noindex:

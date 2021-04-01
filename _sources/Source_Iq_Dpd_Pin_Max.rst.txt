@@ -1,0 +1,20 @@
+Max
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:PIN:MAX
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:PIN:MAX
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Pin_.Max.Max
+	:members:
+	:undoc-members:
+	:noindex:

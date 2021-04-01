@@ -1,0 +1,20 @@
+PwPattern
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSDPa:MIMO:PWPattern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSDPa:MIMO:PWPattern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Channel_.Hsdpa_.Mimo_.PwPattern.PwPattern
+	:members:
+	:undoc-members:
+	:noindex:

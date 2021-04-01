@@ -1,0 +1,20 @@
+Repetit
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:PRACh:EMTC:CELV<Channel>:REPetit
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:PRACh:EMTC:CELV<Channel>:REPetit
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Prach_.Emtc_.Celv_.Repetit.Repetit
+	:members:
+	:undoc-members:
+	:noindex:

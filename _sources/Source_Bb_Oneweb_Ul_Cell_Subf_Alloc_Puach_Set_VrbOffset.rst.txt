@@ -1,0 +1,20 @@
+VrbOffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:PUACh:SET<SetItem>:VRBoffset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:PUACh:SET<SetItem>:VRBoffset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Cell_.Subf_.Alloc_.Puach_.Set_.VrbOffset.VrbOffset
+	:members:
+	:undoc-members:
+	:noindex:

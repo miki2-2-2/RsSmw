@@ -1,0 +1,20 @@
+Tlas
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:TLAS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:TLAS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Mconfig_.Tlas.Tlas
+	:members:
+	:undoc-members:
+	:noindex:

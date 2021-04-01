@@ -1,0 +1,20 @@
+AnSelection
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:ANSelection
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:ANSelection
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.AnSelection.AnSelection
+	:members:
+	:undoc-members:
+	:noindex:

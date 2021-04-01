@@ -1,0 +1,45 @@
+Psdu
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:BRATe
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:DLENgth
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MODulation
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:SCOunt
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:PSDU:BRATe
+	SOURce<HwInstance>:BB:WLAN:PSDU:DLENgth
+	SOURce<HwInstance>:BB:WLAN:PSDU:MODulation
+	SOURce<HwInstance>:BB:WLAN:PSDU:SCOunt
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Psdu.Psdu
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.wlan.psdu.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Wlan_Psdu_Bspreading.rst
+	Source_Bb_Wlan_Psdu_Data.rst
+	Source_Bb_Wlan_Psdu_Mac.rst

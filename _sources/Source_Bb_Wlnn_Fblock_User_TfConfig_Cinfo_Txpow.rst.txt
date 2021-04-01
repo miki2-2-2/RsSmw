@@ -1,0 +1,20 @@
+Txpow
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:TFConfig:CINFo:TXPow
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:TFConfig:CINFo:TXPow
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.User_.TfConfig_.Cinfo_.Txpow.Txpow
+	:members:
+	:undoc-members:
+	:noindex:

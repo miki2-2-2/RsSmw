@@ -1,0 +1,20 @@
+BcSmoothing
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BCSMoothing
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BCSMoothing
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.BcSmoothing.BcSmoothing
+	:members:
+	:undoc-members:
+	:noindex:

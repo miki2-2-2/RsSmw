@@ -1,0 +1,20 @@
+Auser
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPCCh:E:FRC:HARQ:SIMulation:DELay:AUSer
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPCCh:E:FRC:HARQ:SIMulation:DELay:AUSer
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Hsupa_.Dpcch_.E_.Frc_.Harq_.Simulation_.Delay_.Auser.Auser
+	:members:
+	:undoc-members:
+	:noindex:

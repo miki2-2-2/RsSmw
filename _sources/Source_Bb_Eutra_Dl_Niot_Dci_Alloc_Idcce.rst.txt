@@ -1,0 +1,20 @@
+Idcce
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:DCI:ALLoc<Channel>:IDCCe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:DCI:ALLoc<Channel>:IDCCe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Niot_.Dci_.Alloc_.Idcce.Idcce
+	:members:
+	:undoc-members:
+	:noindex:

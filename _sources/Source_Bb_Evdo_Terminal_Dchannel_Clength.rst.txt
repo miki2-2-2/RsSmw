@@ -1,0 +1,20 @@
+Clength
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DCHannel:CLENgth
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DCHannel:CLENgth
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.Dchannel_.Clength.Clength
+	:members:
+	:undoc-members:
+	:noindex:

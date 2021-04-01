@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:ADB3:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:ADB3:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Mconfig_.Adb3_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

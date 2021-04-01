@@ -1,0 +1,20 @@
+Aslot
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PCPCh:ASLot
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PCPCh:ASLot
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Pcpch_.Aslot.Aslot
+	:members:
+	:undoc-members:
+	:noindex:

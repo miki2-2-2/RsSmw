@@ -1,0 +1,20 @@
+Execute
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GLONass<Stream>:MCONtrol:COPY:EXECute
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GLONass<Stream>:MCONtrol:COPY:EXECute
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Glonass_.Mcontrol_.Copy_.Execute.Execute
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+StnBand
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:EMTC:TRANs<Channel>:STNBand
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:EMTC:TRANs<Channel>:STNBand
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Emtc_.Trans_.StnBand.StnBand
+	:members:
+	:undoc-members:
+	:noindex:

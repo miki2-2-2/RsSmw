@@ -1,0 +1,20 @@
+Rnumber
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:RNUMber
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:RNUMber
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Mconfig_.Rnumber.Rnumber
+	:members:
+	:undoc-members:
+	:noindex:

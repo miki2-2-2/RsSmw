@@ -1,0 +1,20 @@
+Catalog
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:USER:TX<Channel>:TRAJectory:TDF:CATalog
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:USER:TX<Channel>:TRAJectory:TDF:CATalog
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Tx_.Trajectory_.Tdf_.Catalog.Catalog
+	:members:
+	:undoc-members:
+	:noindex:

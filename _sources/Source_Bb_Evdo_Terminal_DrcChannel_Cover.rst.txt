@@ -1,0 +1,20 @@
+Cover
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DRCChannel:COVer
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DRCChannel:COVer
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.DrcChannel_.Cover.Cover
+	:members:
+	:undoc-members:
+	:noindex:

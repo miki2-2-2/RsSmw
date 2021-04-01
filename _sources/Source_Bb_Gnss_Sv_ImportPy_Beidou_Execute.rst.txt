@@ -1,0 +1,20 @@
+Execute
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SV:IMPort:BEIDou<Stream>:EXECute
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SV:IMPort:BEIDou<Stream>:EXECute
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Sv_.ImportPy_.Beidou_.Execute.Execute
+	:members:
+	:undoc-members:
+	:noindex:

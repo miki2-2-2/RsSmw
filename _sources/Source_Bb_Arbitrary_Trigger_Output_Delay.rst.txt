@@ -1,0 +1,20 @@
+Delay
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ARBitrary:TRIGger:OUTPut<Channel>:DELay
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ARBitrary:TRIGger:OUTPut<Channel>:DELay
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Arbitrary_.Trigger_.Output_.Delay.Delay
+	:members:
+	:undoc-members:
+	:noindex:

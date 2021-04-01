@@ -1,0 +1,20 @@
+Offset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DOHerty<Stream>:PHASe:OFFSet
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DOHerty<Stream>:PHASe:OFFSet
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Phase_.Offset.Offset
+	:members:
+	:undoc-members:
+	:noindex:

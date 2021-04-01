@@ -1,0 +1,20 @@
+Srelease
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:SPS:SRELease
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:SPS:SRELease
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Sps_.Srelease.Srelease
+	:members:
+	:undoc-members:
+	:noindex:

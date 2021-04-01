@@ -1,0 +1,20 @@
+Level
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ARBitrary:WSEGment:CONFigure:LEVel:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ARBitrary:WSEGment:CONFigure:LEVel:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Arbitrary_.Wsegment_.Configure_.Level.Level
+	:members:
+	:undoc-members:
+	:noindex:

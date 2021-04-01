@@ -1,0 +1,20 @@
+Date
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:SBAS<Stream>:SIMulated:ORBit:DATE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:SBAS<Stream>:SIMulated:ORBit:DATE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Sbas_.Simulated_.Orbit_.Date.Date
+	:members:
+	:undoc-members:
+	:noindex:

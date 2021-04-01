@@ -1,0 +1,40 @@
+Tx<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.fsimulator.dsSimulation.shiptoship.tx.repcap_channel_get()
+	driver.source.fsimulator.dsSimulation.shiptoship.tx.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.Shiptoship_.Tx.Tx
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.dsSimulation.shiptoship.tx.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Fsimulator_DsSimulation_Shiptoship_Tx_Antenna.rst
+	Source_Fsimulator_DsSimulation_Shiptoship_Tx_Coordinates.rst
+	Source_Fsimulator_DsSimulation_Shiptoship_Tx_Heading.rst
+	Source_Fsimulator_DsSimulation_Shiptoship_Tx_Speed.rst
+	Source_Fsimulator_DsSimulation_Shiptoship_Tx_TypePy.rst

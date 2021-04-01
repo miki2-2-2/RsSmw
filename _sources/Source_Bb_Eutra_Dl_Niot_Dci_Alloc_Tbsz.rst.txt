@@ -1,0 +1,20 @@
+Tbsz
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:DCI:ALLoc<Channel>:TBSZ
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:DCI:ALLoc<Channel>:TBSZ
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Niot_.Dci_.Alloc_.Tbsz.Tbsz
+	:members:
+	:undoc-members:
+	:noindex:

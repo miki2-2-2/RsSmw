@@ -1,0 +1,20 @@
+Sid1
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:PUSCh:DMTA:SID1
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:PUSCh:DMTA:SID1
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Ul_.Bwp_.Pusch_.Dmta_.Sid1.Sid1
+	:members:
+	:undoc-members:
+	:noindex:

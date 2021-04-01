@@ -1,0 +1,20 @@
+GsaDesignator
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:GSADesignator
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:GSADesignator
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Mconfig_.GsaDesignator.GsaDesignator
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+LogFile
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:LOGFile
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:LOGFile
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.LogFile.LogFile
+	:members:
+	:undoc-members:
+	:noindex:

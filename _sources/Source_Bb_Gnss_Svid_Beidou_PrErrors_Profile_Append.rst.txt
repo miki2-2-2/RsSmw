@@ -1,0 +1,20 @@
+Append
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:PRERrors:PROFile:APPend
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:PRERrors:PROFile:APPend
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Beidou_.PrErrors_.Profile_.Append.Append
+	:members:
+	:undoc-members:
+	:noindex:

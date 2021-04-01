@@ -1,0 +1,20 @@
+BssColor
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BSSColor
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BSSColor
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.BssColor.BssColor
+	:members:
+	:undoc-members:
+	:noindex:

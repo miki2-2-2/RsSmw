@@ -1,0 +1,36 @@
+Af<GnssIndex>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr2
+	rc = driver.source.bb.gnss.svid.navic.simulated.clock.af.repcap_gnssIndex_get()
+	driver.source.bb.gnss.svid.navic.simulated.clock.af.repcap_gnssIndex_set(repcap.GnssIndex.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:SIMulated:CLOCk:AF<GnssIndex>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:SIMulated:CLOCk:AF<GnssIndex>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Navic_.Simulated_.Clock_.Af.Af
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.gnss.svid.navic.simulated.clock.af.clone()

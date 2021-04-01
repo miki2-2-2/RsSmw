@@ -1,0 +1,20 @@
+Sfrpt
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:DCI:ALLoc<Channel>:SFRPt
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:DCI:ALLoc<Channel>:SFRPt
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Niot_.Dci_.Alloc_.Sfrpt.Sfrpt
+	:members:
+	:undoc-members:
+	:noindex:

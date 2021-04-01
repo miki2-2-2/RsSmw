@@ -1,0 +1,20 @@
+Fratio
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:TCINterferer:MOVing<Channel>:FRATio
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:TCINterferer:MOVing<Channel>:FRATio
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.TcInterferer_.Moving_.Fratio.Fratio
+	:members:
+	:undoc-members:
+	:noindex:

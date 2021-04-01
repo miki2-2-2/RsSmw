@@ -1,0 +1,20 @@
+Channel
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MDELay:CHANnel:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MDELay:CHANnel:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mdelay_.Channel.Channel
+	:members:
+	:undoc-members:
+	:noindex:

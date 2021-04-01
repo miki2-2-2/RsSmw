@@ -1,0 +1,20 @@
+Rdelay
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DELay:GROup<Stream>:PATH<Channel>:RDELay
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DELay:GROup<Stream>:PATH<Channel>:RDELay
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Delay_.Group_.Path_.Rdelay.Rdelay
+	:members:
+	:undoc-members:
+	:noindex:

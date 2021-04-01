@@ -1,0 +1,20 @@
+Aupd
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:AUPD
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:AUPD
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.Aupd.Aupd
+	:members:
+	:undoc-members:
+	:noindex:

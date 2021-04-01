@@ -1,0 +1,29 @@
+Pin
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Pin.Pin
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.dpd.pin.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Dpd_Pin_Max.rst
+	Source_Iq_Dpd_Pin_Min.rst

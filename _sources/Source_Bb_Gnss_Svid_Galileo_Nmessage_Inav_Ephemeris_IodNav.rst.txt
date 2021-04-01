@@ -1,0 +1,20 @@
+IodNav
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:NMESsage:INAV:EPHemeris:IODNav
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:NMESsage:INAV:EPHemeris:IODNav
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Galileo_.Nmessage_.Inav_.Ephemeris_.IodNav.IodNav
+	:members:
+	:undoc-members:
+	:noindex:

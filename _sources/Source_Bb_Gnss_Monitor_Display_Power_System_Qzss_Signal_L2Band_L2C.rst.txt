@@ -1,0 +1,20 @@
+L2C
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:QZSS<Stream>:SIGNal:L2Band:L2C
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:QZSS<Stream>:SIGNal:L2Band:L2C
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Monitor_.Display_.Power_.System_.Qzss_.Signal_.L2Band_.L2C.L2C
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Cic
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SIMulated:ORBit:CIC
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SIMulated:ORBit:CIC
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Galileo_.Simulated_.Orbit_.Cic.Cic
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Offset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIGNal:L5Band:B2A:POWer:OFFset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIGNal:L5Band:B2A:POWer:OFFset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Beidou_.Signal_.L5Band_.B2A_.Power_.Offset.Offset
+	:members:
+	:undoc-members:
+	:noindex:

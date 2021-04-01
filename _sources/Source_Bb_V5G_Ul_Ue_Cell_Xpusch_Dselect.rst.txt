@@ -1,0 +1,20 @@
+Dselect
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CELL<CarrierComponent>:XPUSch:DSELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CELL<CarrierComponent>:XPUSch:DSELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.Cell_.Xpusch_.Dselect.Dselect
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Use
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:SCRambling:CELL<Stream>:DMRS:USE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:SCRambling:CELL<Stream>:DMRS:USE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Scrambling_.Cell_.Dmrs_.Use.Use
+	:members:
+	:undoc-members:
+	:noindex:

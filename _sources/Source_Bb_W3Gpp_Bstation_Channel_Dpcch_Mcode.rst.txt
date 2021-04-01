@@ -1,0 +1,20 @@
+Mcode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:DPCCh:MCODe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:DPCCh:MCODe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Channel_.Dpcch_.Mcode.Mcode
+	:members:
+	:undoc-members:
+	:noindex:

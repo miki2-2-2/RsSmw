@@ -1,0 +1,20 @@
+Nid
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ALLoc<Channel>:XPDSch:DMRS:NID
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ALLoc<Channel>:XPDSch:DMRS:NID
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Alloc_.Xpdsch_.Dmrs_.Nid.Nid
+	:members:
+	:undoc-members:
+	:noindex:

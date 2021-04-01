@@ -1,0 +1,20 @@
+Aoc
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:AOC
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:AOC
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Alloc_.Cw_.Aoc.Aoc
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Mcs
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:AS:DL:CELL<Stream>:SEQelem:TB2:MCS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:AS:DL:CELL<Stream>:SEQelem:TB2:MCS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.User_.AsPy_.Dl_.Cell_.SeqElem_.Tb2_.Mcs.Mcs
+	:members:
+	:undoc-members:
+	:noindex:

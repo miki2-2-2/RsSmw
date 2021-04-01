@@ -1,0 +1,20 @@
+Xddn
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GLONass<Stream>:SIMulated:ORBit:XDDN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GLONass<Stream>:SIMulated:ORBit:XDDN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Glonass_.Simulated_.Orbit_.Xddn.Xddn
+	:members:
+	:undoc-members:
+	:noindex:

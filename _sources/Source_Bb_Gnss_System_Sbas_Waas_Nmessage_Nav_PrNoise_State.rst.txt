@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SYSTem:SBAS:WAAS<Stream>:NMESsage:NAV:PRN<Channel>:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SYSTem:SBAS:WAAS<Stream>:NMESsage:NAV:PRN<Channel>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.System_.Sbas_.Waas_.Nmessage_.Nav_.PrNoise_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

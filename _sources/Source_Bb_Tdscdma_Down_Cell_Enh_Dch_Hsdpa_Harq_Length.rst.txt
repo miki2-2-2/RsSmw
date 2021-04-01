@@ -1,0 +1,20 @@
+Length
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:HSDPA:HARQ:LENGth
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:HSDPA:HARQ:LENGth
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Enh_.Dch_.Hsdpa_.Harq_.Length.Length
+	:members:
+	:undoc-members:
+	:noindex:

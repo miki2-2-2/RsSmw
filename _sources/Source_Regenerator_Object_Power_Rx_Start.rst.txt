@@ -1,0 +1,20 @@
+Start
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:REGenerator:OBJect<Channel>:POWer:RX:STARt
+
+.. code-block:: python
+
+	SOURce<HwInstance>:REGenerator:OBJect<Channel>:POWer:RX:STARt
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Regenerator_.Object_.Power_.Rx_.Start.Start
+	:members:
+	:undoc-members:
+	:noindex:

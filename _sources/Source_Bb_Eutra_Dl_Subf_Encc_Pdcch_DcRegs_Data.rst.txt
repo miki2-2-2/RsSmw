@@ -1,0 +1,20 @@
+Data
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:DCRegs:DATA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:DCRegs:DATA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Encc_.Pdcch_.DcRegs_.Data.Data
+	:members:
+	:undoc-members:
+	:noindex:

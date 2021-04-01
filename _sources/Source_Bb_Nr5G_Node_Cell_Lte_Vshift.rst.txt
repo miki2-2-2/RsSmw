@@ -1,0 +1,20 @@
+Vshift
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:LTE:VSHift
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:LTE:VSHift
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Lte_.Vshift.Vshift
+	:members:
+	:undoc-members:
+	:noindex:

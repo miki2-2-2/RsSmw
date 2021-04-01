@@ -1,0 +1,20 @@
+AnPattern
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:HSICh:ANPattern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:HSICh:ANPattern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Enh_.Dch_.Hsich_.AnPattern.AnPattern
+	:members:
+	:undoc-members:
+	:noindex:

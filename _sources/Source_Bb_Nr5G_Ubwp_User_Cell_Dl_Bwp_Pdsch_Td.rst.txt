@@ -1,0 +1,40 @@
+Td<PdschTdoAlloc>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr15
+	rc = driver.source.bb.nr5G.ubwp.user.cell.dl.bwp.pdsch.td.repcap_pdschTdoAlloc_get()
+	driver.source.bb.nr5G.ubwp.user.cell.dl.bwp.pdsch.td.repcap_pdschTdoAlloc_set(repcap.PdschTdoAlloc.Nr0)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Dl_.Bwp_.Pdsch_.Td.Td
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.nr5G.ubwp.user.cell.dl.bwp.pdsch.td.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Td_Knull.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Td_Length.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Td_Mapping.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Td_Sliv.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Td_Start.rst

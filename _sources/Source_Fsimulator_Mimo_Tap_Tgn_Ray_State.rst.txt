@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:TGN:RAY<Stream>:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:TGN:RAY<Stream>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Tap_.Tgn_.Ray_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Repetitions
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:TRANs<Channel>:REPetitions
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:TRANs<Channel>:REPetitions
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Niot_.Trans_.Repetitions.Repetitions
+	:members:
+	:undoc-members:
+	:noindex:

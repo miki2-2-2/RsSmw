@@ -1,0 +1,20 @@
+Parameters
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:BSTation<Stream>:PDCHannel:SUBPacket<Subpacket>:PARameters
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:BSTation<Stream>:PDCHannel:SUBPacket<Subpacket>:PARameters
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.PdChannel_.SubPacket_.Parameters.Parameters
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Name
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: DIAGnostic:INFO:ECOunt<Channel>:NAME
+
+.. code-block:: python
+
+	DIAGnostic:INFO:ECOunt<Channel>:NAME
+
+
+
+.. autoclass:: RsSmw.Implementations.Diagnostic_.Info_.Ecount_.Name.Name
+	:members:
+	:undoc-members:
+	:noindex:

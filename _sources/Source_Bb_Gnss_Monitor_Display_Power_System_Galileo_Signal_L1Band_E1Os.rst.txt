@@ -1,0 +1,20 @@
+E1Os
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:GALileo<Stream>:SIGNal:L1Band:E1OS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:GALileo<Stream>:SIGNal:L1Band:E1OS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Monitor_.Display_.Power_.System_.Galileo_.Signal_.L1Band_.E1Os.E1Os
+	:members:
+	:undoc-members:
+	:noindex:

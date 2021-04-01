@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ALLoc<Channel>:APM:CSIRs:AP<AntennaPort>:ROW<Row>:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ALLoc<Channel>:APM:CSIRs:AP<AntennaPort>:ROW<Row>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Alloc_.Apm_.Csirs_.Ap_.Row_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

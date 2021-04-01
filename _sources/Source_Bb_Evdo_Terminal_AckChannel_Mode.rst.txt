@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:ACKChannel:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:ACKChannel:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.AckChannel_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

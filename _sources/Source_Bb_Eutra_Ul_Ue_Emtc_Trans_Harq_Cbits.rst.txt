@@ -1,0 +1,20 @@
+Cbits
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:EMTC:TRANs<Channel>:HARQ:CBITs
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:EMTC:TRANs<Channel>:HARQ:CBITs
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Emtc_.Trans_.Harq_.Cbits.Cbits
+	:members:
+	:undoc-members:
+	:noindex:

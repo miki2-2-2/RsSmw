@@ -1,0 +1,20 @@
+Crate
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:XPUSch:CCODing:CRATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:XPUSch:CCODing:CRATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Cell_.Subf_.Alloc_.Xpusch_.Ccoding_.Crate.Crate
+	:members:
+	:undoc-members:
+	:noindex:

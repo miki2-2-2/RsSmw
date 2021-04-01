@@ -1,0 +1,20 @@
+TypePy
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:REGenerator:OBJect<Channel>:TYPE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:REGenerator:OBJect<Channel>:TYPE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Regenerator_.Object_.TypePy.TypePy
+	:members:
+	:undoc-members:
+	:noindex:

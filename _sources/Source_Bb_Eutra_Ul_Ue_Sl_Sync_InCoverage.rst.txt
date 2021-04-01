@@ -1,0 +1,20 @@
+InCoverage
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:SYNC:INCoverage
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:SYNC:INCoverage
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Sync_.InCoverage.InCoverage
+	:members:
+	:undoc-members:
+	:noindex:

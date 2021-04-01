@@ -1,0 +1,36 @@
+Symbol<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.dm.fsk.variable.symbol.repcap_channel_get()
+	driver.source.bb.dm.fsk.variable.symbol.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dm_.Fsk_.Variable_.Symbol.Symbol
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.dm.fsk.variable.symbol.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Dm_Fsk_Variable_Symbol_Deviation.rst

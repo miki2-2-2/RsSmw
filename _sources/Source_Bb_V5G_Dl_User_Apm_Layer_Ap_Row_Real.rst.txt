@@ -1,0 +1,20 @@
+Real
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:APM:LAYer<Layer>:AP<AntennaPort>:ROW<Stream>:REAL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:APM:LAYer<Layer>:AP<AntennaPort>:ROW<Stream>:REAL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.User_.Apm_.Layer_.Ap_.Row_.Real.Real
+	:members:
+	:undoc-members:
+	:noindex:

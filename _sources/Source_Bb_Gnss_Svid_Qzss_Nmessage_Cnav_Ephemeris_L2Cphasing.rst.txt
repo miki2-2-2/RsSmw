@@ -1,0 +1,20 @@
+L2Cphasing
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:QZSS<Stream>:NMESsage:CNAV:EPHemeris:L2CPhasing
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:QZSS<Stream>:NMESsage:CNAV:EPHemeris:L2CPhasing
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Qzss_.Nmessage_.Cnav_.Ephemeris_.L2Cphasing.L2Cphasing
+	:members:
+	:undoc-members:
+	:noindex:

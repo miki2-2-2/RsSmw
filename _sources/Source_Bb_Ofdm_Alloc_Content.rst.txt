@@ -1,0 +1,20 @@
+Content
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:OFDM:ALLoc<Channel>:CONTent
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:OFDM:ALLoc<Channel>:CONTent
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Ofdm_.Alloc_.Content.Content
+	:members:
+	:undoc-members:
+	:noindex:

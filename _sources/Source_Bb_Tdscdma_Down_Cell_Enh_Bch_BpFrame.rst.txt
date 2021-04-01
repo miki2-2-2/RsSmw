@@ -1,0 +1,20 @@
+BpFrame
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:BCH:BPFRame
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:BCH:BPFRame
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Enh_.Bch_.BpFrame.BpFrame
+	:members:
+	:undoc-members:
+	:noindex:

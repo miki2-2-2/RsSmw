@@ -1,0 +1,20 @@
+Pcorrection
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:PRAC:MSG:PCORrection
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:PRAC:MSG:PCORrection
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Slot_.Prac_.Msg_.Pcorrection.Pcorrection
+	:members:
+	:undoc-members:
+	:noindex:

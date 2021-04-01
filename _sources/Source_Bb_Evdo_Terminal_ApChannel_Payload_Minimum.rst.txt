@@ -1,0 +1,20 @@
+Minimum
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:APCHannel:PAYLoad:MINimum
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:APCHannel:PAYLoad:MINimum
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.ApChannel_.Payload_.Minimum.Minimum
+	:members:
+	:undoc-members:
+	:noindex:

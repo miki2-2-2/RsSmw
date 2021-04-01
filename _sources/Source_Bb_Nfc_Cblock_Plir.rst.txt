@@ -1,0 +1,20 @@
+Plir
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:PLIR
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:PLIR
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.Plir.Plir
+	:members:
+	:undoc-members:
+	:noindex:

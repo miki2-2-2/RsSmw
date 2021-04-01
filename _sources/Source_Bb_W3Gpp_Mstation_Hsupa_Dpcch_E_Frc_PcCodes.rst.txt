@@ -1,0 +1,20 @@
+PcCodes
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPCCh:E:FRC:PCCOdes
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPCCh:E:FRC:PCCOdes
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Hsupa_.Dpcch_.E_.Frc_.PcCodes.PcCodes
+	:members:
+	:undoc-members:
+	:noindex:

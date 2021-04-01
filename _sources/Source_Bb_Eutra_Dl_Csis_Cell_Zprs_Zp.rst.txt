@@ -1,0 +1,20 @@
+Zp
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:ZPRS<Stream>:ZP
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:ZPRS<Stream>:ZP
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Csis_.Cell_.Zprs_.Zp.Zp
+	:members:
+	:undoc-members:
+	:noindex:

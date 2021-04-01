@@ -1,0 +1,20 @@
+Locked
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:BLOCk<Stream>:LOCKed
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:BLOCk<Stream>:LOCKed
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.Block_.Locked.Locked
+	:members:
+	:undoc-members:
+	:noindex:

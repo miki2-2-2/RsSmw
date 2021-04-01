@@ -1,0 +1,20 @@
+Sirf
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:TRANs<Channel>:SIRF
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:TRANs<Channel>:SIRF
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Niot_.Trans_.Sirf.Sirf
+	:members:
+	:undoc-members:
+	:noindex:

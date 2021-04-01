@@ -1,0 +1,20 @@
+CvPeriod
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GLONass<Stream>:SDYNamics:CVPeriod
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GLONass<Stream>:SDYNamics:CVPeriod
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Glonass_.Sdynamics_.CvPeriod.CvPeriod
+	:members:
+	:undoc-members:
+	:noindex:

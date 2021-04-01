@@ -1,0 +1,20 @@
+Gating
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:ACKChannel:GATing
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:ACKChannel:GATing
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.AckChannel_.Gating.Gating
+	:members:
+	:undoc-members:
+	:noindex:

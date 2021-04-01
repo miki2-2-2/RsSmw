@@ -1,0 +1,20 @@
+Emf
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:OUTPut:ANALog:ENVelope:EMF:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:OUTPut:ANALog:ENVelope:EMF:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Output_.Analog_.Envelope_.Emf.Emf
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+CycShift
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:CYCShift
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:CYCShift
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Subf_.Alloc_.Pucch_.CycShift.CycShift
+	:members:
+	:undoc-members:
+	:noindex:

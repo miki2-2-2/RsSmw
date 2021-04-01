@@ -1,0 +1,20 @@
+Unscaled
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SV:SBAS<Stream>:GAGAN:NMESsage:NAV:TIME:CONVersion:UTC<Channel>:AONE:UNSCaled
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SV:SBAS<Stream>:GAGAN:NMESsage:NAV:TIME:CONVersion:UTC<Channel>:AONE:UNSCaled
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Sv_.Sbas_.Gagan_.Nmessage_.Nav_.Time_.Conversion_.Utc_.Aone_.Unscaled.Unscaled
+	:members:
+	:undoc-members:
+	:noindex:

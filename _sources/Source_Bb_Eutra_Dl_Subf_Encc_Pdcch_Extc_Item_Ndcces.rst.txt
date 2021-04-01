@@ -1,0 +1,20 @@
+Ndcces
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:NDCCes
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:NDCCes
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Encc_.Pdcch_.Extc_.Item_.Ndcces.Ndcces
+	:members:
+	:undoc-members:
+	:noindex:

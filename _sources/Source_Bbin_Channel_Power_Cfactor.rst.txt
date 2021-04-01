@@ -1,0 +1,20 @@
+Cfactor
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BBIN:CHANnel<Channel>:POWer:CFACtor
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BBIN:CHANnel<Channel>:POWer:CFACtor
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bbin_.Channel_.Power_.Cfactor.Cfactor
+	:members:
+	:undoc-members:
+	:noindex:

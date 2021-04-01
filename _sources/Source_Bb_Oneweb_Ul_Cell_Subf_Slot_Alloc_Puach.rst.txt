@@ -1,0 +1,28 @@
+Puach
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Cell_.Subf_.Slot_.Alloc_.Puach.Puach
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.oneweb.ul.cell.subf.slot.alloc.puach.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Oneweb_Ul_Cell_Subf_Slot_Alloc_Puach_Set.rst

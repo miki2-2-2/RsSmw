@@ -1,0 +1,20 @@
+Service
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:SERVice:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:SERVice:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Service.Service
+	:members:
+	:undoc-members:
+	:noindex:

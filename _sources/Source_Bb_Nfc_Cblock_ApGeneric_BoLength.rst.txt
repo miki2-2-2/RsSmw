@@ -1,0 +1,20 @@
+BoLength
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:APGeneric:BOLength
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:APGeneric:BOLength
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.ApGeneric_.BoLength.BoLength
+	:members:
+	:undoc-members:
+	:noindex:

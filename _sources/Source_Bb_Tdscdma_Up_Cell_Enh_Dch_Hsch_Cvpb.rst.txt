@@ -1,0 +1,20 @@
+Cvpb
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:HSCH:CVPB
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:HSCH:CVPB
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Enh_.Dch_.Hsch_.Cvpb.Cvpb
+	:members:
+	:undoc-members:
+	:noindex:

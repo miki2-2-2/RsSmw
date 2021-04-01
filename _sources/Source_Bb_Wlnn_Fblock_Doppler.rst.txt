@@ -1,0 +1,20 @@
+Doppler
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:DOPPler
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:DOPPler
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Doppler.Doppler
+	:members:
+	:undoc-members:
+	:noindex:

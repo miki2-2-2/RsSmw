@@ -1,0 +1,22 @@
+Sp1K25
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:OUTPut:TDWind:SP1K25:TRTSamples
+	single: SOURce<HwInstance>:BB:NR5G:OUTPut:TDWind:SP1K25:TRTime
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:OUTPut:TDWind:SP1K25:TRTSamples
+	SOURce<HwInstance>:BB:NR5G:OUTPut:TDWind:SP1K25:TRTime
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Output_.TdWind_.Sp1K25.Sp1K25
+	:members:
+	:undoc-members:
+	:noindex:

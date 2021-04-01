@@ -1,0 +1,48 @@
+Alloc<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.eutra.ul.ue.sl.alloc.repcap_channel_get()
+	driver.source.bb.eutra.ul.ue.sl.alloc.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Alloc.Alloc
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.ue.sl.alloc.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_Ccoding.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_Conflict.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_Content.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_CycShift.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_DiscType.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_Modulation.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_Npdsch.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_PhysBits.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_Power.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_PsdPeriod.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_Scrambling.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_Sf.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Alloc_State.rst

@@ -1,0 +1,20 @@
+Data
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:DID:DATA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:DID:DATA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Stereo_.Grps_.Gt_.Did_.Data.Data
+	:members:
+	:undoc-members:
+	:noindex:

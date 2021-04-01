@@ -1,0 +1,20 @@
+NumSfi
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:NUMSfi
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:NUMSfi
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.NumSfi.NumSfi
+	:members:
+	:undoc-members:
+	:noindex:

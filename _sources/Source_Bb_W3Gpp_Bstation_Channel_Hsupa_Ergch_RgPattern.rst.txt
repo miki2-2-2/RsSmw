@@ -1,0 +1,20 @@
+RgPattern
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSUPa:ERGCh:RGPAttern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSUPa:ERGCh:RGPAttern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Channel_.Hsupa_.Ergch_.RgPattern.RgPattern
+	:members:
+	:undoc-members:
+	:noindex:

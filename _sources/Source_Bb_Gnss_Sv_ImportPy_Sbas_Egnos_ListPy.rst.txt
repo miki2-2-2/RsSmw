@@ -1,0 +1,20 @@
+ListPy
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SV:IMPort:SBAS:EGNOS<Stream>:LIST
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SV:IMPort:SBAS:EGNOS<Stream>:LIST
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Sv_.ImportPy_.Sbas_.Egnos_.ListPy.ListPy
+	:members:
+	:undoc-members:
+	:noindex:

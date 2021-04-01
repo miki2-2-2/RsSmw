@@ -1,0 +1,22 @@
+Dlength
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:HUWB:FCONfig:DLENgth:SELect
+	single: SOURce<HwInstance>:BB:HUWB:FCONfig:DLENgth:VALue
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:HUWB:FCONfig:DLENgth:SELect
+	SOURce<HwInstance>:BB:HUWB:FCONfig:DLENgth:VALue
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Huwb_.Fconfig_.Dlength.Dlength
+	:members:
+	:undoc-members:
+	:noindex:

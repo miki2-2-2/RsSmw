@@ -1,0 +1,20 @@
+Psize
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:USER<Stream>:PSIZe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:USER<Stream>:PSIZe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.User_.Psize.Psize
+	:members:
+	:undoc-members:
+	:noindex:

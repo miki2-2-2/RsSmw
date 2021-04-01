@@ -1,0 +1,20 @@
+Svid
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:TRAJectory:SVID
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:TRAJectory:SVID
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Monitor_.Display_.Trajectory_.Svid.Svid
+	:members:
+	:undoc-members:
+	:noindex:

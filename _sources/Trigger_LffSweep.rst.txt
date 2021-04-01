@@ -1,0 +1,39 @@
+LffSweep
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: TRIGger<HwInstance>:LFFSweep
+	single: TRIGger<HwInstance>:LFFSweep:SOURce
+
+.. code-block:: python
+
+	TRIGger<HwInstance>:LFFSweep
+	TRIGger<HwInstance>:LFFSweep:SOURce
+
+
+
+.. autoclass:: RsSmw.Implementations.Trigger_.LffSweep.LffSweep
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.trigger.lffSweep.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Trigger_LffSweep_Immediate.rst

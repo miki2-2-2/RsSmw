@@ -1,0 +1,20 @@
+Fcio
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPDCh:FCIO
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPDCh:FCIO
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Dpdch_.Fcio.Fcio
+	:members:
+	:undoc-members:
+	:noindex:

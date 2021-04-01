@@ -1,0 +1,20 @@
+Pilot
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:DPCCh:POFFset:PILot
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:DPCCh:POFFset:PILot
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Channel_.Dpcch_.Poffset_.Pilot.Pilot
+	:members:
+	:undoc-members:
+	:noindex:

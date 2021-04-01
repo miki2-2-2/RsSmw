@@ -1,0 +1,22 @@
+Catalog
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ARBitrary:WAVeform:CATalog:LENGth
+	single: SOURce<HwInstance>:BB:ARBitrary:WAVeform:CATalog
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ARBitrary:WAVeform:CATalog:LENGth
+	SOURce<HwInstance>:BB:ARBitrary:WAVeform:CATalog
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Arbitrary_.Waveform_.Catalog.Catalog
+	:members:
+	:undoc-members:
+	:noindex:

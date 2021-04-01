@@ -1,0 +1,20 @@
+C1Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:LAA:CELL<Channel>:BURSt<Stream>:C1Mode
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:LAA:CELL<Channel>:BURSt<Stream>:C1Mode
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Laa_.Cell_.Burst_.C1Mode.C1Mode
+	:members:
+	:undoc-members:
+	:noindex:

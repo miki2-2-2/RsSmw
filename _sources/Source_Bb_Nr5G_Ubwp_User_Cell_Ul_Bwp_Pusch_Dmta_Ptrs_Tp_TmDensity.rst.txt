@@ -1,0 +1,20 @@
+TmDensity
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:PUSCh:DMTA:PTRS:TP:TMDensity
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:PUSCh:DMTA:PTRS:TP:TMDensity
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Ul_.Bwp_.Pusch_.Dmta_.Ptrs_.Tp_.TmDensity.TmDensity
+	:members:
+	:undoc-members:
+	:noindex:

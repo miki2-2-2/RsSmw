@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:CCODing:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:CCODing:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Alloc_.Cw_.Ccoding_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,40 @@
+Cell<CarrierComponent>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr8
+	rc = driver.source.bb.eutra.ul.ue.cell.repcap_carrierComponent_get()
+	driver.source.bb.eutra.ul.ue.cell.repcap_carrierComponent_set(repcap.CarrierComponent.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Cell.Cell
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.ue.cell.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Ul_Ue_Cell_Poffset.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Eimta.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Frc.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Pusch.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig.rst

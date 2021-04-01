@@ -1,0 +1,20 @@
+Txmode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:SCI<Channel>:TXMode
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:SCI<Channel>:TXMode
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Sci_.Txmode.Txmode
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Rah
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:DCIConf:RAH
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:DCIConf:RAH
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Encc_.Pdcch_.Extc_.Item_.DciConf_.Rah.Rah
+	:members:
+	:undoc-members:
+	:noindex:

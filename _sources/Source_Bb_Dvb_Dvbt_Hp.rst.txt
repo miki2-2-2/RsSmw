@@ -1,0 +1,40 @@
+Hp<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.dvb.dvbt.hp.repcap_channel_get()
+	driver.source.bb.dvb.dvbt.hp.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbt_.Hp.Hp
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.dvb.dvbt.hp.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Dvb_Dvbt_Hp_Data.rst
+	Source_Bb_Dvb_Dvbt_Hp_Icoder.rst
+	Source_Bb_Dvb_Dvbt_Hp_Ocoder.rst
+	Source_Bb_Dvb_Dvbt_Hp_Ointerleaver.rst
+	Source_Bb_Dvb_Dvbt_Hp_PnScrambler.rst

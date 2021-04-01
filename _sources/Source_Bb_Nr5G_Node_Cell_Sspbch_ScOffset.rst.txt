@@ -1,0 +1,20 @@
+ScOffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:SCOFfset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:SCOFfset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Sspbch_.ScOffset.ScOffset
+	:members:
+	:undoc-members:
+	:noindex:

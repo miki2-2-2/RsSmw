@@ -1,0 +1,20 @@
+Bw
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:PPUNcturing:BW
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:PPUNcturing:BW
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Ppuncturing_.Bw.Bw
+	:members:
+	:undoc-members:
+	:noindex:

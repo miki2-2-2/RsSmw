@@ -1,0 +1,20 @@
+Spoint
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SPOint
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SPOint
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Spoint.Spoint
+	:members:
+	:undoc-members:
+	:noindex:

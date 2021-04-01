@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:BSTation<Stream>:CGRoup<ChannelGroup>:COFFset<Channel>:DERRor:BLOCk:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:BSTation<Stream>:CGRoup<ChannelGroup>:COFFset<Channel>:DERRor:BLOCk:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.Cgroup_.Coffset_.Derror_.Block_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

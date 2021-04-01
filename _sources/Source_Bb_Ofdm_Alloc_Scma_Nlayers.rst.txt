@@ -1,0 +1,20 @@
+Nlayers
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:OFDM:ALLoc<Channel>:SCMA:NLAYers
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:OFDM:ALLoc<Channel>:SCMA:NLAYers
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Ofdm_.Alloc_.Scma_.Nlayers.Nlayers
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Fcontrol
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:FCONtrol:FCONtrol
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:FCONtrol:FCONtrol
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mac_.Fcontrol_.Fcontrol.Fcontrol
+	:members:
+	:undoc-members:
+	:noindex:

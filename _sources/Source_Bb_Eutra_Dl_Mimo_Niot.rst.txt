@@ -1,0 +1,20 @@
+Niot
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:MIMO:NIOT:CONFig
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:MIMO:NIOT:CONFig
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Mimo_.Niot.Niot
+	:members:
+	:undoc-members:
+	:noindex:

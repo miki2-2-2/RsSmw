@@ -1,0 +1,20 @@
+GdAvailable
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:GDAVailable
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:GDAVailable
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.GdAvailable.GdAvailable
+	:members:
+	:undoc-members:
+	:noindex:

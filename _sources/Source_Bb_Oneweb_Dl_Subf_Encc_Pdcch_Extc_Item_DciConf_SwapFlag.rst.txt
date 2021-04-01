@@ -1,0 +1,20 @@
+SwapFlag
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:DCIConf:SWAPflag
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:DCIConf:SWAPflag
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.Subf_.Encc_.Pdcch_.Extc_.Item_.DciConf_.SwapFlag.SwapFlag
+	:members:
+	:undoc-members:
+	:noindex:

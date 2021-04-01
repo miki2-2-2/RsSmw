@@ -1,0 +1,20 @@
+CodType
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:TFConfig:UINFo<Stream>:CODType
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:TFConfig:UINFo<Stream>:CODType
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.User_.TfConfig_.Uinfo_.CodType.CodType
+	:members:
+	:undoc-members:
+	:noindex:

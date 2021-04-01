@@ -1,0 +1,20 @@
+Dz
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:A<Channel>:DZ
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:A<Channel>:DZ
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.A_.Dz.Dz
+	:members:
+	:undoc-members:
+	:noindex:

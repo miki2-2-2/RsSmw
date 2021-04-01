@@ -1,0 +1,20 @@
+Phase
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:GVECtor:AA<Stream>:PHASe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:GVECtor:AA<Stream>:PHASe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Tap_.Gvector_.Aa_.Phase.Phase
+	:members:
+	:undoc-members:
+	:noindex:

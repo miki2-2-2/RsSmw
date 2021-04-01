@@ -1,0 +1,20 @@
+Sid
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:DCIConf:SID
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:DCIConf:SID
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Encc_.Pdcch_.Extc_.Item_.DciConf_.Sid.Sid
+	:members:
+	:undoc-members:
+	:noindex:

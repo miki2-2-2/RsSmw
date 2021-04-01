@@ -1,0 +1,20 @@
+Numerology
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:COMMon:ALLoc<Allocation>:NUMerology
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:COMMon:ALLoc<Allocation>:NUMerology
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Scheduling_.Cell_.Subf_.Common_.Alloc_.Numerology.Numerology
+	:members:
+	:undoc-members:
+	:noindex:

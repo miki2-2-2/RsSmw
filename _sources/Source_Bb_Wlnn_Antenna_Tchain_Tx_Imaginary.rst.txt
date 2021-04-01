@@ -1,0 +1,20 @@
+Imaginary
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:ANTenna:TCHain<Channel>:TX<TxIx>:IMAGinary
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:ANTenna:TCHain<Channel>:TX<TxIx>:IMAGinary
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Antenna_.Tchain_.Tx_.Imaginary.Imaginary
+	:members:
+	:undoc-members:
+	:noindex:

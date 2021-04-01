@@ -1,0 +1,20 @@
+Nscarriers
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:TRANs<Channel>:NSCarriers
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:TRANs<Channel>:NSCarriers
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Niot_.Trans_.Nscarriers.Nscarriers
+	:members:
+	:undoc-members:
+	:noindex:

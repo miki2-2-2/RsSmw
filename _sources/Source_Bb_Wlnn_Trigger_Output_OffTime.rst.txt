@@ -1,0 +1,20 @@
+OffTime
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:TRIGger:OUTPut<Channel>:OFFTime
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:TRIGger:OUTPut<Channel>:OFFTime
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Trigger_.Output_.OffTime.OffTime
+	:members:
+	:undoc-members:
+	:noindex:

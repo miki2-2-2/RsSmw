@@ -1,0 +1,20 @@
+N2Dmrs
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:FRC:N2DMrs
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:FRC:N2DMrs
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Ue_.Cell_.Frc_.N2Dmrs.N2Dmrs
+	:members:
+	:undoc-members:
+	:noindex:

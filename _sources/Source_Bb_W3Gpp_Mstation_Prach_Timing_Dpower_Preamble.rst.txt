@@ -1,0 +1,20 @@
+Preamble
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PRACh:TIMing:DPOWer:PREamble
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PRACh:TIMing:DPOWer:PREamble
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Prach_.Timing_.Dpower_.Preamble.Preamble
+	:members:
+	:undoc-members:
+	:noindex:

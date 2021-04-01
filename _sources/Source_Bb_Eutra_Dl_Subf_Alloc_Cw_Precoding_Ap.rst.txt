@@ -1,0 +1,20 @@
+Ap
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:PRECoding:AP
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:PRECoding:AP
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Alloc_.Cw_.Precoding_.Ap.Ap
+	:members:
+	:undoc-members:
+	:noindex:

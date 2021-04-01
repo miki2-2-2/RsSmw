@@ -1,0 +1,28 @@
+Ulsch
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Emtc_.Trans_.Ulsch.Ulsch
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.ue.emtc.trans.ulsch.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Ul_Ue_Emtc_Trans_Ulsch_Bits.rst

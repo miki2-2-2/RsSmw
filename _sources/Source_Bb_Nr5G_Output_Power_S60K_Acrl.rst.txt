@@ -1,0 +1,20 @@
+Acrl
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:OUTPut:POWer:S60K<Channel>:ACRL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:OUTPut:POWer:S60K<Channel>:ACRL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Output_.Power_.S60K_.Acrl.Acrl
+	:members:
+	:undoc-members:
+	:noindex:

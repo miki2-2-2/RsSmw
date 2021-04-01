@@ -1,0 +1,20 @@
+TrSource
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:DCRegs:TRSource
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:DCRegs:TRSource
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Encc_.Xpdcch_.DcRegs_.TrSource.TrSource
+	:members:
+	:undoc-members:
+	:noindex:

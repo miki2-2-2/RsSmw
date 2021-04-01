@@ -1,0 +1,20 @@
+SkProcess
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:AS:DL:SKPRocess
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:AS:DL:SKPRocess
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.AsPy_.Dl_.SkProcess.SkProcess
+	:members:
+	:undoc-members:
+	:noindex:

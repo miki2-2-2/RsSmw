@@ -1,0 +1,20 @@
+Sum
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce:IQ:OUTPut:DIGital:BBMM<Channel>:SRATe:SUM
+
+.. code-block:: python
+
+	SOURce:IQ:OUTPut:DIGital:BBMM<Channel>:SRATe:SUM
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Output_.Digital_.Bbmm_.SymbolRate_.Sum.Sum
+	:members:
+	:undoc-members:
+	:noindex:

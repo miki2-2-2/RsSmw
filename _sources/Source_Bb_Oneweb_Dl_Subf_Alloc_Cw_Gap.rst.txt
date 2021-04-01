@@ -1,0 +1,20 @@
+Gap
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:GAP
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:GAP
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.Subf_.Alloc_.Cw_.Gap.Gap
+	:members:
+	:undoc-members:
+	:noindex:

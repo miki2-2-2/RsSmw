@@ -1,0 +1,20 @@
+Hostname
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ESEQuencer:RTCI:SEQuencer<Stream>:NETWork:HOSTname
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ESEQuencer:RTCI:SEQuencer<Stream>:NETWork:HOSTname
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.Rtci_.Sequencer_.Network_.Hostname.Hostname
+	:members:
+	:undoc-members:
+	:noindex:

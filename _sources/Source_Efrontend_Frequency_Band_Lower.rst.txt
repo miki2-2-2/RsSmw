@@ -1,0 +1,20 @@
+Lower
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:EFRontend:FREQuency:BAND<Channel>:LOWer
+
+.. code-block:: python
+
+	SOURce<HwInstance>:EFRontend:FREQuency:BAND<Channel>:LOWer
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Efrontend_.Frequency_.Band_.Lower.Lower
+	:members:
+	:undoc-members:
+	:noindex:

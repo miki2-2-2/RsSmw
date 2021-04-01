@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:QZSS<Stream>:SIGNal:L2Band:L2C:DATA:NMESsage:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:QZSS<Stream>:SIGNal:L2Band:L2C:DATA:NMESsage:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Qzss_.Signal_.L2Band_.L2C_.Data_.Nmessage_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

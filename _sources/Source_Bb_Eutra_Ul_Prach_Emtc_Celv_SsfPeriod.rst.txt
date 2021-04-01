@@ -1,0 +1,20 @@
+SsfPeriod
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:PRACh:EMTC:CELV<Channel>:SSFPeriod
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:PRACh:EMTC:CELV<Channel>:SSFPeriod
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Prach_.Emtc_.Celv_.SsfPeriod.SsfPeriod
+	:members:
+	:undoc-members:
+	:noindex:

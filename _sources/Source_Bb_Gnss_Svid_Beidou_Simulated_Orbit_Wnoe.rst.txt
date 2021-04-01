@@ -1,0 +1,20 @@
+Wnoe
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIMulated:ORBit:WNOE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIMulated:ORBit:WNOE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Beidou_.Simulated_.Orbit_.Wnoe.Wnoe
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:SCODe:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:SCODe:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Scode_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

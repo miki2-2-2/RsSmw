@@ -1,0 +1,20 @@
+Gidh
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:VHTControl:GIDH
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:VHTControl:GIDH
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mac_.VhtControl_.Gidh.Gidh
+	:members:
+	:undoc-members:
+	:noindex:

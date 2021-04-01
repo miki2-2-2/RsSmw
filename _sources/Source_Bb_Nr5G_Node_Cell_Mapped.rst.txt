@@ -1,0 +1,20 @@
+Mapped
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:MAPPed
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:MAPPed
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Mapped.Mapped
+	:members:
+	:undoc-members:
+	:noindex:

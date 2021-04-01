@@ -1,0 +1,20 @@
+NtiPresent
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:FCONtrol:NTIPresent
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:FCONtrol:NTIPresent
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mac_.Fcontrol_.NtiPresent.NtiPresent
+	:members:
+	:undoc-members:
+	:noindex:

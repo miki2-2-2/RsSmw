@@ -1,0 +1,30 @@
+Xpdsch
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Alloc_.Xpdsch.Xpdsch
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.v5G.dl.subf.alloc.xpdsch.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_V5G_Dl_Subf_Alloc_Xpdsch_Dmrs.rst
+	Source_Bb_V5G_Dl_Subf_Alloc_Xpdsch_Nscid.rst
+	Source_Bb_V5G_Dl_Subf_Alloc_Xpdsch_Pcrs.rst

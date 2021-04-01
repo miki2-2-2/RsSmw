@@ -1,0 +1,20 @@
+Offset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SIGNal:L5Band:E5B:POWer:OFFset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SIGNal:L5Band:E5B:POWer:OFFset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Galileo_.Signal_.L5Band_.E5B_.Power_.Offset.Offset
+	:members:
+	:undoc-members:
+	:noindex:

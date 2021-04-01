@@ -1,0 +1,20 @@
+CltMmode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:QZSS<Stream>:NMESsage:NAV:EPHemeris:CLTMode
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:QZSS<Stream>:NMESsage:NAV:EPHemeris:CLTMode
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Qzss_.Nmessage_.Nav_.Ephemeris_.CltMmode.CltMmode
+	:members:
+	:undoc-members:
+	:noindex:

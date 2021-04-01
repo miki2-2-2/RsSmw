@@ -1,0 +1,20 @@
+Crate
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPCCh:E:FRC:CRATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPCCh:E:FRC:CRATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Hsupa_.Dpcch_.E_.Frc_.Crate.Crate
+	:members:
+	:undoc-members:
+	:noindex:

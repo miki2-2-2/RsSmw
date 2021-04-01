@@ -1,0 +1,20 @@
+Adjust
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:LRF:ADJust
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:LRF:ADJust
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Lrf_.Adjust.Adjust
+	:members:
+	:undoc-members:
+	:noindex:

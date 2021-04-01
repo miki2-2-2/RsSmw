@@ -1,0 +1,20 @@
+LoTime
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:LOTime
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:LOTime
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Stereo_.Grps_.Gt_.LoTime.LoTime
+	:members:
+	:undoc-members:
+	:noindex:

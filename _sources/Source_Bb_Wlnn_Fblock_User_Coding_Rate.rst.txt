@@ -1,0 +1,20 @@
+Rate
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:CODing:RATE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:CODing:RATE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.User_.Coding_.Rate.Rate
+	:members:
+	:undoc-members:
+	:noindex:

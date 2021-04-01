@@ -1,0 +1,36 @@
+H<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.gbas.vdb.mconfig.sgDefinition.h.repcap_stream_get()
+	driver.source.bb.gbas.vdb.mconfig.sgDefinition.h.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Mconfig_.SgDefinition_.H.H
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.gbas.vdb.mconfig.sgDefinition.h.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Gbas_Vdb_Mconfig_SgDefinition_H_State.rst

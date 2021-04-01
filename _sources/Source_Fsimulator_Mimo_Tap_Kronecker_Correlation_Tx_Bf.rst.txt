@@ -1,0 +1,39 @@
+Bf<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.fsimulator.mimo.tap.kronecker.correlation.tx.bf.repcap_stream_get()
+	driver.source.fsimulator.mimo.tap.kronecker.correlation.tx.bf.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Tap_.Kronecker_.Correlation_.Tx_.Bf.Bf
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.mimo.tap.kronecker.correlation.tx.bf.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Fsimulator_Mimo_Tap_Kronecker_Correlation_Tx_Bf_Imaginary.rst
+	Source_Fsimulator_Mimo_Tap_Kronecker_Correlation_Tx_Bf_Magnitude.rst
+	Source_Fsimulator_Mimo_Tap_Kronecker_Correlation_Tx_Bf_Phase.rst
+	Source_Fsimulator_Mimo_Tap_Kronecker_Correlation_Tx_Bf_Real.rst

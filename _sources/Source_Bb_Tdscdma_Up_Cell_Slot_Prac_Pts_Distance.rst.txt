@@ -1,0 +1,20 @@
+Distance
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:PRAC:PTS:DISTance
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:PRAC:PTS:DISTance
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Slot_.Prac_.Pts_.Distance.Distance
+	:members:
+	:undoc-members:
+	:noindex:

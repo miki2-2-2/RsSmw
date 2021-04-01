@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:USER:RX<Channel>:VEHicle:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:USER:RX<Channel>:VEHicle:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Rx_.Vehicle_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

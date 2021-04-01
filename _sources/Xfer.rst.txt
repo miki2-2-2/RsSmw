@@ -1,0 +1,20 @@
+Xfer
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: XFER:RF<HwInstance>
+
+.. code-block:: python
+
+	XFER:RF<HwInstance>
+
+
+
+.. autoclass:: RsSmw.Implementations.Xfer.Xfer
+	:members:
+	:undoc-members:
+	:noindex:

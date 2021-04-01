@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:SMAPping:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:SMAPping:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Smapping_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

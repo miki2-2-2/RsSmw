@@ -1,0 +1,20 @@
+Magnitude
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:USER<AvailableUser>:BWPart<BandwidthPart>:ALLoc<Allocation>:APMap:COL<Column>:ROW<Row>:MAGNitude
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:USER<AvailableUser>:BWPart<BandwidthPart>:ALLoc<Allocation>:APMap:COL<Column>:ROW<Row>:MAGNitude
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Scheduling_.Cell_.Subf_.User_.BwPart_.Alloc_.ApMap_.Col_.Row_.Magnitude.Magnitude
+	:members:
+	:undoc-members:
+	:noindex:

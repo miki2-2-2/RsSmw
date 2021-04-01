@@ -1,0 +1,20 @@
+ScIndex
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:CA:CELL<Channel>:SCINdex
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:CA:CELL<Channel>:SCINdex
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Ca_.Cell_.ScIndex.ScIndex
+	:members:
+	:undoc-members:
+	:noindex:

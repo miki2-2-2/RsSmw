@@ -1,0 +1,20 @@
+Ttime
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:TTIMe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:TTIMe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Stereo_.Grps_.Gt_.Ttime.Ttime
+	:members:
+	:undoc-members:
+	:noindex:

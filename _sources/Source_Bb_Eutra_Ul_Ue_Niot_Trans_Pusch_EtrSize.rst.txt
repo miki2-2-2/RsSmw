@@ -1,0 +1,20 @@
+EtrSize
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:TRANs<Channel>:PUSCh:ETRSize
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:TRANs<Channel>:PUSCh:ETRSize
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Niot_.Trans_.Pusch_.EtrSize.EtrSize
+	:members:
+	:undoc-members:
+	:noindex:

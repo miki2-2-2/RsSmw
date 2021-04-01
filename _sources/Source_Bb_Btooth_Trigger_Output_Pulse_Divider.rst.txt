@@ -1,0 +1,20 @@
+Divider
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:BTOoth:TRIGger:OUTPut<Channel>:PULSe:DIVider
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:BTOoth:TRIGger:OUTPut<Channel>:PULSe:DIVider
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Btooth_.Trigger_.Output_.Pulse_.Divider.Divider
+	:members:
+	:undoc-members:
+	:noindex:

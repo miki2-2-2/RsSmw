@@ -1,0 +1,20 @@
+Magnitude
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:KRONecker:CORRelation:TX:AH<Stream>:MAGNitude
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:KRONecker:CORRelation:TX:AH<Stream>:MAGNitude
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Tap_.Kronecker_.Correlation_.Tx_.Ah_.Magnitude.Magnitude
+	:members:
+	:undoc-members:
+	:noindex:

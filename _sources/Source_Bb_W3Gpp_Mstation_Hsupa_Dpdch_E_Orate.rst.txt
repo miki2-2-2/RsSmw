@@ -1,0 +1,20 @@
+Orate
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPDCh:E:ORATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPDCh:E:ORATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Hsupa_.Dpdch_.E_.Orate.Orate
+	:members:
+	:undoc-members:
+	:noindex:

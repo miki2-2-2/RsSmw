@@ -1,0 +1,20 @@
+Real
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:EMTC:ALLoc<Channel>:PRECoding:AP<AntennaPort>:BB<Stream>:REAL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:EMTC:ALLoc<Channel>:PRECoding:AP<AntennaPort>:BB<Stream>:REAL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Emtc_.Alloc_.Precoding_.Ap_.Bb_.Real.Real
+	:members:
+	:undoc-members:
+	:noindex:

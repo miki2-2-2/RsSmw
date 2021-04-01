@@ -1,0 +1,20 @@
+SuConfiguration
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:CA:CELL<Channel>:SUConfiguration
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:CA:CELL<Channel>:SUConfiguration
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ca_.Cell_.SuConfiguration.SuConfiguration
+	:members:
+	:undoc-members:
+	:noindex:

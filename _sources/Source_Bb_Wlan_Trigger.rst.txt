@@ -1,0 +1,49 @@
+Trigger
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:TRIGger:RMODe
+	single: SOURce<HwInstance>:BB:WLAN:TRIGger:SLENgth
+	single: SOURce<HwInstance>:BB:WLAN:TRIGger:SLUNit
+	single: SOURce<HwInstance>:BB:WLAN:TRIGger:SOURce
+	single: SOURce<HwInstance>:BB:WLAN:TRIGger:SEQuence
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:TRIGger:RMODe
+	SOURce<HwInstance>:BB:WLAN:TRIGger:SLENgth
+	SOURce<HwInstance>:BB:WLAN:TRIGger:SLUNit
+	SOURce<HwInstance>:BB:WLAN:TRIGger:SOURce
+	SOURce<HwInstance>:BB:WLAN:TRIGger:SEQuence
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Trigger.Trigger
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.wlan.trigger.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Wlan_Trigger_Arm.rst
+	Source_Bb_Wlan_Trigger_Execute.rst
+	Source_Bb_Wlan_Trigger_External.rst
+	Source_Bb_Wlan_Trigger_Obaseband.rst
+	Source_Bb_Wlan_Trigger_Output.rst

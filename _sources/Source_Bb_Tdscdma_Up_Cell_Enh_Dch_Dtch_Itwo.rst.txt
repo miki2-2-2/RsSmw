@@ -1,0 +1,20 @@
+Itwo
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:DTCH<Channel>:ITWO
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:DTCH<Channel>:ITWO
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Enh_.Dch_.Dtch_.Itwo.Itwo
+	:members:
+	:undoc-members:
+	:noindex:

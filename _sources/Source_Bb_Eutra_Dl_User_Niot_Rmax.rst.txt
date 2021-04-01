@@ -1,0 +1,20 @@
+Rmax
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:NIOT:RMAX
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:NIOT:RMAX
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Niot_.Rmax.Rmax
+	:members:
+	:undoc-members:
+	:noindex:

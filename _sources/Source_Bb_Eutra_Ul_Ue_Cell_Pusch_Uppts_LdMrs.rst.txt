@@ -1,0 +1,20 @@
+LdMrs
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:CELL<CarrierComponent>:PUSCh:UPPTs:LDMRs
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:CELL<CarrierComponent>:PUSCh:UPPTs:LDMRs
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Cell_.Pusch_.Uppts_.LdMrs.LdMrs
+	:members:
+	:undoc-members:
+	:noindex:

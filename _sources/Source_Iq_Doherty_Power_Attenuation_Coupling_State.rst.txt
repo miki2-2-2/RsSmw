@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce:IQ:DOHerty<Stream>:POWer:ATTenuation:COUPling:STATe
+
+.. code-block:: python
+
+	SOURce:IQ:DOHerty<Stream>:POWer:ATTenuation:COUPling:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Power_.Attenuation_.Coupling_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Frequency
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAD:TRIGger:OUTPut<Channel>:PULSe:FREQuency
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAD:TRIGger:OUTPut<Channel>:PULSe:FREQuency
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlad_.Trigger_.Output_.Pulse_.Frequency.Frequency
+	:members:
+	:undoc-members:
+	:noindex:

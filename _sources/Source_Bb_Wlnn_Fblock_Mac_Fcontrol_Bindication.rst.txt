@@ -1,0 +1,20 @@
+Bindication
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:FCONtrol:BINDication
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:FCONtrol:BINDication
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mac_.Fcontrol_.Bindication.Bindication
+	:members:
+	:undoc-members:
+	:noindex:

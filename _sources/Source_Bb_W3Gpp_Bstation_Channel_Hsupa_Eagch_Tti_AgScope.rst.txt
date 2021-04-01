@@ -1,0 +1,20 @@
+AgScope
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSUPa:EAGCh:TTI<TwoStreams>:AGSCope
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSUPa:EAGCh:TTI<TwoStreams>:AGSCope
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Channel_.Hsupa_.Eagch_.Tti_.AgScope.AgScope
+	:members:
+	:undoc-members:
+	:noindex:

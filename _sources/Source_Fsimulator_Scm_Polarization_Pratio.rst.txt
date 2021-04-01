@@ -1,0 +1,22 @@
+Pratio
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:SCM:POLarization:PRATio:HORizontal
+	single: SOURce<HwInstance>:FSIMulator:SCM:POLarization:PRATio:VERTical
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:SCM:POLarization:PRATio:HORizontal
+	SOURce<HwInstance>:FSIMulator:SCM:POLarization:PRATio:VERTical
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Scm_.Polarization_.Pratio.Pratio
+	:members:
+	:undoc-members:
+	:noindex:

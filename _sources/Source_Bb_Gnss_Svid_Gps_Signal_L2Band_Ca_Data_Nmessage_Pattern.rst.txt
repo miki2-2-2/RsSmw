@@ -1,0 +1,20 @@
+Pattern
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GPS<Stream>:SIGNal:L2Band:CA:DATA:NMESsage:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GPS<Stream>:SIGNal:L2Band:CA:DATA:NMESsage:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Gps_.Signal_.L2Band_.Ca_.Data_.Nmessage_.Pattern.Pattern
+	:members:
+	:undoc-members:
+	:noindex:

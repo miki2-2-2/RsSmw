@@ -1,0 +1,20 @@
+Offset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:SBAS<Stream>:SIGNal:L1Band:CA:POWer:OFFset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:SBAS<Stream>:SIGNal:L1Band:CA:POWer:OFFset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Sbas_.Signal_.L1Band_.Ca_.Power_.Offset.Offset
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Hactive
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:LORA:FCONfiguration:HACTive:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:LORA:FCONfiguration:HACTive:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Lora_.Fconfiguration_.Hactive.Hactive
+	:members:
+	:undoc-members:
+	:noindex:

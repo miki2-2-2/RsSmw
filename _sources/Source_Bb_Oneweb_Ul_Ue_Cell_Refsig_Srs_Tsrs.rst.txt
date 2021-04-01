@@ -1,0 +1,20 @@
+Tsrs
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS<SoundRefSignalIx>:TSRS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS<SoundRefSignalIx>:TSRS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Ue_.Cell_.Refsig_.Srs_.Tsrs.Tsrs
+	:members:
+	:undoc-members:
+	:noindex:

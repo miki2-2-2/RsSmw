@@ -1,0 +1,20 @@
+Modulation
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:HSUPA:MODulation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:HSUPA:MODulation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Enh_.Dch_.Hsupa_.Modulation.Modulation
+	:members:
+	:undoc-members:
+	:noindex:

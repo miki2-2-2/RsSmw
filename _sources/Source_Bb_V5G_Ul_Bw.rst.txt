@@ -1,0 +1,36 @@
+Bw<Bandwidth>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr32
+	rc = driver.source.bb.v5G.ul.bw.repcap_bandwidth_get()
+	driver.source.bb.v5G.ul.bw.repcap_bandwidth_set(repcap.Bandwidth.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:BW<Bandwidth>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:BW<Bandwidth>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Bw.Bw
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.v5G.ul.bw.clone()

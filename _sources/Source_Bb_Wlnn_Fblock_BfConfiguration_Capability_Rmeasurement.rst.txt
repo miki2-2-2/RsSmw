@@ -1,0 +1,20 @@
+Rmeasurement
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BFConfiguration:CAPability:RMEasurement
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BFConfiguration:CAPability:RMEasurement
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.BfConfiguration_.Capability_.Rmeasurement.Rmeasurement
+	:members:
+	:undoc-members:
+	:noindex:

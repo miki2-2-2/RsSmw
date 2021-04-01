@@ -1,0 +1,20 @@
+ScpiRatio
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:SCPIRatio
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:SCPIRatio
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gsm_.Frame_.Slot_.SubChannel_.User_.ScpiRatio.ScpiRatio
+	:members:
+	:undoc-members:
+	:noindex:

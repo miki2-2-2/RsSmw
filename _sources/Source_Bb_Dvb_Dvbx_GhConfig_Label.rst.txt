@@ -1,0 +1,20 @@
+Label
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:DVBX:GHConfig:LABel:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:DVBX:GHConfig:LABel:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbx_.GhConfig_.Label.Label
+	:members:
+	:undoc-members:
+	:noindex:

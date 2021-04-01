@@ -1,0 +1,22 @@
+Tmod
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:SETTing:TMOD:DL
+	single: SOURce<HwInstance>:BB:EUTRa:SETTing:TMOD:TDD
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:SETTing:TMOD:DL
+	SOURce<HwInstance>:BB:EUTRa:SETTing:TMOD:TDD
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Setting_.Tmod.Tmod
+	:members:
+	:undoc-members:
+	:noindex:

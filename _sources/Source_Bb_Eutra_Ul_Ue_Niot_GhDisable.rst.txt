@@ -1,0 +1,20 @@
+GhDisable
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:GHDisable
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:GHDisable
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Niot_.GhDisable.GhDisable
+	:members:
+	:undoc-members:
+	:noindex:

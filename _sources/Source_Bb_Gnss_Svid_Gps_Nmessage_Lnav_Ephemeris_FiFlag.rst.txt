@@ -1,0 +1,20 @@
+FiFlag
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GPS<Stream>:NMESsage:LNAV:EPHemeris:FIFLag
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GPS<Stream>:NMESsage:LNAV:EPHemeris:FIFLag
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Gps_.Nmessage_.Lnav_.Ephemeris_.FiFlag.FiFlag
+	:members:
+	:undoc-members:
+	:noindex:

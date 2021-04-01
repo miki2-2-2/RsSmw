@@ -1,0 +1,20 @@
+Pep
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:INPut:PEP
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:INPut:PEP
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.InputPy_.Pep.Pep
+	:members:
+	:undoc-members:
+	:noindex:

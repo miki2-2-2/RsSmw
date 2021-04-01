@@ -1,0 +1,20 @@
+Slfmt
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:TRIGger:OUTPut<Channel>:SSC:SLFMt
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:TRIGger:OUTPut<Channel>:SSC:SLFMt
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Trigger_.Output_.Ssc_.Slfmt.Slfmt
+	:members:
+	:undoc-members:
+	:noindex:

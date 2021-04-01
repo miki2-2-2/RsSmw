@@ -1,0 +1,20 @@
+Bits
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:HARQ:BITS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:HARQ:BITS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Subf_.Alloc_.Pucch_.Harq_.Bits.Bits
+	:members:
+	:undoc-members:
+	:noindex:

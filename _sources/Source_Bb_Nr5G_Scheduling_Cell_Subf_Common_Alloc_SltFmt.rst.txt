@@ -1,0 +1,20 @@
+SltFmt
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:COMMon:ALLoc<Allocation>:SLTFmt
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:COMMon:ALLoc<Allocation>:SLTFmt
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Scheduling_.Cell_.Subf_.Common_.Alloc_.SltFmt.SltFmt
+	:members:
+	:undoc-members:
+	:noindex:

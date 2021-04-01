@@ -1,0 +1,20 @@
+WbrbOffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:EMTC:TRANs<Channel>:WBRBoffset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:EMTC:TRANs<Channel>:WBRBoffset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Emtc_.Trans_.WbrbOffset.WbrbOffset
+	:members:
+	:undoc-members:
+	:noindex:

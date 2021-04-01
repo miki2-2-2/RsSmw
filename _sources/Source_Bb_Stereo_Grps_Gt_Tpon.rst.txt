@@ -1,0 +1,20 @@
+Tpon
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:TPON
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:TPON
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Stereo_.Grps_.Gt_.Tpon.Tpon
+	:members:
+	:undoc-members:
+	:noindex:

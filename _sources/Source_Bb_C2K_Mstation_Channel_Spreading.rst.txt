@@ -1,0 +1,20 @@
+Spreading
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:MSTation<Stream>:CHANnel<Channel>:SPReading
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:MSTation<Stream>:CHANnel<Channel>:SPReading
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Mstation_.Channel_.Spreading.Spreading
+	:members:
+	:undoc-members:
+	:noindex:

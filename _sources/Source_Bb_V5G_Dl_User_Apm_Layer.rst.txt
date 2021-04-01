@@ -1,0 +1,36 @@
+Layer<Layer>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr7
+	rc = driver.source.bb.v5G.dl.user.apm.layer.repcap_layer_get()
+	driver.source.bb.v5G.dl.user.apm.layer.repcap_layer_set(repcap.Layer.Nr0)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.User_.Apm_.Layer.Layer
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.v5G.dl.user.apm.layer.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_V5G_Dl_User_Apm_Layer_Ap.rst

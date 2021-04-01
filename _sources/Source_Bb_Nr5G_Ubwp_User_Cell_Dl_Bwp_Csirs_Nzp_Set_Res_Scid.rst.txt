@@ -1,0 +1,20 @@
+Scid
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:DL:BWP<NumSuffix>:CSIRs:NZP:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:SCID
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:DL:BWP<NumSuffix>:CSIRs:NZP:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:SCID
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Dl_.Bwp_.Csirs_.Nzp_.Set_.Res_.Scid.Scid
+	:members:
+	:undoc-members:
+	:noindex:

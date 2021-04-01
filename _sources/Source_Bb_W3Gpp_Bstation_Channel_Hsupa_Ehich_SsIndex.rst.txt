@@ -1,0 +1,20 @@
+SsIndex
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSUPa:EHICh:SSINdex
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSUPa:EHICh:SSINdex
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Channel_.Hsupa_.Ehich_.SsIndex.SsIndex
+	:members:
+	:undoc-members:
+	:noindex:

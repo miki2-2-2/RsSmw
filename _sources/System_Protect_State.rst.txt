@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SYSTem:PROTect<Channel>:STATe
+
+.. code-block:: python
+
+	SYSTem:PROTect<Channel>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.System_.Protect_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

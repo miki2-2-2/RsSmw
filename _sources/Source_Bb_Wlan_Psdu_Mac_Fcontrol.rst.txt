@@ -1,0 +1,42 @@
+Fcontrol
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:FDS
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:MDATa
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:MFRagments
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:ORDer
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:PMANagement
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:PVERsion
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:RETRy
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:SUBType
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:TDS
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:TYPE
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:WEP
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:FDS
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:MDATa
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:MFRagments
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:ORDer
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:PMANagement
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:PVERsion
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:RETRy
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:SUBType
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:TDS
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:TYPE
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol:WEP
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCONtrol
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Psdu_.Mac_.Fcontrol.Fcontrol
+	:members:
+	:undoc-members:
+	:noindex:

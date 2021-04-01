@@ -1,0 +1,20 @@
+Wnoc
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIMulated:CLOCk:WNOC
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIMulated:CLOCk:WNOC
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Beidou_.Simulated_.Clock_.Wnoc.Wnoc
+	:members:
+	:undoc-members:
+	:noindex:

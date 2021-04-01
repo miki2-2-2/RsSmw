@@ -1,0 +1,20 @@
+Mcsc
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:RNTI:MCSC
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:RNTI:MCSC
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Rnti_.Mcsc.Mcsc
+	:members:
+	:undoc-members:
+	:noindex:

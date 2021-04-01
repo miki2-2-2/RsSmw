@@ -1,0 +1,20 @@
+Pep
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DOHerty<Stream>:OUTPut:PEP
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DOHerty<Stream>:OUTPut:PEP
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Output_.Pep.Pep
+	:members:
+	:undoc-members:
+	:noindex:

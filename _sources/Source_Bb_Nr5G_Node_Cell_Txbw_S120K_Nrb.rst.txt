@@ -1,0 +1,20 @@
+Nrb
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:TXBW:S120K<Stream>:NRB
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:TXBW:S120K<Stream>:NRB
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Txbw_.S120K_.Nrb.Nrb
+	:members:
+	:undoc-members:
+	:noindex:

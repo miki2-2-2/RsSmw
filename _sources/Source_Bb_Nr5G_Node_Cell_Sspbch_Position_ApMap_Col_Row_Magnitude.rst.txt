@@ -1,0 +1,20 @@
+Magnitude
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:POSition:APMap<AntennaPortMap>:COL<Column>:ROW<Row>:MAGNitude
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:POSition:APMap<AntennaPortMap>:COL<Column>:ROW<Row>:MAGNitude
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Sspbch_.Position_.ApMap_.Col_.Row_.Magnitude.Magnitude
+	:members:
+	:undoc-members:
+	:noindex:

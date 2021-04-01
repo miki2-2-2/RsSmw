@@ -1,0 +1,20 @@
+Data
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DEL:GROup<Stream>:PATH<Channel>:CUSTom:DATA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DEL:GROup<Stream>:PATH<Channel>:CUSTom:DATA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DelPy_.Group_.Path_.Custom_.Data.Data
+	:members:
+	:undoc-members:
+	:noindex:

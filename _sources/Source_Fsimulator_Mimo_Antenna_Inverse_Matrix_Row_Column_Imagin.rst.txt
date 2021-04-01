@@ -1,0 +1,20 @@
+Imagin
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:ANTenna:INVerse:MATRix:ROW<Stream>:COLumn<Channel>:IMAGin
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:ANTenna:INVerse:MATRix:ROW<Stream>:COLumn<Channel>:IMAGin
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Antenna_.Inverse_.Matrix_.Row_.Column_.Imagin.Imagin
+	:members:
+	:undoc-members:
+	:noindex:

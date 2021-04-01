@@ -1,0 +1,20 @@
+Catalog
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:SHAPing:NORMalized:DATA:CATalog
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:SHAPing:NORMalized:DATA:CATalog
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Shaping_.Normalized_.Data_.Catalog.Catalog
+	:members:
+	:undoc-members:
+	:noindex:

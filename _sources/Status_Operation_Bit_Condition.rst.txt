@@ -1,0 +1,20 @@
+Condition
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: STATus:OPERation:BIT<BitNumber>:CONDition
+
+.. code-block:: python
+
+	STATus:OPERation:BIT<BitNumber>:CONDition
+
+
+
+.. autoclass:: RsSmw.Implementations.Status_.Operation_.Bit_.Condition.Condition
+	:members:
+	:undoc-members:
+	:noindex:

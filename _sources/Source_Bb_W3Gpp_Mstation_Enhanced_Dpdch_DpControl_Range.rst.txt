@@ -1,0 +1,22 @@
+Range
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:DPControl:RANGe:DOWN
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:DPControl:RANGe:UP
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:DPControl:RANGe:DOWN
+	SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:DPControl:RANGe:UP
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Enhanced_.Dpdch_.DpControl_.Range.Range
+	:members:
+	:undoc-members:
+	:noindex:

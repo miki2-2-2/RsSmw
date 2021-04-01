@@ -1,0 +1,36 @@
+Rlm<RlmPart>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr8
+	rc = driver.source.bb.gnss.svid.galileo.nmessage.inav.ephemeris.sar.rlm.repcap_rlmPart_get()
+	driver.source.bb.gnss.svid.galileo.nmessage.inav.ephemeris.sar.rlm.repcap_rlmPart_set(repcap.RlmPart.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:NMESsage:INAV:EPHemeris:SAR:RLM<RlmPart>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:NMESsage:INAV:EPHemeris:SAR:RLM<RlmPart>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Galileo_.Nmessage_.Inav_.Ephemeris_.Sar_.Rlm.Rlm
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.gnss.svid.galileo.nmessage.inav.ephemeris.sar.rlm.clone()

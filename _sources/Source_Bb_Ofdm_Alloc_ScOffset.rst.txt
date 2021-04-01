@@ -1,0 +1,20 @@
+ScOffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:OFDM:ALLoc<Channel>:SCOFfset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:OFDM:ALLoc<Channel>:SCOFfset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Ofdm_.Alloc_.ScOffset.ScOffset
+	:members:
+	:undoc-members:
+	:noindex:

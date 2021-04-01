@@ -1,0 +1,20 @@
+Toffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:SDYNamics:TOFFset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:SDYNamics:TOFFset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Navic_.Sdynamics_.Toffset.Toffset
+	:members:
+	:undoc-members:
+	:noindex:

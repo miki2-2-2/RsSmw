@@ -1,0 +1,24 @@
+Date
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SYSTem:DATE:LOCal
+	single: SYSTem:DATE:UTC
+	single: SYSTem:DATE
+
+.. code-block:: python
+
+	SYSTem:DATE:LOCal
+	SYSTem:DATE:UTC
+	SYSTem:DATE
+
+
+
+.. autoclass:: RsSmw.Implementations.System_.Date.Date
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Nretrans
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDISc:NRETrans
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDISc:NRETrans
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Rdisc_.Nretrans.Nretrans
+	:members:
+	:undoc-members:
+	:noindex:

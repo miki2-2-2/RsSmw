@@ -1,0 +1,20 @@
+AvRegs
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:AVRegs
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:AVRegs
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Encc_.Xpdcch_.AvRegs.AvRegs
+	:members:
+	:undoc-members:
+	:noindex:

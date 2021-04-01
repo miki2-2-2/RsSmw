@@ -1,0 +1,20 @@
+Sw
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: TEST<HwInstance>:SW:SCMD
+
+.. code-block:: python
+
+	TEST<HwInstance>:SW:SCMD
+
+
+
+.. autoclass:: RsSmw.Implementations.Test_.Sw.Sw
+	:members:
+	:undoc-members:
+	:noindex:

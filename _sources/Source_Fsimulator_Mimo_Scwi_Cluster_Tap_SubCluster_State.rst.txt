@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:SCWI:CLUSter<Channel>:TAP<Stream>:SUBCluster<SubCluster>:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:SCWI:CLUSter<Channel>:TAP<Stream>:SUBCluster<SubCluster>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Scwi_.Cluster_.Tap_.SubCluster_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

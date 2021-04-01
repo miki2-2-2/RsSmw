@@ -1,0 +1,20 @@
+Bspreading
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:BSPReading:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:PSDU:BSPReading:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Psdu_.Bspreading.Bspreading
+	:members:
+	:undoc-members:
+	:noindex:

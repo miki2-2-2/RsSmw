@@ -1,0 +1,20 @@
+Fduration
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:DATA:FDURation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:DATA:FDURation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Data_.Fduration.Fduration
+	:members:
+	:undoc-members:
+	:noindex:

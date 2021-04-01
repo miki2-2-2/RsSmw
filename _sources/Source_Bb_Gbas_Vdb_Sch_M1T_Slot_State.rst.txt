@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GBAS:VDB<Channel>:SCH:M1T<Stream>:SLOT:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GBAS:VDB<Channel>:SCH:M1T<Stream>:SLOT:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Sch_.M1T_.Slot_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

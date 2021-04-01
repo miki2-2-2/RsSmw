@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SCONfiguration:OUTPut:MAPPing:BBMM<Channel>:CHANnel:STReam<Stream>:STATe
+
+.. code-block:: python
+
+	SCONfiguration:OUTPut:MAPPing:BBMM<Channel>:CHANnel:STReam<Stream>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Sconfiguration_.Output_.Mapping_.Bbmm_.Channel_.Stream_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

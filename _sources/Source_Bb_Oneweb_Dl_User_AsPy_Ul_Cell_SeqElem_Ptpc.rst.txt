@@ -1,0 +1,20 @@
+Ptpc
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:AS:UL:CELL<Stream>:SEQelem:PTPC
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:AS:UL:CELL<Stream>:SEQelem:PTPC
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.User_.AsPy_.Ul_.Cell_.SeqElem_.Ptpc.Ptpc
+	:members:
+	:undoc-members:
+	:noindex:

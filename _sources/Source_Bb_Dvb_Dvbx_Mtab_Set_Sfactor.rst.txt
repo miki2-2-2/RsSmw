@@ -1,0 +1,20 @@
+Sfactor
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:DVBX:MTAB<Channel>:SET<Stream>:SFACtor
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:DVBX:MTAB<Channel>:SET<Stream>:SFACtor
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbx_.Mtab_.Set_.Sfactor.Sfactor
+	:members:
+	:undoc-members:
+	:noindex:

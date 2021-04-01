@@ -1,0 +1,28 @@
+Measurement
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Measurement.Measurement
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.doherty.measurement.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Doherty_Measurement_State.rst

@@ -1,0 +1,28 @@
+Qwcode
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.Cgroup_.Coffset_.Qwcode.Qwcode
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.c2K.bstation.cgroup.coffset.qwcode.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_C2K_Bstation_Cgroup_Coffset_Qwcode_State.rst

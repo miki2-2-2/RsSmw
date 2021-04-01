@@ -1,0 +1,36 @@
+Subf<SubframeIx>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr200
+	rc = driver.source.bb.v5G.ul.ue.cell.refsig.srs.sym.subf.repcap_subframeIx_get()
+	driver.source.bb.v5G.ul.ue.cell.refsig.srs.sym.subf.repcap_subframeIx_set(repcap.SubframeIx.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS<SoundRefSignalIx>:SYM<SymbolIx>:SUBF<SubframeIx>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS<SoundRefSignalIx>:SYM<SymbolIx>:SUBF<SubframeIx>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.Cell_.Refsig_.Srs_.Sym_.Subf.Subf
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.v5G.ul.ue.cell.refsig.srs.sym.subf.clone()

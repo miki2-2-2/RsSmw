@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPCCh:TPC:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPCCh:TPC:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Dpcch_.Tpc_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

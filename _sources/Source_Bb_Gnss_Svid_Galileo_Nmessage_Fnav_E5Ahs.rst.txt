@@ -1,0 +1,20 @@
+E5Ahs
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:NMESsage:FNAV:E5AHS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:NMESsage:FNAV:E5AHS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Galileo_.Nmessage_.Fnav_.E5Ahs.E5Ahs
+	:members:
+	:undoc-members:
+	:noindex:

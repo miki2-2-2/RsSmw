@@ -1,0 +1,20 @@
+Nsubbands
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDATa:NSUBbands
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDATa:NSUBbands
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Rdata_.Nsubbands.Nsubbands
+	:members:
+	:undoc-members:
+	:noindex:

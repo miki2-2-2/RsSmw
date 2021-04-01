@@ -1,0 +1,20 @@
+Pchannel
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:PPARameter:PCHannel:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:PPARameter:PCHannel:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Pparameter_.Pchannel.Pchannel
+	:members:
+	:undoc-members:
+	:noindex:

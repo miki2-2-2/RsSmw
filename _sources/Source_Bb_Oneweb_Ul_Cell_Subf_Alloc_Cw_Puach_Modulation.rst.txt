@@ -1,0 +1,20 @@
+Modulation
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:PUACh:MODulation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:PUACh:MODulation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Cell_.Subf_.Alloc_.Cw_.Puach_.Modulation.Modulation
+	:members:
+	:undoc-members:
+	:noindex:

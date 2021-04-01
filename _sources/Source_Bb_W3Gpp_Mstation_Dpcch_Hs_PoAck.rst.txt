@@ -1,0 +1,20 @@
+PoAck
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPCCh:HS:POACk
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPCCh:HS:POACk
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Dpcch_.Hs_.PoAck.PoAck
+	:members:
+	:undoc-members:
+	:noindex:

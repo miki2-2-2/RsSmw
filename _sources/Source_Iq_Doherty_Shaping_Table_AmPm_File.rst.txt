@@ -1,0 +1,31 @@
+File
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Shaping_.Table_.AmPm_.File.File
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.doherty.shaping.table.amPm.file.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Doherty_Shaping_Table_AmPm_File_Catalog.rst
+	Source_Iq_Doherty_Shaping_Table_AmPm_File_Data.rst
+	Source_Iq_Doherty_Shaping_Table_AmPm_File_New.rst
+	Source_Iq_Doherty_Shaping_Table_AmPm_File_Select.rst

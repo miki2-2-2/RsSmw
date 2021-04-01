@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SCONfiguration:OUTPut:MAPPing:IQOutput<Channel>:MODE
+
+.. code-block:: python
+
+	SCONfiguration:OUTPut:MAPPing:IQOutput<Channel>:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Sconfiguration_.Output_.Mapping_.IqOutput_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

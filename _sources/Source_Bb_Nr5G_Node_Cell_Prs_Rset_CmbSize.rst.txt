@@ -1,0 +1,20 @@
+CmbSize
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:CMBSize
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:CMBSize
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Prs_.Rset_.CmbSize.CmbSize
+	:members:
+	:undoc-members:
+	:noindex:

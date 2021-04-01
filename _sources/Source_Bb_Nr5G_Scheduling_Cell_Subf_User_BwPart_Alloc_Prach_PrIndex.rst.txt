@@ -1,0 +1,20 @@
+PrIndex
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:USER<AvailableUser>:BWPart<BandwidthPart>:ALLoc<Allocation>:PRACh:PRINdex
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:USER<AvailableUser>:BWPart<BandwidthPart>:ALLoc<Allocation>:PRACh:PRINdex
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Scheduling_.Cell_.Subf_.User_.BwPart_.Alloc_.Prach_.PrIndex.PrIndex
+	:members:
+	:undoc-members:
+	:noindex:

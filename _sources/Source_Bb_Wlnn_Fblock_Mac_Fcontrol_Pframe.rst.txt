@@ -1,0 +1,20 @@
+Pframe
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:FCONtrol:PFRame
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:FCONtrol:PFRame
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mac_.Fcontrol_.Pframe.Pframe
+	:members:
+	:undoc-members:
+	:noindex:

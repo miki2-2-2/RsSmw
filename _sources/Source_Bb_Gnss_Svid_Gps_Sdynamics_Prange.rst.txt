@@ -1,0 +1,20 @@
+Prange
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GPS<Stream>:SDYNamics:PRANge
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GPS<Stream>:SDYNamics:PRANge
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Gps_.Sdynamics_.Prange.Prange
+	:members:
+	:undoc-members:
+	:noindex:

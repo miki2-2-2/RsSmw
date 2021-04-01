@@ -1,0 +1,20 @@
+Bits
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:TRANs<Channel>:HARQ:BITS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:NIOT:TRANs<Channel>:HARQ:BITS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Niot_.Trans_.Harq_.Bits.Bits
+	:members:
+	:undoc-members:
+	:noindex:

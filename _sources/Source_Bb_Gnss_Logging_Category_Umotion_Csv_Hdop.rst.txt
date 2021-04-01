@@ -1,0 +1,36 @@
+Hdop<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.gnss.logging.category.umotion.csv.hdop.repcap_channel_get()
+	driver.source.bb.gnss.logging.category.umotion.csv.hdop.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:LOGGing:CATegory:UMOTion:CSV:HDOP<Channel>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:LOGGing:CATegory:UMOTion:CSV:HDOP<Channel>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Logging_.Category_.Umotion_.Csv_.Hdop.Hdop
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.gnss.logging.category.umotion.csv.hdop.clone()

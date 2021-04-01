@@ -1,0 +1,37 @@
+Macceleration
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:USER:RX<Channel>:TRAJectory:TDF:MACCeleration
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:USER:RX<Channel>:TRAJectory:TDF:MACCeleration
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Rx_.Trajectory_.Tdf_.Macceleration.Macceleration
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.dsSimulation.user.rx.trajectory.tdf.macceleration.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Fsimulator_DsSimulation_User_Rx_Trajectory_Tdf_Macceleration_State.rst

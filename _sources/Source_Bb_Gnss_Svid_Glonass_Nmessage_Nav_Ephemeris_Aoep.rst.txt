@@ -1,0 +1,20 @@
+Aoep
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GLONass<Stream>:NMESsage:NAV:EPHemeris:AOEP
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GLONass<Stream>:NMESsage:NAV:EPHemeris:AOEP
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Glonass_.Nmessage_.Nav_.Ephemeris_.Aoep.Aoep
+	:members:
+	:undoc-members:
+	:noindex:

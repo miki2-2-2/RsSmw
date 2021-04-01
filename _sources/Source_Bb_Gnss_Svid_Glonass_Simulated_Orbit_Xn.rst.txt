@@ -1,0 +1,20 @@
+Xn
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GLONass<Stream>:SIMulated:ORBit:XN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GLONass<Stream>:SIMulated:ORBit:XN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Glonass_.Simulated_.Orbit_.Xn.Xn
+	:members:
+	:undoc-members:
+	:noindex:

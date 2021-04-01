@@ -1,0 +1,41 @@
+Pdsch
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Dl_.Bwp_.Pdsch.Pdsch
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.nr5G.ubwp.user.cell.dl.bwp.pdsch.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Cbgf.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Dmta.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Dmtb.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Dsid.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_McbGroups.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_McsTable.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Mcwdci.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Prec.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_RbgSize.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_ResAlloc.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Scrambling.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_Td.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_TdaNum.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Pdsch_VpInter.rst

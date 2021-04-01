@@ -1,0 +1,20 @@
+Bsrs
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS<SoundRefSignalIx>:BSRS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS<SoundRefSignalIx>:BSRS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Ue_.Cell_.Refsig_.Srs_.Bsrs.Bsrs
+	:members:
+	:undoc-members:
+	:noindex:

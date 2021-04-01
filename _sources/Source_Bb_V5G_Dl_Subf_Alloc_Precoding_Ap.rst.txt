@@ -1,0 +1,20 @@
+Ap
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ALLoc<Channel>:PRECoding:AP
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ALLoc<Channel>:PRECoding:AP
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Alloc_.Precoding_.Ap.Ap
+	:members:
+	:undoc-members:
+	:noindex:

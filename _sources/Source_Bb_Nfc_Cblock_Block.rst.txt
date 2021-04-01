@@ -1,0 +1,40 @@
+Block<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.nfc.cblock.block.repcap_stream_get()
+	driver.source.bb.nfc.cblock.block.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.Block.Block
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.nfc.cblock.block.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Nfc_Cblock_Block_Bdata.rst
+	Source_Bb_Nfc_Cblock_Block_Bnumber.rst
+	Source_Bb_Nfc_Cblock_Block_Len.rst
+	Source_Bb_Nfc_Cblock_Block_Locked.rst
+	Source_Bb_Nfc_Cblock_Block_SlOrder.rst

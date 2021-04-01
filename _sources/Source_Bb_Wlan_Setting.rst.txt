@@ -1,0 +1,41 @@
+Setting
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:SETTing:CATalog
+	single: SOURce<HwInstance>:BB:WLAN:SETTing:DELete
+	single: SOURce<HwInstance>:BB:WLAN:SETTing:LOAD
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:SETTing:CATalog
+	SOURce<HwInstance>:BB:WLAN:SETTing:DELete
+	SOURce<HwInstance>:BB:WLAN:SETTing:LOAD
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Setting.Setting
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.wlan.setting.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Wlan_Setting_Store.rst

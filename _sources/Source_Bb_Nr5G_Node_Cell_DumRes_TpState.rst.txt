@@ -1,0 +1,20 @@
+TpState
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:DUMRes:TPSTate
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:DUMRes:TPSTate
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.DumRes_.TpState.TpState
+	:members:
+	:undoc-members:
+	:noindex:

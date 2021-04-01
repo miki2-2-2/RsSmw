@@ -1,0 +1,20 @@
+Rba
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:EMTC:DCI:ALLoc<Channel>:RBA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:EMTC:DCI:ALLoc<Channel>:RBA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Emtc_.Dci_.Alloc_.Rba.Rba
+	:members:
+	:undoc-members:
+	:noindex:

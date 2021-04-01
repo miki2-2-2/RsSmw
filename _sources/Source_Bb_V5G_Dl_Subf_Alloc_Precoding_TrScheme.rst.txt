@@ -1,0 +1,20 @@
+TrScheme
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ALLoc<Channel>:PRECoding:TRSCheme
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ALLoc<Channel>:PRECoding:TRSCheme
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Alloc_.Precoding_.TrScheme.TrScheme
+	:members:
+	:undoc-members:
+	:noindex:

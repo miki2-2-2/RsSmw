@@ -1,0 +1,20 @@
+Poffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:POFFset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:POFFset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Ue_.Cell_.Poffset.Poffset
+	:members:
+	:undoc-members:
+	:noindex:

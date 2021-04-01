@@ -1,0 +1,20 @@
+L5Health
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:NMESsage:NAV:EPHemeris:L5Health
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:NMESsage:NAV:EPHemeris:L5Health
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Navic_.Nmessage_.Nav_.Ephemeris_.L5Health.L5Health
+	:members:
+	:undoc-members:
+	:noindex:

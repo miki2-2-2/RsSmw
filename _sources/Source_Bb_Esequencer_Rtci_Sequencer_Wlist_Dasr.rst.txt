@@ -1,0 +1,20 @@
+Dasr
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ESEQuencer:RTCI:SEQuencer<Stream>:WLISt:DASR
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ESEQuencer:RTCI:SEQuencer<Stream>:WLISt:DASR
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.Rtci_.Sequencer_.Wlist_.Dasr.Dasr
+	:members:
+	:undoc-members:
+	:noindex:

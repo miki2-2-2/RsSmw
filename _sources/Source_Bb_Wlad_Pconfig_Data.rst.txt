@@ -1,0 +1,30 @@
+Data
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAD:PCONfig:DATA:DSELection
+	single: SOURce<HwInstance>:BB:WLAD:PCONfig:DATA:LENGth
+	single: SOURce<HwInstance>:BB:WLAD:PCONfig:DATA:PATTern
+	single: SOURce<HwInstance>:BB:WLAD:PCONfig:DATA:RATE
+	single: SOURce<HwInstance>:BB:WLAD:PCONfig:DATA:SYMBols
+	single: SOURce<HwInstance>:BB:WLAD:PCONfig:DATA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAD:PCONfig:DATA:DSELection
+	SOURce<HwInstance>:BB:WLAD:PCONfig:DATA:LENGth
+	SOURce<HwInstance>:BB:WLAD:PCONfig:DATA:PATTern
+	SOURce<HwInstance>:BB:WLAD:PCONfig:DATA:RATE
+	SOURce<HwInstance>:BB:WLAD:PCONfig:DATA:SYMBols
+	SOURce<HwInstance>:BB:WLAD:PCONfig:DATA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlad_.Pconfig_.Data.Data
+	:members:
+	:undoc-members:
+	:noindex:

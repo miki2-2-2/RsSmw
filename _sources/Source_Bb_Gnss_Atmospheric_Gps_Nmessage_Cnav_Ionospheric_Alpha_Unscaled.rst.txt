@@ -1,0 +1,20 @@
+Unscaled
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ATMospheric:GPS:NMESsage:CNAV:IONospheric:ALPHa<Channel>:UNSCaled
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ATMospheric:GPS:NMESsage:CNAV:IONospheric:ALPHa<Channel>:UNSCaled
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Atmospheric_.Gps_.Nmessage_.Cnav_.Ionospheric_.Alpha_.Unscaled.Unscaled
+	:members:
+	:undoc-members:
+	:noindex:

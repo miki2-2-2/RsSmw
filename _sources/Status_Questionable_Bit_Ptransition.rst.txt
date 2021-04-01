@@ -1,0 +1,20 @@
+Ptransition
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: STATus:QUEStionable:BIT<BitNumber>:PTRansition
+
+.. code-block:: python
+
+	STATus:QUEStionable:BIT<BitNumber>:PTRansition
+
+
+
+.. autoclass:: RsSmw.Implementations.Status_.Questionable_.Bit_.Ptransition.Ptransition
+	:members:
+	:undoc-members:
+	:noindex:

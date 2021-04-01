@@ -1,0 +1,20 @@
+McsMode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:AS:DL:CELL<Stream>:MCSMode
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:AS:DL:CELL<Stream>:MCSMode
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.User_.AsPy_.Dl_.Cell_.McsMode.McsMode
+	:members:
+	:undoc-members:
+	:noindex:

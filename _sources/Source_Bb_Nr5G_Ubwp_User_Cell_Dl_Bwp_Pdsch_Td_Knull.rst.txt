@@ -1,0 +1,20 @@
+Knull
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:DL:BWP<NumSuffix>:PDSCh:TD<PdschTdoAlloc>:KNULl
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:DL:BWP<NumSuffix>:PDSCh:TD<PdschTdoAlloc>:KNULl
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Dl_.Bwp_.Pdsch_.Td_.Knull.Knull
+	:members:
+	:undoc-members:
+	:noindex:

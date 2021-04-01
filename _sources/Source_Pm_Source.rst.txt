@@ -1,0 +1,20 @@
+Source
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:PM<Channel>:SOURce
+
+.. code-block:: python
+
+	SOURce<HwInstance>:PM<Channel>:SOURce
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Pm_.Source.Source
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Nsymbol
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:RES<SrsRsrcSetRsrc>:NSYMbol
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:RES<SrsRsrcSetRsrc>:NSYMbol
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Prs_.Rset_.Res_.Nsymbol.Nsymbol
+	:members:
+	:undoc-members:
+	:noindex:

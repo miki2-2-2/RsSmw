@@ -1,0 +1,20 @@
+Sformat
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:SFORmat
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:SFORmat
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Enh_.Dch_.Sformat.Sformat
+	:members:
+	:undoc-members:
+	:noindex:

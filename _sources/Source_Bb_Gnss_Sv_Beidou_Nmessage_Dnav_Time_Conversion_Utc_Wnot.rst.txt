@@ -1,0 +1,20 @@
+Wnot
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SV:BEIDou<Stream>:NMESsage:DNAV:TIME:CONVersion:UTC<Channel>:WNOT
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SV:BEIDou<Stream>:NMESsage:DNAV:TIME:CONVersion:UTC<Channel>:WNOT
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Sv_.Beidou_.Nmessage_.Dnav_.Time_.Conversion_.Utc_.Wnot.Wnot
+	:members:
+	:undoc-members:
+	:noindex:

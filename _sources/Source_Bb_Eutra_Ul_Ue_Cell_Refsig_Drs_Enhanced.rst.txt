@@ -1,0 +1,20 @@
+Enhanced
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:DRS:ENHanced
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:DRS:ENHanced
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Cell_.Refsig_.Drs_.Enhanced.Enhanced
+	:members:
+	:undoc-members:
+	:noindex:

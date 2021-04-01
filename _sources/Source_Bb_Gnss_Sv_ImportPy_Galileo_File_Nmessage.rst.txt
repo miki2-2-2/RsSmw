@@ -1,0 +1,20 @@
+Nmessage
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SV:IMPort:GALileo<Stream>:FILE:NMESsage
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SV:IMPort:GALileo<Stream>:FILE:NMESsage
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Sv_.ImportPy_.Galileo_.File_.Nmessage.Nmessage
+	:members:
+	:undoc-members:
+	:noindex:

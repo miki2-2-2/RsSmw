@@ -1,0 +1,36 @@
+Lcod<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.btooth.econfiguration.pconfiguration.mtsphy.lcod.repcap_channel_get()
+	driver.source.bb.btooth.econfiguration.pconfiguration.mtsphy.lcod.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Btooth_.Econfiguration_.Pconfiguration_.Mtsphy_.Lcod.Lcod
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.btooth.econfiguration.pconfiguration.mtsphy.lcod.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Btooth_Econfiguration_Pconfiguration_Mtsphy_Lcod_State.rst

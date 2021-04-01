@@ -1,0 +1,20 @@
+RbCount
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:PUSCh:SET<SetItem>:RBCount
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:PUSCh:SET<SetItem>:RBCount
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Cell_.Subf_.Alloc_.Pusch_.Set_.RbCount.RbCount
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+GpIndex
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAD:PCONfig:GPI<Stream>:GPINdex
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAD:PCONfig:GPI<Stream>:GPINdex
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlad_.Pconfig_.Gpi_.GpIndex.GpIndex
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,29 @@
+Wlist
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.Rtci_.Wlist.Wlist
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.esequencer.rtci.wlist.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Esequencer_Rtci_Wlist_File.rst
+	Source_Bb_Esequencer_Rtci_Wlist_Segment.rst

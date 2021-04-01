@@ -1,0 +1,20 @@
+RbOffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:CELL<CarrierComponent>:SUBF<Stream>:SLOT<SlotItem>:ALLoc<Channel>:PUSCh:SET<SrsRsrcSet>:RBOFfset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:CELL<CarrierComponent>:SUBF<Stream>:SLOT<SlotItem>:ALLoc<Channel>:PUSCh:SET<SrsRsrcSet>:RBOFfset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Cell_.Subf_.Slot_.Alloc_.Pusch_.Set_.RbOffset.RbOffset
+	:members:
+	:undoc-members:
+	:noindex:

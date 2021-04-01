@@ -1,0 +1,20 @@
+Apply
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:QCKSet:APPLy
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:QCKSet:APPLy
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Qckset_.Apply.Apply
+	:members:
+	:undoc-members:
+	:noindex:

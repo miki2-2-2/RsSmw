@@ -1,0 +1,20 @@
+Offset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:TIME:STARt:GPS<Stream>:OFFSet
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:TIME:STARt:GPS<Stream>:OFFSet
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Time_.Start_.Gps_.Offset.Offset
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Data
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:ALLoc<Channel>:DATA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:ALLoc<Channel>:DATA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Niot_.Alloc_.Data.Data
+	:members:
+	:undoc-members:
+	:noindex:

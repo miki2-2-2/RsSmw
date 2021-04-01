@@ -1,0 +1,22 @@
+Depth
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:AM:DEPTh:SUM
+	single: SOURce<HwInstance>:AM<Channel>:DEPTh
+
+.. code-block:: python
+
+	SOURce<HwInstance>:AM:DEPTh:SUM
+	SOURce<HwInstance>:AM<Channel>:DEPTh
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Am_.Depth.Depth
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Hreserved
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:TFConfig:CINFo:HREServed
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:TFConfig:CINFo:HREServed
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.User_.TfConfig_.Cinfo_.Hreserved.Hreserved
+	:members:
+	:undoc-members:
+	:noindex:

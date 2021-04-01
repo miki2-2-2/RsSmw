@@ -1,0 +1,29 @@
+Phich
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.Ca_.Cell_.Phich.Phich
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.oneweb.dl.ca.cell.phich.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Oneweb_Dl_Ca_Cell_Phich_Duration.rst
+	Source_Bb_Oneweb_Dl_Ca_Cell_Phich_NgParameter.rst

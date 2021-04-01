@@ -1,0 +1,20 @@
+ApplySettings
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:TCW:APPLysettings
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:TCW:APPLysettings
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Tcw_.ApplySettings.ApplySettings
+	:members:
+	:undoc-members:
+	:noindex:

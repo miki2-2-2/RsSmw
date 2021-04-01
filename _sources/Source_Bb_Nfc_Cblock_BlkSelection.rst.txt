@@ -1,0 +1,20 @@
+BlkSelection
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:BLKSelection
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:BLKSelection
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.BlkSelection.BlkSelection
+	:members:
+	:undoc-members:
+	:noindex:

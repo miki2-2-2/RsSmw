@@ -1,0 +1,20 @@
+Pririty
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:SCI<Channel>:PRIRity
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:SCI<Channel>:PRIRity
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Sci_.Pririty.Pririty
+	:members:
+	:undoc-members:
+	:noindex:

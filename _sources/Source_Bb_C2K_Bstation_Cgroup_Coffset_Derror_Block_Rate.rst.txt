@@ -1,0 +1,20 @@
+Rate
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:BSTation<Stream>:CGRoup<ChannelGroup>:COFFset<Channel>:DERRor:BLOCk:RATE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:BSTation<Stream>:CGRoup<ChannelGroup>:COFFset<Channel>:DERRor:BLOCk:RATE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.Cgroup_.Coffset_.Derror_.Block_.Rate.Rate
+	:members:
+	:undoc-members:
+	:noindex:

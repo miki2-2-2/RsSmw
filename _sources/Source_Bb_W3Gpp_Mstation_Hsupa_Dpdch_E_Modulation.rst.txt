@@ -1,0 +1,20 @@
+Modulation
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPDCh:E:MODulation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPDCh:E:MODulation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Hsupa_.Dpdch_.E_.Modulation.Modulation
+	:members:
+	:undoc-members:
+	:noindex:

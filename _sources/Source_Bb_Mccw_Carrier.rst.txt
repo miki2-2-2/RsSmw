@@ -1,0 +1,45 @@
+Carrier
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:MCCW:CARRier:COUNt
+	single: SOURce<HwInstance>:BB:MCCW:CARRier:PHASe
+	single: SOURce<HwInstance>:BB:MCCW:CARRier:POWer
+	single: SOURce<HwInstance>:BB:MCCW:CARRier:SPACing
+	single: SOURce<HwInstance>:BB:MCCW:CARRier:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:MCCW:CARRier:COUNt
+	SOURce<HwInstance>:BB:MCCW:CARRier:PHASe
+	SOURce<HwInstance>:BB:MCCW:CARRier:POWer
+	SOURce<HwInstance>:BB:MCCW:CARRier:SPACing
+	SOURce<HwInstance>:BB:MCCW:CARRier:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Mccw_.Carrier.Carrier
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.mccw.carrier.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Mccw_Carrier_ListPy.rst

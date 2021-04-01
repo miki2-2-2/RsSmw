@@ -1,0 +1,20 @@
+Gain
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DSCChannel:GAIN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DSCChannel:GAIN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.DscChannel_.Gain.Gain
+	:members:
+	:undoc-members:
+	:noindex:

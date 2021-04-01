@@ -1,0 +1,20 @@
+Binterval
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BFConfiguration:BINTerval
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BFConfiguration:BINTerval
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.BfConfiguration_.Binterval.Binterval
+	:members:
+	:undoc-members:
+	:noindex:

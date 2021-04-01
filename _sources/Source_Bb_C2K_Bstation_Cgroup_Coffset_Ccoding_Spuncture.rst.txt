@@ -1,0 +1,20 @@
+Spuncture
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:BSTation<Stream>:CGRoup<ChannelGroup>:COFFset<Channel>:CCODing:SPUNcture
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:BSTation<Stream>:CGRoup<ChannelGroup>:COFFset<Channel>:CCODing:SPUNcture
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.Cgroup_.Coffset_.Ccoding_.Spuncture.Spuncture
+	:members:
+	:undoc-members:
+	:noindex:

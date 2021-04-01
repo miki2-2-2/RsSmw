@@ -1,0 +1,36 @@
+ApSelect<AntennaSelect>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr32
+	rc = driver.source.bb.nr5G.scheduling.cell.subf.user.bwPart.alloc.pusch.dmrs.apSelect.repcap_antennaSelect_get()
+	driver.source.bb.nr5G.scheduling.cell.subf.user.bwPart.alloc.pusch.dmrs.apSelect.repcap_antennaSelect_set(repcap.AntennaSelect.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:USER<AvailableUser>:BWPart<BandwidthPart>:ALLoc<Allocation>:PUSCh:DMRS:APSelect<AntennaSelect>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:USER<AvailableUser>:BWPart<BandwidthPart>:ALLoc<Allocation>:PUSCh:DMRS:APSelect<AntennaSelect>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Scheduling_.Cell_.Subf_.User_.BwPart_.Alloc_.Pusch_.Dmrs_.ApSelect.ApSelect
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.nr5G.scheduling.cell.subf.user.bwPart.alloc.pusch.dmrs.apSelect.clone()

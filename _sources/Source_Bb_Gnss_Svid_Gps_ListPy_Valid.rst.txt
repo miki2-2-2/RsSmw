@@ -1,0 +1,20 @@
+Valid
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID:GPS<Stream>:LIST:VALid
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID:GPS<Stream>:LIST:VALid
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Gps_.ListPy_.Valid.Valid
+	:members:
+	:undoc-members:
+	:noindex:

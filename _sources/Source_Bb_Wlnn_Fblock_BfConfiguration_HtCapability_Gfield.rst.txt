@@ -1,0 +1,20 @@
+Gfield
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BFConfiguration:HTCapability:GFIeld
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BFConfiguration:HTCapability:GFIeld
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.BfConfiguration_.HtCapability_.Gfield.Gfield
+	:members:
+	:undoc-members:
+	:noindex:

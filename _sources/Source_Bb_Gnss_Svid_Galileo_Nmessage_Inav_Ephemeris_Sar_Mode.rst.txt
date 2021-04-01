@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:NMESsage:INAV:EPHemeris:SAR:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:NMESsage:INAV:EPHemeris:SAR:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Galileo_.Nmessage_.Inav_.Ephemeris_.Sar_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

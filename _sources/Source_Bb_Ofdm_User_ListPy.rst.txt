@@ -1,0 +1,20 @@
+ListPy
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:OFDM:USER<Channel>:LIST
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:OFDM:USER<Channel>:LIST
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Ofdm_.User_.ListPy.ListPy
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Sflist
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:ALLoc<Channel>:SFList
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:ALLoc<Channel>:SFList
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Niot_.Alloc_.Sflist.Sflist
+	:members:
+	:undoc-members:
+	:noindex:

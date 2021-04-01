@@ -1,0 +1,20 @@
+Bits
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:EMTC:TRANs<Channel>:PUSCh:CQI:BITS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:EMTC:TRANs<Channel>:PUSCh:CQI:BITS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Emtc_.Trans_.Pusch_.Cqi_.Bits.Bits
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Infinite
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:USER<Stream>:PACKet:INFinite
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:USER<Stream>:PACKet:INFinite
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.User_.Packet_.Infinite.Infinite
+	:members:
+	:undoc-members:
+	:noindex:

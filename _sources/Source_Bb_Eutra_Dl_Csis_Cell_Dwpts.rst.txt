@@ -1,0 +1,20 @@
+Dwpts
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:DWPTs
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:DWPTs
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Csis_.Cell_.Dwpts.Dwpts
+	:members:
+	:undoc-members:
+	:noindex:

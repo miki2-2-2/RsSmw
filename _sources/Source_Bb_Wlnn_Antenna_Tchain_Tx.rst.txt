@@ -1,0 +1,39 @@
+Tx<TxIx>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr32
+	rc = driver.source.bb.wlnn.antenna.tchain.tx.repcap_txIx_get()
+	driver.source.bb.wlnn.antenna.tchain.tx.repcap_txIx_set(repcap.TxIx.Nr0)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Antenna_.Tchain_.Tx.Tx
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.wlnn.antenna.tchain.tx.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Wlnn_Antenna_Tchain_Tx_Imaginary.rst
+	Source_Bb_Wlnn_Antenna_Tchain_Tx_Magnitude.rst
+	Source_Bb_Wlnn_Antenna_Tchain_Tx_Phase.rst
+	Source_Bb_Wlnn_Antenna_Tchain_Tx_Real.rst

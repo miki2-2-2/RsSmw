@@ -1,0 +1,20 @@
+New
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:SHAPing:TABLe:AMPM:FILE:NEW
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:SHAPing:TABLe:AMPM:FILE:NEW
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Shaping_.Table_.AmPm_.File_.New.New
+	:members:
+	:undoc-members:
+	:noindex:

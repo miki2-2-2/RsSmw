@@ -1,0 +1,58 @@
+Dpd<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.iq.dpd.repcap_stream_get()
+	driver.source.iq.dpd.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:PRESet
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:PRESet
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd.Dpd
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.dpd.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Dpd_Amam.rst
+	Source_Iq_Dpd_AmFirst.rst
+	Source_Iq_Dpd_AmPm.rst
+	Source_Iq_Dpd_Gain.rst
+	Source_Iq_Dpd_InputPy.rst
+	Source_Iq_Dpd_Lreference.rst
+	Source_Iq_Dpd_Lrf.rst
+	Source_Iq_Dpd_Measurement.rst
+	Source_Iq_Dpd_Output.rst
+	Source_Iq_Dpd_Pin.rst
+	Source_Iq_Dpd_Scale.rst
+	Source_Iq_Dpd_Setting.rst
+	Source_Iq_Dpd_Shaping.rst
+	Source_Iq_Dpd_State.rst

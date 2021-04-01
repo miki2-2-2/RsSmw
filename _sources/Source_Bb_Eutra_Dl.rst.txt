@@ -1,0 +1,87 @@
+Dl
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:BUR
+	single: SOURce<HwInstance>:BB:EUTRa:DL:BW
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CONSubframes
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CPC
+	single: SOURce<HwInstance>:BB:EUTRa:DL:FFT
+	single: SOURce<HwInstance>:BB:EUTRa:DL:LGS
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NORB
+	single: SOURce<HwInstance>:BB:EUTRa:DL:OCCBandwidth
+	single: SOURce<HwInstance>:BB:EUTRa:DL:OCCSubcarriers
+	single: SOURce<HwInstance>:BB:EUTRa:DL:PUM
+	single: SOURce<HwInstance>:BB:EUTRa:DL:RGS
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SFSelection
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SRATe
+	single: SOURce<HwInstance>:BB:EUTRa:DL:ULCPc
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:BUR
+	SOURce<HwInstance>:BB:EUTRa:DL:BW
+	SOURce<HwInstance>:BB:EUTRa:DL:CONSubframes
+	SOURce<HwInstance>:BB:EUTRa:DL:CPC
+	SOURce<HwInstance>:BB:EUTRa:DL:FFT
+	SOURce<HwInstance>:BB:EUTRa:DL:LGS
+	SOURce<HwInstance>:BB:EUTRa:DL:NORB
+	SOURce<HwInstance>:BB:EUTRa:DL:OCCBandwidth
+	SOURce<HwInstance>:BB:EUTRa:DL:OCCSubcarriers
+	SOURce<HwInstance>:BB:EUTRa:DL:PUM
+	SOURce<HwInstance>:BB:EUTRa:DL:RGS
+	SOURce<HwInstance>:BB:EUTRa:DL:SFSelection
+	SOURce<HwInstance>:BB:EUTRa:DL:SRATe
+	SOURce<HwInstance>:BB:EUTRa:DL:ULCPc
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl.Dl
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Dl_Ca.rst
+	Source_Bb_Eutra_Dl_Carrier.rst
+	Source_Bb_Eutra_Dl_Conf.rst
+	Source_Bb_Eutra_Dl_Csettings.rst
+	Source_Bb_Eutra_Dl_Csis.rst
+	Source_Bb_Eutra_Dl_Drs.rst
+	Source_Bb_Eutra_Dl_Dumd.rst
+	Source_Bb_Eutra_Dl_Emtc.rst
+	Source_Bb_Eutra_Dl_Laa.rst
+	Source_Bb_Eutra_Dl_Mbsfn.rst
+	Source_Bb_Eutra_Dl_Mimo.rst
+	Source_Bb_Eutra_Dl_Niot.rst
+	Source_Bb_Eutra_Dl_Pbch.rst
+	Source_Bb_Eutra_Dl_Pdcch.rst
+	Source_Bb_Eutra_Dl_Pdsch.rst
+	Source_Bb_Eutra_Dl_Phich.rst
+	Source_Bb_Eutra_Dl_Prss.rst
+	Source_Bb_Eutra_Dl_Refsig.rst
+	Source_Bb_Eutra_Dl_RstFrame.rst
+	Source_Bb_Eutra_Dl_Sync.rst
+	Source_Bb_Eutra_Dl_User.rst
+	Source_Bb_Eutra_Dl_View.rst
+	Source_Bb_Eutra_Dl_Cell.rst
+	Source_Bb_Eutra_Dl_Plci.rst
+	Source_Bb_Eutra_Dl_Subf.rst

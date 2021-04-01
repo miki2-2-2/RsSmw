@@ -1,0 +1,36 @@
+Precoding
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Emtc_.Alloc_.Precoding.Precoding
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.emtc.alloc.precoding.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Dl_Emtc_Alloc_Precoding_Ap.rst
+	Source_Bb_Eutra_Dl_Emtc_Alloc_Precoding_Apm.rst
+	Source_Bb_Eutra_Dl_Emtc_Alloc_Precoding_CbIndex.rst
+	Source_Bb_Eutra_Dl_Emtc_Alloc_Precoding_Ccd.rst
+	Source_Bb_Eutra_Dl_Emtc_Alloc_Precoding_DaFormat.rst
+	Source_Bb_Eutra_Dl_Emtc_Alloc_Precoding_NoLayers.rst
+	Source_Bb_Eutra_Dl_Emtc_Alloc_Precoding_Scheme.rst
+	Source_Bb_Eutra_Dl_Emtc_Alloc_Precoding_Scid.rst
+	Source_Bb_Eutra_Dl_Emtc_Alloc_Precoding_TrScheme.rst

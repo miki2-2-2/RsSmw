@@ -1,0 +1,20 @@
+Eprotection
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:BCH:DTCH<Channel>:EPRotection
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:BCH:DTCH<Channel>:EPRotection
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Enh_.Bch_.Dtch_.Eprotection.Eprotection
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+DaFormat
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:EMTC:ALLoc<Channel>:PRECoding:DAFormat
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:EMTC:ALLoc<Channel>:PRECoding:DAFormat
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Emtc_.Alloc_.Precoding_.DaFormat.DaFormat
+	:members:
+	:undoc-members:
+	:noindex:

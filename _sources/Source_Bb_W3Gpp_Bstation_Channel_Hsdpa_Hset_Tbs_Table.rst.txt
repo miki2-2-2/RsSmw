@@ -1,0 +1,36 @@
+Table<TwoStreams>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr2
+	rc = driver.source.bb.w3Gpp.bstation.channel.hsdpa.hset.tbs.table.repcap_twoStreams_get()
+	driver.source.bb.w3Gpp.bstation.channel.hsdpa.hset.tbs.table.repcap_twoStreams_set(repcap.TwoStreams.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSDPa:HSET:TBS:TABLe<TwoStreams>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSDPa:HSET:TBS:TABLe<TwoStreams>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Channel_.Hsdpa_.Hset_.Tbs_.Table.Table
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.w3Gpp.bstation.channel.hsdpa.hset.tbs.table.clone()

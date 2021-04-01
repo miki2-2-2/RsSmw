@@ -1,0 +1,20 @@
+Rutype
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:RUTYpe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:RUTYpe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.User_.Rutype.Rutype
+	:members:
+	:undoc-members:
+	:noindex:

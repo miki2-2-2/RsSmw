@@ -1,0 +1,20 @@
+UdConf
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:CA:CELL<Channel>:UDConf
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:CA:CELL<Channel>:UDConf
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Ca_.Cell_.UdConf.UdConf
+	:members:
+	:undoc-members:
+	:noindex:

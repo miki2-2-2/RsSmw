@@ -1,0 +1,20 @@
+Slot
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:DL:BWP<NumSuffix>:RATM:RS<RateSetting>:SLOT
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:DL:BWP<NumSuffix>:RATM:RS<RateSetting>:SLOT
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Dl_.Bwp_.Ratm_.Rs_.Slot.Slot
+	:members:
+	:undoc-members:
+	:noindex:

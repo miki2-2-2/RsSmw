@@ -1,0 +1,20 @@
+Nidcsi
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:CA:CELL<Channel>:NIDCsi
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:CA:CELL<Channel>:NIDCsi
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Ca_.Cell_.Nidcsi.Nidcsi
+	:members:
+	:undoc-members:
+	:noindex:

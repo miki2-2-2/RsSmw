@@ -1,0 +1,20 @@
+CdmType
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:CDMType
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:CDMType
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Csis_.Cell_.CdmType.CdmType
+	:members:
+	:undoc-members:
+	:noindex:

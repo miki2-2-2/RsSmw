@@ -1,0 +1,20 @@
+Coefficient
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DELay:GROup<Stream>:PATH<Channel>:CORRelation:COEFficient
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DELay:GROup<Stream>:PATH<Channel>:CORRelation:COEFficient
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Delay_.Group_.Path_.Correlation_.Coefficient.Coefficient
+	:members:
+	:undoc-members:
+	:noindex:

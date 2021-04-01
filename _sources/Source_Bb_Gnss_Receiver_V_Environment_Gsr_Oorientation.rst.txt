@@ -1,0 +1,20 @@
+Oorientation
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ENVironment:GSR:OORientation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ENVironment:GSR:OORientation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.Environment_.Gsr_.Oorientation.Oorientation
+	:members:
+	:undoc-members:
+	:noindex:

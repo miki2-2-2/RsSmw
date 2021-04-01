@@ -1,0 +1,29 @@
+User
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Tx_.Vehicle_.User.User
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.dsSimulation.user.tx.vehicle.user.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Fsimulator_DsSimulation_User_Tx_Vehicle_User_Catalog.rst
+	Source_Fsimulator_DsSimulation_User_Tx_Vehicle_User_Select.rst

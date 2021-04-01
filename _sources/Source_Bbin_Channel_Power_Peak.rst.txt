@@ -1,0 +1,20 @@
+Peak
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BBIN:CHANnel<Channel>:POWer:PEAK
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BBIN:CHANnel<Channel>:POWer:PEAK
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bbin_.Channel_.Power_.Peak.Peak
+	:members:
+	:undoc-members:
+	:noindex:

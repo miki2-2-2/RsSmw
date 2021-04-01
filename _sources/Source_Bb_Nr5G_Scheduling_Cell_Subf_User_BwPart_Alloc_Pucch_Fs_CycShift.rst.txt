@@ -1,0 +1,20 @@
+CycShift
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:USER<AvailableUser>:BWPart<BandwidthPart>:ALLoc<Allocation>:PUCCh:FS:CYCShift
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:USER<AvailableUser>:BWPart<BandwidthPart>:ALLoc<Allocation>:PUCCh:FS:CYCShift
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Scheduling_.Cell_.Subf_.User_.BwPart_.Alloc_.Pucch_.Fs_.CycShift.CycShift
+	:members:
+	:undoc-members:
+	:noindex:

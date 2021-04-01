@@ -1,0 +1,20 @@
+Suggested
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:NIOT:ARB:SUGGested
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:NIOT:ARB:SUGGested
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Prach_.Niot_.Arb_.Suggested.Suggested
+	:members:
+	:undoc-members:
+	:noindex:

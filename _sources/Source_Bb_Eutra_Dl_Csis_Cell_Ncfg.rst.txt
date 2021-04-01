@@ -1,0 +1,20 @@
+Ncfg
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:NCFG
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:NCFG
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Csis_.Cell_.Ncfg.Ncfg
+	:members:
+	:undoc-members:
+	:noindex:

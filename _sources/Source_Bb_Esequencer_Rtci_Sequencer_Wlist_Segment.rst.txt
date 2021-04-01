@@ -1,0 +1,37 @@
+Segment
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ESEQuencer:RTCI:SEQuencer<Stream>:WLISt:SEGMent:DELete
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ESEQuencer:RTCI:SEQuencer<Stream>:WLISt:SEGMent:DELete
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.Rtci_.Sequencer_.Wlist_.Segment.Segment
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.esequencer.rtci.sequencer.wlist.segment.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Esequencer_Rtci_Sequencer_Wlist_Segment_Append.rst

@@ -1,0 +1,20 @@
+Repetition
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:PRAC:PTS:REPetition
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:PRAC:PTS:REPetition
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Slot_.Prac_.Pts_.Repetition.Repetition
+	:members:
+	:undoc-members:
+	:noindex:

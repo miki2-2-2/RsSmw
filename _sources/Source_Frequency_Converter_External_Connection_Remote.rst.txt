@@ -1,0 +1,20 @@
+Remote
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FREQuency:CONVerter:EXTernal:CONNection:REMote:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FREQuency:CONVerter:EXTernal:CONNection:REMote:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Frequency_.Converter_.External_.Connection_.Remote.Remote
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Tpmprec
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:EMTC:DCI:ALLoc<Channel>:TPMPrec
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:EMTC:DCI:ALLoc<Channel>:TPMPrec
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Emtc_.Dci_.Alloc_.Tpmprec.Tpmprec
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+ToWeek
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:TIME:STARt:SBAS<Stream>:MSAS:TOWeek
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:TIME:STARt:SBAS<Stream>:MSAS:TOWeek
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Time_.Start_.Sbas_.Msas_.ToWeek.ToWeek
+	:members:
+	:undoc-members:
+	:noindex:

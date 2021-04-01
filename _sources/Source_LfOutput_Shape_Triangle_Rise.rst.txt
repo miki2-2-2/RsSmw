@@ -1,0 +1,20 @@
+Rise
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:LFOutput<Channel>:SHAPe:TRIangle:RISE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:LFOutput<Channel>:SHAPe:TRIangle:RISE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.LfOutput_.Shape_.Triangle_.Rise.Rise
+	:members:
+	:undoc-members:
+	:noindex:

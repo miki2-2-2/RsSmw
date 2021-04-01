@@ -1,0 +1,20 @@
+Decimal
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RT:RECeiver:V<Stream>:RLOCation:COORdinates:DECimal
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RT:RECeiver:V<Stream>:RLOCation:COORdinates:DECimal
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Rt_.Receiver_.V_.Rlocation_.Coordinates_.Decimal.Decimal
+	:members:
+	:undoc-members:
+	:noindex:

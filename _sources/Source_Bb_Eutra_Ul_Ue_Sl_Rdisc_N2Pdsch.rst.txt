@@ -1,0 +1,20 @@
+N2Pdsch
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDISc:N2PDsch
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDISc:N2PDsch
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Rdisc_.N2Pdsch.N2Pdsch
+	:members:
+	:undoc-members:
+	:noindex:

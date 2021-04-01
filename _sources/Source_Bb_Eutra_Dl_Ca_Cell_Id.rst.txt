@@ -1,0 +1,20 @@
+Id
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CA:CELL<Channel>:ID
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CA:CELL<Channel>:ID
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Ca_.Cell_.Id.Id
+	:members:
+	:undoc-members:
+	:noindex:

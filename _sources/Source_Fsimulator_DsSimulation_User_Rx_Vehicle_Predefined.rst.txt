@@ -1,0 +1,29 @@
+Predefined
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Rx_.Vehicle_.Predefined.Predefined
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.dsSimulation.user.rx.vehicle.predefined.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Fsimulator_DsSimulation_User_Rx_Vehicle_Predefined_Category.rst
+	Source_Fsimulator_DsSimulation_User_Rx_Vehicle_Predefined_TypePy.rst

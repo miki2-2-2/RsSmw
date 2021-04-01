@@ -1,0 +1,43 @@
+Set<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.dvb.dvbx.mtab.set.repcap_stream_get()
+	driver.source.bb.dvb.dvbx.mtab.set.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbx_.Mtab_.Set.Set
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.dvb.dvbx.mtab.set.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Dvb_Dvbx_Mtab_Set_Adfl.rst
+	Source_Bb_Dvb_Dvbx_Mtab_Set_Ctype.rst
+	Source_Bb_Dvb_Dvbx_Mtab_Set_Dfl.rst
+	Source_Bb_Dvb_Dvbx_Mtab_Set_Frames.rst
+	Source_Bb_Dvb_Dvbx_Mtab_Set_Mcod.rst
+	Source_Bb_Dvb_Dvbx_Mtab_Set_Pcod.rst
+	Source_Bb_Dvb_Dvbx_Mtab_Set_Pstate.rst
+	Source_Bb_Dvb_Dvbx_Mtab_Set_Sfactor.rst

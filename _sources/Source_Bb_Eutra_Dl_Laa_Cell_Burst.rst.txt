@@ -1,0 +1,42 @@
+Burst<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.eutra.dl.laa.cell.burst.repcap_stream_get()
+	driver.source.bb.eutra.dl.laa.cell.burst.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Laa_.Cell_.Burst.Burst
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.laa.cell.burst.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Dl_Laa_Cell_Burst_C1Mode.rst
+	Source_Bb_Eutra_Dl_Laa_Cell_Burst_Duration.rst
+	Source_Bb_Eutra_Dl_Laa_Cell_Burst_EnsFrame.rst
+	Source_Bb_Eutra_Dl_Laa_Cell_Burst_Epdcch.rst
+	Source_Bb_Eutra_Dl_Laa_Cell_Burst_LsfSymbols.rst
+	Source_Bb_Eutra_Dl_Laa_Cell_Burst_StsFrame.rst
+	Source_Bb_Eutra_Dl_Laa_Cell_Burst_Stslot.rst

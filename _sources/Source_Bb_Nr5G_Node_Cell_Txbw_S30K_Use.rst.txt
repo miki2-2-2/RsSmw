@@ -1,0 +1,20 @@
+Use
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:TXBW:S30K<Stream>:USE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:TXBW:S30K<Stream>:USE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Txbw_.S30K_.Use.Use
+	:members:
+	:undoc-members:
+	:noindex:

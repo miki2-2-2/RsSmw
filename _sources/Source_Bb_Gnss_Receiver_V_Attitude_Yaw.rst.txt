@@ -1,0 +1,20 @@
+Yaw
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ATTitude:YAW
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ATTitude:YAW
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.Attitude_.Yaw.Yaw
+	:members:
+	:undoc-members:
+	:noindex:

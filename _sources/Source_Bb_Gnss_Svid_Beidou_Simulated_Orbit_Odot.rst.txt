@@ -1,0 +1,20 @@
+Odot
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIMulated:ORBit:ODOT
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIMulated:ORBit:ODOT
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Beidou_.Simulated_.Orbit_.Odot.Odot
+	:members:
+	:undoc-members:
+	:noindex:

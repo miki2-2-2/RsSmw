@@ -1,0 +1,20 @@
+ApfSupported
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:APFSupported
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:APFSupported
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.ApfSupported.ApfSupported
+	:members:
+	:undoc-members:
+	:noindex:

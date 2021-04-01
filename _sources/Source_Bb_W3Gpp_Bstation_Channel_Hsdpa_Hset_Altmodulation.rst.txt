@@ -1,0 +1,20 @@
+Altmodulation
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSDPa:HSET:ALTModulation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CHANnel<Channel>:HSDPa:HSET:ALTModulation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Channel_.Hsdpa_.Hset_.Altmodulation.Altmodulation
+	:members:
+	:undoc-members:
+	:noindex:

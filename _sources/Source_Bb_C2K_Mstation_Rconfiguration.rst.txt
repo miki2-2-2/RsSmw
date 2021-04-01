@@ -1,0 +1,20 @@
+Rconfiguration
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:MSTation<Stream>:RCONfiguration
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:MSTation<Stream>:RCONfiguration
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Mstation_.Rconfiguration.Rconfiguration
+	:members:
+	:undoc-members:
+	:noindex:

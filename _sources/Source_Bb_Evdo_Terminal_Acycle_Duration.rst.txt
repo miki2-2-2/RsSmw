@@ -1,0 +1,20 @@
+Duration
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:ACYCle:DURation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:ACYCle:DURation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.Acycle_.Duration.Duration
+	:members:
+	:undoc-members:
+	:noindex:

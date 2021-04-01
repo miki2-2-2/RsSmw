@@ -1,0 +1,20 @@
+RepFactor
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:REPFactor
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:REPFactor
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Prs_.Rset_.RepFactor.RepFactor
+	:members:
+	:undoc-members:
+	:noindex:

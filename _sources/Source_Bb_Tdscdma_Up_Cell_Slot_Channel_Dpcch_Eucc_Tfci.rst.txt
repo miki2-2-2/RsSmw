@@ -1,0 +1,20 @@
+Tfci
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:CHANnel<Subchannel>:DPCCh:EUCC:TFCI
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:CHANnel<Subchannel>:DPCCh:EUCC:TFCI
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Slot_.Channel_.Dpcch_.Eucc_.Tfci.Tfci
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Phase
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:SRS:RS:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:APMap:AP3000:ROW<Row>:PHASe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:SRS:RS:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:APMap:AP3000:ROW<Row>:PHASe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Ul_.Bwp_.Srs_.Rs_.Set_.Res_.ApMap_.Ap3000_.Row_.Phase.Phase
+	:members:
+	:undoc-members:
+	:noindex:

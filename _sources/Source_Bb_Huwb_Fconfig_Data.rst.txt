@@ -1,0 +1,22 @@
+Data
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:HUWB:FCONfig:DATA:DSELection
+	single: SOURce<HwInstance>:BB:HUWB:FCONfig:DATA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:HUWB:FCONfig:DATA:DSELection
+	SOURce<HwInstance>:BB:HUWB:FCONfig:DATA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Huwb_.Fconfig_.Data.Data
+	:members:
+	:undoc-members:
+	:noindex:

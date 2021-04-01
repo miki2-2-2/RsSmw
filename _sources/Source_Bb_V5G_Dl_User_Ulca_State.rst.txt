@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:ULCA<Stream>:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:ULCA<Stream>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.User_.Ulca_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

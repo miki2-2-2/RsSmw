@@ -1,0 +1,20 @@
+TmDensity
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:USER<AvailableUser>:BWPart<BandwidthPart>:ALLoc<Allocation>:PUSCh:PTRS:TP:TMDensity
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:SCHed:CELL<Channel>:SUBF<Stream>:USER<AvailableUser>:BWPart<BandwidthPart>:ALLoc<Allocation>:PUSCh:PTRS:TP:TMDensity
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Scheduling_.Cell_.Subf_.User_.BwPart_.Alloc_.Pusch_.Ptrs_.Tp_.TmDensity.TmDensity
+	:members:
+	:undoc-members:
+	:noindex:

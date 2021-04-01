@@ -1,0 +1,20 @@
+Release
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:RELease
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:RELease
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.User_.Release.Release
+	:members:
+	:undoc-members:
+	:noindex:

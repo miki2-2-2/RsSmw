@@ -1,0 +1,20 @@
+DqSpreading
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DQSPreading
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DQSPreading
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.DqSpreading.DqSpreading
+	:members:
+	:undoc-members:
+	:noindex:

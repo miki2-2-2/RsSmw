@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ESEQuencer:TRIGger:SEQuencer<Stream>:OUTPut<Channel>:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ESEQuencer:TRIGger:SEQuencer<Stream>:OUTPut<Channel>:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.Trigger_.Sequencer_.Output_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

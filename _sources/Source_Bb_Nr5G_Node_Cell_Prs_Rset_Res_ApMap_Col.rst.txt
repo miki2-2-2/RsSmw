@@ -1,0 +1,36 @@
+Col<Column>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr32
+	rc = driver.source.bb.nr5G.node.cell.prs.rset.res.apMap.col.repcap_column_get()
+	driver.source.bb.nr5G.node.cell.prs.rset.res.apMap.col.repcap_column_set(repcap.Column.Nr0)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Prs_.Rset_.Res_.ApMap_.Col.Col
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.nr5G.node.cell.prs.rset.res.apMap.col.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Nr5G_Node_Cell_Prs_Rset_Res_ApMap_Col_Row.rst

@@ -1,0 +1,20 @@
+Bpayload
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:HSUPA:BPAYload
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:HSUPA:BPAYload
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Enh_.Dch_.Hsupa_.Bpayload.Bpayload
+	:members:
+	:undoc-members:
+	:noindex:

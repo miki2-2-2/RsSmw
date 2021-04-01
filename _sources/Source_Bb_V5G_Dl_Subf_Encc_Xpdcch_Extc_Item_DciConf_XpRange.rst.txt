@@ -1,0 +1,20 @@
+XpRange
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:EXTC:ITEM<Channel>:DCIConf:XPRange
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:EXTC:ITEM<Channel>:DCIConf:XPRange
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Encc_.Xpdcch_.Extc_.Item_.DciConf_.XpRange.XpRange
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,36 @@
+Row<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.v5G.dl.apm.cs.xssap.row.repcap_stream_get()
+	driver.source.bb.v5G.dl.apm.cs.xssap.row.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:APM:CS:XSSap:ROW<Stream>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:APM:CS:XSSap:ROW<Stream>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Apm_.Cs_.Xssap_.Row.Row
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.v5G.dl.apm.cs.xssap.row.clone()

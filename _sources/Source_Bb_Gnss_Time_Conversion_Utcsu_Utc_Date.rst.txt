@@ -1,0 +1,20 @@
+Date
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:TIME:CONVersion:UTCSu<Stream>:UTC:DATE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:TIME:CONVersion:UTCSu<Stream>:UTC:DATE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Time_.Conversion_.Utcsu_.Utc_.Date.Date
+	:members:
+	:undoc-members:
+	:noindex:

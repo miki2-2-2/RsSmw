@@ -1,0 +1,20 @@
+Sfnn
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CARRier<Channel>:NIOT:SFNN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CARRier<Channel>:NIOT:SFNN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Carrier_.Niot_.Sfnn.Sfnn
+	:members:
+	:undoc-members:
+	:noindex:

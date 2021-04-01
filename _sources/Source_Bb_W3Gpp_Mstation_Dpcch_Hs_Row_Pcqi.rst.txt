@@ -1,0 +1,40 @@
+Pcqi<TwoStreams>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr2
+	rc = driver.source.bb.w3Gpp.mstation.dpcch.hs.row.pcqi.repcap_twoStreams_get()
+	driver.source.bb.w3Gpp.mstation.dpcch.hs.row.pcqi.repcap_twoStreams_set(repcap.TwoStreams.Nr0)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Dpcch_.Hs_.Row_.Pcqi.Pcqi
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.w3Gpp.mstation.dpcch.hs.row.pcqi.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_W3Gpp_Mstation_Dpcch_Hs_Row_Pcqi_Cqi.rst
+	Source_Bb_W3Gpp_Mstation_Dpcch_Hs_Row_Pcqi_FromPy.rst
+	Source_Bb_W3Gpp_Mstation_Dpcch_Hs_Row_Pcqi_Pci.rst
+	Source_Bb_W3Gpp_Mstation_Dpcch_Hs_Row_Pcqi_To.rst
+	Source_Bb_W3Gpp_Mstation_Dpcch_Hs_Row_Pcqi_TypePy.rst

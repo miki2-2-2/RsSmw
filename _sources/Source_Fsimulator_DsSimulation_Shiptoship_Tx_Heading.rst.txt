@@ -1,0 +1,20 @@
+Heading
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:SHIPtoship:TX<Channel>:HEADing
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:SHIPtoship:TX<Channel>:HEADing
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.Shiptoship_.Tx_.Heading.Heading
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Dlist
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:DUMRes:DLISt
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:DUMRes:DLISt
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.DumRes_.Dlist.Dlist
+	:members:
+	:undoc-members:
+	:noindex:

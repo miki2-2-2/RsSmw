@@ -1,0 +1,29 @@
+InputPy
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.InputPy.InputPy
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.doherty.inputPy.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Doherty_InputPy_Level.rst
+	Source_Iq_Doherty_InputPy_Pep.rst

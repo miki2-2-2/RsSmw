@@ -1,0 +1,20 @@
+PtName
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:PTName
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:PTName
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Stereo_.Grps_.Gt_.PtName.PtName
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Hack
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPCCh:HS:MIMO:TTI<Channel>:HACK
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPCCh:HS:MIMO:TTI<Channel>:HACK
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Dpcch_.Hs_.Mimo_.Tti_.Hack.Hack
+	:members:
+	:undoc-members:
+	:noindex:

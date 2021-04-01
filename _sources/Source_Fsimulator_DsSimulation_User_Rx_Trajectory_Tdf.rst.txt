@@ -1,0 +1,32 @@
+Tdf
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Rx_.Trajectory_.Tdf.Tdf
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.dsSimulation.user.rx.trajectory.tdf.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Fsimulator_DsSimulation_User_Rx_Trajectory_Tdf_Catalog.rst
+	Source_Fsimulator_DsSimulation_User_Rx_Trajectory_Tdf_Ebehavior.rst
+	Source_Fsimulator_DsSimulation_User_Rx_Trajectory_Tdf_Enu.rst
+	Source_Fsimulator_DsSimulation_User_Rx_Trajectory_Tdf_Macceleration.rst
+	Source_Fsimulator_DsSimulation_User_Rx_Trajectory_Tdf_Select.rst

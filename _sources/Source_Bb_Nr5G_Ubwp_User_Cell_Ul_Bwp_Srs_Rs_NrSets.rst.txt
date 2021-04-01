@@ -1,0 +1,20 @@
+NrSets
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:SRS:RS:NRSets
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:SRS:RS:NRSets
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Ul_.Bwp_.Srs_.Rs_.NrSets.NrSets
+	:members:
+	:undoc-members:
+	:noindex:

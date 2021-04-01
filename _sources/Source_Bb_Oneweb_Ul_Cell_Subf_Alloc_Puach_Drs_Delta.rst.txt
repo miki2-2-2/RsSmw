@@ -1,0 +1,20 @@
+Delta
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:PUACh:DRS:DELTa
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:PUACh:DRS:DELTa
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Cell_.Subf_.Alloc_.Puach_.Drs_.Delta.Delta
+	:members:
+	:undoc-members:
+	:noindex:

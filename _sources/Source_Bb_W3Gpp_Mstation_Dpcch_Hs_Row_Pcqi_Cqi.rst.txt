@@ -1,0 +1,20 @@
+Cqi
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPCCh:HS:ROW<Channel>:PCQI<TwoStreams>:CQI
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPCCh:HS:ROW<Channel>:PCQI<TwoStreams>:CQI
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Dpcch_.Hs_.Row_.Pcqi_.Cqi.Cqi
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:AMPM:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:AMPM:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.AmPm_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

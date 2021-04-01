@@ -1,0 +1,20 @@
+LaControl
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:HTControl:LAControl
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:HTControl:LAControl
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mac_.HtControl_.LaControl.LaControl
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,36 @@
+Pz<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.gnss.adGeneration.gps.location.coordinates.dms.pz.repcap_channel_get()
+	driver.source.bb.gnss.adGeneration.gps.location.coordinates.dms.pz.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ADGeneration:GPS<Stream>:LOCation:COORdinates:DMS:PZ<Channel>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ADGeneration:GPS<Stream>:LOCation:COORdinates:DMS:PZ<Channel>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.AdGeneration_.Gps_.Location_.Coordinates_.Dms_.Pz.Pz
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.gnss.adGeneration.gps.location.coordinates.dms.pz.clone()

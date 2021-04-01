@@ -1,0 +1,20 @@
+Offset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:TIME:STARt:SBAS<Stream>:MSAS:OFFSet
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:TIME:STARt:SBAS<Stream>:MSAS:OFFSet
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Time_.Start_.Sbas_.Msas_.Offset.Offset
+	:members:
+	:undoc-members:
+	:noindex:

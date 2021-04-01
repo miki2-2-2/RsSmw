@@ -1,0 +1,20 @@
+Conflict
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:CONFlict
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:CONFlict
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Subf_.Alloc_.Pucch_.Conflict.Conflict
+	:members:
+	:undoc-members:
+	:noindex:

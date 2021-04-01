@@ -1,0 +1,28 @@
+Bb
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.System_.Communicate_.Bb.Bb
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.system.communicate.bb.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	System_Communicate_Bb_Network.rst

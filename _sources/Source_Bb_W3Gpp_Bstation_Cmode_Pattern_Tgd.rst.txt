@@ -1,0 +1,20 @@
+Tgd
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CMODe:PATTern<Channel>:TGD
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:CMODe:PATTern<Channel>:TGD
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Cmode_.Pattern_.Tgd.Tgd
+	:members:
+	:undoc-members:
+	:noindex:

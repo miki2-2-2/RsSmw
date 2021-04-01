@@ -1,0 +1,20 @@
+Smovement
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:LOCation:SMOVement
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:LOCation:SMOVement
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.Location_.Smovement.Smovement
+	:members:
+	:undoc-members:
+	:noindex:

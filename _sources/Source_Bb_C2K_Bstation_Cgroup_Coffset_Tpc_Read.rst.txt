@@ -1,0 +1,20 @@
+Read
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:BSTation<Stream>:CGRoup<ChannelGroup>:COFFset<Channel>:TPC:READ
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:BSTation<Stream>:CGRoup<ChannelGroup>:COFFset<Channel>:TPC:READ
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.Cgroup_.Coffset_.Tpc_.Read.Read
+	:members:
+	:undoc-members:
+	:noindex:

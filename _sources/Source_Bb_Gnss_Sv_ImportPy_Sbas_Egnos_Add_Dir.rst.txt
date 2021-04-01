@@ -1,0 +1,20 @@
+Dir
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SV:IMPort:SBAS:EGNOS<Stream>:ADD:DIR
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SV:IMPort:SBAS:EGNOS<Stream>:ADD:DIR
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Sv_.ImportPy_.Sbas_.Egnos_.Add_.Dir.Dir
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,37 @@
+Sweep
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: TRIGger<HwInstance>:SWEep:SOURce
+
+.. code-block:: python
+
+	TRIGger<HwInstance>:SWEep:SOURce
+
+
+
+.. autoclass:: RsSmw.Implementations.Trigger_.Sweep.Sweep
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.trigger.sweep.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Trigger_Sweep_Immediate.rst

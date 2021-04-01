@@ -1,0 +1,20 @@
+Schannel
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:PPARameter:SCHannel:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:PPARameter:SCHannel:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Pparameter_.Schannel.Schannel
+	:members:
+	:undoc-members:
+	:noindex:

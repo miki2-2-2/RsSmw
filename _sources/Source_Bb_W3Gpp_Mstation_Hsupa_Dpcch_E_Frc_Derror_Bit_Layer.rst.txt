@@ -1,0 +1,20 @@
+Layer
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPCCh:E:FRC:DERRor:BIT:LAYer
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPCCh:E:FRC:DERRor:BIT:LAYer
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Hsupa_.Dpcch_.E_.Frc_.Derror_.Bit_.Layer.Layer
+	:members:
+	:undoc-members:
+	:noindex:

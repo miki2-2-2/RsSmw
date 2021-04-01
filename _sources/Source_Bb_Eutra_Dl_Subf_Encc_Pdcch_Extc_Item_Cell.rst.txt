@@ -1,0 +1,20 @@
+Cell
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:CELL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:CELL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Encc_.Pdcch_.Extc_.Item_.Cell.Cell
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Dpower
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PRACh:DPOWer
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PRACh:DPOWer
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Prach_.Dpower.Dpower
+	:members:
+	:undoc-members:
+	:noindex:

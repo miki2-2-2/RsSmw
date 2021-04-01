@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:APM:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:APM:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Apm_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

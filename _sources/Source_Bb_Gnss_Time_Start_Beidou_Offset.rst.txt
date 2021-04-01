@@ -1,0 +1,20 @@
+Offset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:TIME:STARt:BEIDou<Stream>:OFFSet
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:TIME:STARt:BEIDou<Stream>:OFFSet
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Time_.Start_.Beidou_.Offset.Offset
+	:members:
+	:undoc-members:
+	:noindex:

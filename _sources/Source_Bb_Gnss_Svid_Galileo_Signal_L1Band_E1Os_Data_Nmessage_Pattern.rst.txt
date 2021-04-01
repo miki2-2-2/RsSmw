@@ -1,0 +1,20 @@
+Pattern
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SIGNal:L1Band:E1OS:DATA:NMESsage:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SIGNal:L1Band:E1OS:DATA:NMESsage:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Galileo_.Signal_.L1Band_.E1Os_.Data_.Nmessage_.Pattern.Pattern
+	:members:
+	:undoc-members:
+	:noindex:

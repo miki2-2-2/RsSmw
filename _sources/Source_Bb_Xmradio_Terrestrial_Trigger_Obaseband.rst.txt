@@ -1,0 +1,22 @@
+Obaseband
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:XMRadio:TERRestrial:TRIGger:OBASeband:DELay
+	single: SOURce<HwInstance>:BB:XMRadio:TERRestrial:TRIGger:OBASeband:INHibit
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:XMRadio:TERRestrial:TRIGger:OBASeband:DELay
+	SOURce<HwInstance>:BB:XMRadio:TERRestrial:TRIGger:OBASeband:INHibit
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Xmradio_.Terrestrial_.Trigger_.Obaseband.Obaseband
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Power
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:MSTation:ADDitional:POWer:OFFSet
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:MSTation:ADDitional:POWer:OFFSet
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Mstation_.Additional_.Power.Power
+	:members:
+	:undoc-members:
+	:noindex:

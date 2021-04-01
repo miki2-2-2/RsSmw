@@ -1,0 +1,20 @@
+Ifactor
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:USER<Stream>:IFACtor
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:USER<Stream>:IFACtor
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.User_.Ifactor.Ifactor
+	:members:
+	:undoc-members:
+	:noindex:

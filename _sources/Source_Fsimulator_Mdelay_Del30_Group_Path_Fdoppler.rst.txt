@@ -1,0 +1,20 @@
+Fdoppler
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MDELay:DEL30:GROup<Stream>:PATH<Channel>:FDOPpler
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MDELay:DEL30:GROup<Stream>:PATH<Channel>:FDOPpler
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mdelay_.Del30_.Group_.Path_.Fdoppler.Fdoppler
+	:members:
+	:undoc-members:
+	:noindex:

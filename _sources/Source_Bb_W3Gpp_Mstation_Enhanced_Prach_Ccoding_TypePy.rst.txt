@@ -1,0 +1,20 @@
+TypePy
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:ENHanced:PRACh:CCODing:TYPE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:ENHanced:PRACh:CCODing:TYPE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Enhanced_.Prach_.Ccoding_.TypePy.TypePy
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Id2
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:SCRambling:CELL<Stream>:DMRS:ID2
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:SCRambling:CELL<Stream>:DMRS:ID2
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.User_.Scrambling_.Cell_.Dmrs_.Id2.Id2
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+PpsMarker
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:OUTPut:ANALog:PPSMarker:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:OUTPut:ANALog:PPSMarker:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Output_.Analog_.PpsMarker.PpsMarker
+	:members:
+	:undoc-members:
+	:noindex:

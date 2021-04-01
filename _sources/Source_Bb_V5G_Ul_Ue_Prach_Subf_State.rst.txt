@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:PRACh:SUBF<Channel>:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:PRACh:SUBF<Channel>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.Prach_.Subf_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

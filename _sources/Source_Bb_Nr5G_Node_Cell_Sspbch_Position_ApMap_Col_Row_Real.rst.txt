@@ -1,0 +1,20 @@
+Real
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:POSition:APMap<AntennaPortMap>:COL<Column>:ROW<Row>:REAL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:POSition:APMap<AntennaPortMap>:COL<Column>:ROW<Row>:REAL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Sspbch_.Position_.ApMap_.Col_.Row_.Real.Real
+	:members:
+	:undoc-members:
+	:noindex:

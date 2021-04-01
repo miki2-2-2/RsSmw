@@ -1,0 +1,20 @@
+Ports
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:DL:BWP<NumSuffix>:CSIRs:AZP:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:PORTs
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:DL:BWP<NumSuffix>:CSIRs:AZP:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:PORTs
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Dl_.Bwp_.Csirs_.Azp_.Set_.Res_.Ports.Ports
+	:members:
+	:undoc-members:
+	:noindex:

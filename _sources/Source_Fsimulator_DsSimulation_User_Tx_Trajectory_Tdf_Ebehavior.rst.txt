@@ -1,0 +1,20 @@
+Ebehavior
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:USER:TX<Channel>:TRAJectory:TDF:EBEHavior
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:USER:TX<Channel>:TRAJectory:TDF:EBEHavior
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Tx_.Trajectory_.Tdf_.Ebehavior.Ebehavior
+	:members:
+	:undoc-members:
+	:noindex:

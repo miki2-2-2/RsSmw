@@ -1,0 +1,20 @@
+Loss
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DELay:GROup<Stream>:PATH<Channel>:LOSS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DELay:GROup<Stream>:PATH<Channel>:LOSS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Delay_.Group_.Path_.Loss.Loss
+	:members:
+	:undoc-members:
+	:noindex:

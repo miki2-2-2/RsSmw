@@ -1,0 +1,38 @@
+Scontrol
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:SCONtrol:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:SCONtrol:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Psdu_.Mac_.Scontrol.Scontrol
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.wlan.psdu.mac.scontrol.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Wlan_Psdu_Mac_Scontrol_Fragment.rst
+	Source_Bb_Wlan_Psdu_Mac_Scontrol_Sequence.rst

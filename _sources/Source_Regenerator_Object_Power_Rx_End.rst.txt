@@ -1,0 +1,20 @@
+End
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:REGenerator:OBJect<Channel>:POWer:RX:END
+
+.. code-block:: python
+
+	SOURce<HwInstance>:REGenerator:OBJect<Channel>:POWer:RX:END
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Regenerator_.Object_.Power_.Rx_.End.End
+	:members:
+	:undoc-members:
+	:noindex:

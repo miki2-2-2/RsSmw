@@ -1,0 +1,20 @@
+Rep
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:DCI:ALLoc<Channel>:NPDCch:REP
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:DCI:ALLoc<Channel>:NPDCch:REP
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Niot_.Dci_.Alloc_.Npdcch_.Rep.Rep
+	:members:
+	:undoc-members:
+	:noindex:

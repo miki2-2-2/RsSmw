@@ -1,0 +1,20 @@
+Rafter
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PRACh:RAFTer
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PRACh:RAFTer
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Prach_.Rafter.Rafter
+	:members:
+	:undoc-members:
+	:noindex:

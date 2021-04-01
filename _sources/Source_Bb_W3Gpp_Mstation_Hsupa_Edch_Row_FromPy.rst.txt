@@ -1,0 +1,20 @@
+FromPy
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:EDCH:ROW<Channel>:FROM
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:EDCH:ROW<Channel>:FROM
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Hsupa_.Edch_.Row_.FromPy.FromPy
+	:members:
+	:undoc-members:
+	:noindex:

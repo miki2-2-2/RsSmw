@@ -1,0 +1,20 @@
+BpMode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BFConfiguration:ERP:BPMode
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BFConfiguration:ERP:BPMode
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.BfConfiguration_.Erp_.BpMode.BpMode
+	:members:
+	:undoc-members:
+	:noindex:

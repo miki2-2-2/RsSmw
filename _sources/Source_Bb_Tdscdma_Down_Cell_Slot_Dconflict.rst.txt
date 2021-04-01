@@ -1,0 +1,20 @@
+Dconflict
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:SLOT<Channel>:DCONflict
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:SLOT<Channel>:DCONflict
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Slot_.Dconflict.Dconflict
+	:members:
+	:undoc-members:
+	:noindex:

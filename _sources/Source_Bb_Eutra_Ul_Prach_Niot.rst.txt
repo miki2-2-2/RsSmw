@@ -1,0 +1,37 @@
+Niot
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:PRACh:NIOT:PFMT
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:PRACh:NIOT:PFMT
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Prach_.Niot.Niot
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.prach.niot.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Ul_Prach_Niot_Cfg.rst

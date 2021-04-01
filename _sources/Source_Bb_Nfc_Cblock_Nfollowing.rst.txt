@@ -1,0 +1,20 @@
+Nfollowing
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:NFOLlowing
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:NFOLlowing
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.Nfollowing.Nfollowing
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Rversion
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:DCI:ALLoc<Channel>:RVERsion
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:DCI:ALLoc<Channel>:RVERsion
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Niot_.Dci_.Alloc_.Rversion.Rversion
+	:members:
+	:undoc-members:
+	:noindex:

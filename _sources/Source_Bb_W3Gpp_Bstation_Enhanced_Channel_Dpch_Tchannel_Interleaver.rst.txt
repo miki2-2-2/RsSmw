@@ -1,0 +1,20 @@
+Interleaver
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:CHANnel<Channel>:DPCH:TCHannel<TransportChannel>:INTerleaver
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:CHANnel<Channel>:DPCH:TCHannel<TransportChannel>:INTerleaver
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Enhanced_.Channel_.Dpch_.Tchannel_.Interleaver.Interleaver
+	:members:
+	:undoc-members:
+	:noindex:

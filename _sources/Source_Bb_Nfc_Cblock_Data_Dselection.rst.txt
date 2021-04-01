@@ -1,0 +1,20 @@
+Dselection
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:DATA:DSELection
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:DATA:DSELection
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.Data_.Dselection.Dselection
+	:members:
+	:undoc-members:
+	:noindex:

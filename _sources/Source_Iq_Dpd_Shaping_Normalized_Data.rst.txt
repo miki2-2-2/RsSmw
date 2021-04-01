@@ -1,0 +1,40 @@
+Data
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:SHAPing:NORMalized:DATA
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:SHAPing:NORMalized:DATA:LOAD
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:SHAPing:NORMalized:DATA
+	SOURce<HwInstance>:IQ:DPD<Stream>:SHAPing:NORMalized:DATA:LOAD
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Shaping_.Normalized_.Data.Data
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.dpd.shaping.normalized.data.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Dpd_Shaping_Normalized_Data_Catalog.rst
+	Source_Iq_Dpd_Shaping_Normalized_Data_Store.rst

@@ -1,0 +1,20 @@
+RbOffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:SUBF<Stream>:SLOT<SlotItem>:ALLoc<Channel>:PUCCh:RBOFfset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:SUBF<Stream>:SLOT<SlotItem>:ALLoc<Channel>:PUCCh:RBOFfset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Subf_.Slot_.Alloc_.Pucch_.RbOffset.RbOffset
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,36 @@
+FrDensity<FreqDensity>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr31
+	rc = driver.source.bb.eutra.dl.csis.cell.frDensity.repcap_freqDensity_get()
+	driver.source.bb.eutra.dl.csis.cell.frDensity.repcap_freqDensity_set(repcap.FreqDensity.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:FRDensity<FreqDensity>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:FRDensity<FreqDensity>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Csis_.Cell_.FrDensity.FrDensity
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.csis.cell.frDensity.clone()

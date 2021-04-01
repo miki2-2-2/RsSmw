@@ -1,0 +1,20 @@
+Duration
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:LOCation:WAYPoints:DURation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:LOCation:WAYPoints:DURation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.Location_.Waypoints_.Duration.Duration
+	:members:
+	:undoc-members:
+	:noindex:

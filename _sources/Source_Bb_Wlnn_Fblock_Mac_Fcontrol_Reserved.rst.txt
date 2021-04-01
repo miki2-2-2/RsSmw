@@ -1,0 +1,20 @@
+Reserved
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:FCONtrol:REServed
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:FCONtrol:REServed
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mac_.Fcontrol_.Reserved.Reserved
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,36 @@
+CbIndex<CodeBookIx>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr15
+	rc = driver.source.bb.oneweb.dl.user.apm.cbIndex.repcap_codeBookIx_get()
+	driver.source.bb.oneweb.dl.user.apm.cbIndex.repcap_codeBookIx_set(repcap.CodeBookIx.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:APM:CBINdex<CodeBookIx>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:APM:CBINdex<CodeBookIx>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.User_.Apm_.CbIndex.CbIndex
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.oneweb.dl.user.apm.cbIndex.clone()

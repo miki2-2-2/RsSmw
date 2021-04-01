@@ -1,0 +1,48 @@
+Trans<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.eutra.ul.ue.niot.trans.repcap_channel_get()
+	driver.source.bb.eutra.ul.ue.niot.trans.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Niot_.Trans.Trans
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.ue.niot.trans.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_FormatPy.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_Harq.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_Modulation.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_NrUnits.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_Nscarriers.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_Nslts.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_Power.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_Pusch.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_Repetitions.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_Sirf.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_StsCarrier.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_StsFrame.rst
+	Source_Bb_Eutra_Ul_Ue_Niot_Trans_Stslot.rst

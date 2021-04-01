@@ -1,0 +1,20 @@
+StePresent
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:APGeneric:STEPresent
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:APGeneric:STEPresent
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.ApGeneric_.StePresent.StePresent
+	:members:
+	:undoc-members:
+	:noindex:

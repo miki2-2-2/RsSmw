@@ -1,0 +1,20 @@
+Sf
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ATMospheric:GALileo:NMESsage:INAV:IONospheric:SF<Channel>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ATMospheric:GALileo:NMESsage:INAV:IONospheric:SF<Channel>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Atmospheric_.Galileo_.Nmessage_.Inav_.Ionospheric_.Sf.Sf
+	:members:
+	:undoc-members:
+	:noindex:

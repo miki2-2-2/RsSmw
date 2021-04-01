@@ -1,0 +1,40 @@
+Celv<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.eutra.ul.prach.emtc.celv.repcap_channel_get()
+	driver.source.bb.eutra.ul.prach.emtc.celv.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Prach_.Emtc_.Celv.Celv
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.prach.emtc.celv.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Ul_Prach_Emtc_Celv_Config.rst
+	Source_Bb_Eutra_Ul_Prach_Emtc_Celv_Foffset.rst
+	Source_Bb_Eutra_Ul_Prach_Emtc_Celv_Hopping.rst
+	Source_Bb_Eutra_Ul_Prach_Emtc_Celv_Repetit.rst
+	Source_Bb_Eutra_Ul_Prach_Emtc_Celv_SsfPeriod.rst

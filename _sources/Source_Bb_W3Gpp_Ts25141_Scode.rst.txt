@@ -1,0 +1,22 @@
+Scode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce:BB:W3GPp:TS25141:SCODe:MODE
+	single: SOURce:BB:W3GPp:TS25141:SCODe
+
+.. code-block:: python
+
+	SOURce:BB:W3GPp:TS25141:SCODe:MODE
+	SOURce:BB:W3GPp:TS25141:SCODe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Ts25141_.Scode.Scode
+	:members:
+	:undoc-members:
+	:noindex:

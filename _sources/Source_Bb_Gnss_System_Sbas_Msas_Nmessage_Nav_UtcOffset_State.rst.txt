@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SYSTem:SBAS:MSAS<Stream>:NMESsage:NAV:UTCoffset:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SYSTem:SBAS:MSAS<Stream>:NMESsage:NAV:UTCoffset:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.System_.Sbas_.Msas_.Nmessage_.Nav_.UtcOffset_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

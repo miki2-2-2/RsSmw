@@ -1,0 +1,20 @@
+TypePy
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:CHANnel<Subchannel>:TYPE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:CHANnel<Subchannel>:TYPE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Slot_.Channel_.TypePy.TypePy
+	:members:
+	:undoc-members:
+	:noindex:

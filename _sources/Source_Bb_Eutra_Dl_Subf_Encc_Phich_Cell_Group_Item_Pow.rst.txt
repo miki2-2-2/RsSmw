@@ -1,0 +1,20 @@
+Pow
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PHICh:CELL<CarrierComponent>:GROup<Group>:ITEM<UserItem>:POW
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PHICh:CELL<CarrierComponent>:GROup<Group>:ITEM<UserItem>:POW
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Encc_.Phich_.Cell_.Group_.Item_.Pow.Pow
+	:members:
+	:undoc-members:
+	:noindex:

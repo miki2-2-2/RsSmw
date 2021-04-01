@@ -1,0 +1,20 @@
+Fid
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:DVBX:GHConfig:FID:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:DVBX:GHConfig:FID:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbx_.GhConfig_.Fid.Fid
+	:members:
+	:undoc-members:
+	:noindex:

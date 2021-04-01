@@ -1,0 +1,20 @@
+Opu
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: CALibration<HwInstance>:LEVel:OPU:USE
+
+.. code-block:: python
+
+	CALibration<HwInstance>:LEVel:OPU:USE
+
+
+
+.. autoclass:: RsSmw.Implementations.Calibration_.Level_.Opu.Opu
+	:members:
+	:undoc-members:
+	:noindex:

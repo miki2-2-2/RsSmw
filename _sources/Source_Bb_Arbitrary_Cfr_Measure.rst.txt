@@ -1,0 +1,20 @@
+Measure
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ARBitrary:CFR:MEASure:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ARBitrary:CFR:MEASure:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Arbitrary_.Cfr_.Measure.Measure
+	:members:
+	:undoc-members:
+	:noindex:

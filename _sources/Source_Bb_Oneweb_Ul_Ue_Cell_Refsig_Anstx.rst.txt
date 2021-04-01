@@ -1,0 +1,20 @@
+Anstx
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:ANSTx
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:ANSTx
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Ue_.Cell_.Refsig_.Anstx.Anstx
+	:members:
+	:undoc-members:
+	:noindex:

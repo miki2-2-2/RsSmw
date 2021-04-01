@@ -1,0 +1,20 @@
+BurstIndex
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GSM:MFRame:SLOT<Stream>:BURStindex
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GSM:MFRame:SLOT<Stream>:BURStindex
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gsm_.Mframe_.Slot_.BurstIndex.BurstIndex
+	:members:
+	:undoc-members:
+	:noindex:

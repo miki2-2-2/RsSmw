@@ -1,0 +1,22 @@
+Store
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:SETTing:STORe:FAST
+	single: SOURce<HwInstance>:BB:WLAN:SETTing:STORe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:SETTing:STORe:FAST
+	SOURce<HwInstance>:BB:WLAN:SETTing:STORe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Setting_.Store.Store
+	:members:
+	:undoc-members:
+	:noindex:

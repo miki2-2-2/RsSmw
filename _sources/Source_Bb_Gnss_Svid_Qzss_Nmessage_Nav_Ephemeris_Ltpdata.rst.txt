@@ -1,0 +1,20 @@
+Ltpdata
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:QZSS<Stream>:NMESsage:NAV:EPHemeris:LTPData
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:QZSS<Stream>:NMESsage:NAV:EPHemeris:LTPData
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Qzss_.Nmessage_.Nav_.Ephemeris_.Ltpdata.Ltpdata
+	:members:
+	:undoc-members:
+	:noindex:

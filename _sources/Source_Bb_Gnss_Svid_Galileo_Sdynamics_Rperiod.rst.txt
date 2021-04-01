@@ -1,0 +1,20 @@
+Rperiod
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SDYNamics:RPERiod
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SDYNamics:RPERiod
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Galileo_.Sdynamics_.Rperiod.Rperiod
+	:members:
+	:undoc-members:
+	:noindex:

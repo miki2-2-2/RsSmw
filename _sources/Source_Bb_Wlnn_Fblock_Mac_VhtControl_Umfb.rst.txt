@@ -1,0 +1,20 @@
+Umfb
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:VHTControl:UMFB
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:VHTControl:UMFB
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mac_.VhtControl_.Umfb.Umfb
+	:members:
+	:undoc-members:
+	:noindex:

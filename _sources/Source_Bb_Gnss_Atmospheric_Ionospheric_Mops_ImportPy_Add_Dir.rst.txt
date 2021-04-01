@@ -1,0 +1,20 @@
+Dir
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ATMospheric:IONospheric:MOPS:IMPort<Stream>:ADD:DIR
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ATMospheric:IONospheric:MOPS:IMPort<Stream>:ADD:DIR
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Atmospheric_.Ionospheric_.Mops_.ImportPy_.Add_.Dir.Dir
+	:members:
+	:undoc-members:
+	:noindex:

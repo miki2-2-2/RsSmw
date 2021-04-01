@@ -1,0 +1,20 @@
+NapUsed
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:NAPused
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:NAPused
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Subf_.Alloc_.Pucch_.NapUsed.NapUsed
+	:members:
+	:undoc-members:
+	:noindex:

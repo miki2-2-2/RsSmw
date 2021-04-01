@@ -1,0 +1,20 @@
+ToWeek
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ADGeneration:GLONass<Stream>:TOAData:TOWeek
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ADGeneration:GLONass<Stream>:TOAData:TOWeek
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.AdGeneration_.Glonass_.ToaData_.ToWeek.ToWeek
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+FormatPy
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:LOCation:COORdinates:FORMat
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:LOCation:COORdinates:FORMat
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Mconfig_.Location_.Coordinates_.FormatPy.FormatPy
+	:members:
+	:undoc-members:
+	:noindex:

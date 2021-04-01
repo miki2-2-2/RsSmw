@@ -1,0 +1,20 @@
+Mcsr
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:DCIConf:MCSR
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:ITEM<Channel>:DCIConf:MCSR
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Encc_.Pdcch_.Extc_.Item_.DciConf_.Mcsr.Mcsr
+	:members:
+	:undoc-members:
+	:noindex:

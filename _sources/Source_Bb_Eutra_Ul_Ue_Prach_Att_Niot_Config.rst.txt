@@ -1,0 +1,20 @@
+Config
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:ATT<Channel>:NIOT:CONFig
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:ATT<Channel>:NIOT:CONFig
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Prach_.Att_.Niot_.Config.Config
+	:members:
+	:undoc-members:
+	:noindex:

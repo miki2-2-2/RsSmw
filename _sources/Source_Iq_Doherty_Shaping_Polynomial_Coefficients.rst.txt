@@ -1,0 +1,40 @@
+Coefficients
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DOHerty<Stream>:SHAPing:POLYnomial:COEFficients
+	single: SOURce<HwInstance>:IQ:DOHerty<Stream>:SHAPing:POLYnomial:COEFficients:LOAD
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DOHerty<Stream>:SHAPing:POLYnomial:COEFficients
+	SOURce<HwInstance>:IQ:DOHerty<Stream>:SHAPing:POLYnomial:COEFficients:LOAD
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Shaping_.Polynomial_.Coefficients.Coefficients
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.doherty.shaping.polynomial.coefficients.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Doherty_Shaping_Polynomial_Coefficients_Catalog.rst
+	Source_Iq_Doherty_Shaping_Polynomial_Coefficients_Store.rst

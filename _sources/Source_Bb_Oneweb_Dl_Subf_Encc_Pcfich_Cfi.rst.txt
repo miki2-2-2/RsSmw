@@ -1,0 +1,20 @@
+Cfi
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ENCC:PCFich:CFI
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ENCC:PCFich:CFI
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.Subf_.Encc_.Pcfich_.Cfi.Cfi
+	:members:
+	:undoc-members:
+	:noindex:

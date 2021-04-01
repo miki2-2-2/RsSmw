@@ -1,0 +1,20 @@
+Channel
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:UP:MC:CARRier<Channel>:CHANnel
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:UP:MC:CARRier<Channel>:CHANnel
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Up_.Mc_.Carrier_.Channel.Channel
+	:members:
+	:undoc-members:
+	:noindex:

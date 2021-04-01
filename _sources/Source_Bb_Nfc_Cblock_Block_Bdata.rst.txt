@@ -1,0 +1,20 @@
+Bdata
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:BLOCk<Stream>:BDATa
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:BLOCk<Stream>:BDATa
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.Block_.Bdata.Bdata
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Pattern
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:ENHanced:PCPich:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:ENHanced:PCPich:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Enhanced_.Pcpich_.Pattern.Pattern
+	:members:
+	:undoc-members:
+	:noindex:

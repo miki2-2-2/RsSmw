@@ -1,0 +1,20 @@
+Length
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DRCChannel:LENGth
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DRCChannel:LENGth
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.DrcChannel_.Length.Length
+	:members:
+	:undoc-members:
+	:noindex:

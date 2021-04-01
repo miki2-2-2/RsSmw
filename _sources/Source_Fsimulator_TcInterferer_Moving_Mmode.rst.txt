@@ -1,0 +1,20 @@
+Mmode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:TCINterferer:MOVing<Channel>:MMODe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:TCINterferer:MOVing<Channel>:MMODe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.TcInterferer_.Moving_.Mmode.Mmode
+	:members:
+	:undoc-members:
+	:noindex:

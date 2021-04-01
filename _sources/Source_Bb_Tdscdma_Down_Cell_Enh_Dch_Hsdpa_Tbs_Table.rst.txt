@@ -1,0 +1,20 @@
+Table
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:HSDPA:TBS:TABLe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:HSDPA:TBS:TABLe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Enh_.Dch_.Hsdpa_.Tbs_.Table.Table
+	:members:
+	:undoc-members:
+	:noindex:

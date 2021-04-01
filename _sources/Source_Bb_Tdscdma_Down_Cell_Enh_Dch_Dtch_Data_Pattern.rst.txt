@@ -1,0 +1,20 @@
+Pattern
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:DTCH<Channel>:DATA:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:DTCH<Channel>:DATA:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Enh_.Dch_.Dtch_.Data_.Pattern.Pattern
+	:members:
+	:undoc-members:
+	:noindex:

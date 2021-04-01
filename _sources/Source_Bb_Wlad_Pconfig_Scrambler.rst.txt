@@ -1,0 +1,22 @@
+Scrambler
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAD:PCONfig:SCRambler:MODE
+	single: SOURce<HwInstance>:BB:WLAD:PCONfig:SCRambler:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAD:PCONfig:SCRambler:MODE
+	SOURce<HwInstance>:BB:WLAD:PCONfig:SCRambler:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlad_.Pconfig_.Scrambler.Scrambler
+	:members:
+	:undoc-members:
+	:noindex:

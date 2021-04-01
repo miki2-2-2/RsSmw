@@ -1,0 +1,20 @@
+Cuc
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SIMulated:ORBit:CUC
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SIMulated:ORBit:CUC
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Galileo_.Simulated_.Orbit_.Cuc.Cuc
+	:members:
+	:undoc-members:
+	:noindex:

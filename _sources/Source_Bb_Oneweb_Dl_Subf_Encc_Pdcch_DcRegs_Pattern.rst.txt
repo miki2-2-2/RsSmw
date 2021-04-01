@@ -1,0 +1,20 @@
+Pattern
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ENCC:PDCCh:DCRegs:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ENCC:PDCCh:DCRegs:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.Subf_.Encc_.Pdcch_.DcRegs_.Pattern.Pattern
+	:members:
+	:undoc-members:
+	:noindex:

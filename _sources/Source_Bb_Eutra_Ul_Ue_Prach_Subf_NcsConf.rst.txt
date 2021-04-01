@@ -1,0 +1,20 @@
+NcsConf
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:SUBF<Channel>:NCSConf
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:SUBF<Channel>:NCSConf
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Prach_.Subf_.NcsConf.NcsConf
+	:members:
+	:undoc-members:
+	:noindex:

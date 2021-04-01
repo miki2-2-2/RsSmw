@@ -1,0 +1,20 @@
+Cpollable
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BFConfiguration:CAPability:CPOLlable
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:BFConfiguration:CAPability:CPOLlable
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.BfConfiguration_.Capability_.Cpollable.Cpollable
+	:members:
+	:undoc-members:
+	:noindex:

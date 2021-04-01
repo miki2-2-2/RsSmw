@@ -1,0 +1,39 @@
+M2T<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.gbas.vdb.sch.m2T.repcap_stream_get()
+	driver.source.bb.gbas.vdb.sch.m2T.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Sch_.M2T.M2T
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.gbas.vdb.sch.m2T.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Gbas_Vdb_Sch_M2T_Foffset.rst
+	Source_Bb_Gbas_Vdb_Sch_M2T_Mbytes.rst
+	Source_Bb_Gbas_Vdb_Sch_M2T_Rframe.rst
+	Source_Bb_Gbas_Vdb_Sch_M2T_Slot.rst

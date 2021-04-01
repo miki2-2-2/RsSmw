@@ -1,0 +1,20 @@
+Tf
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:MFL:DATA<Channel>:TF
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:STEReo:GRPS:GT<Stream>:MFL:DATA<Channel>:TF
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Stereo_.Grps_.Gt_.Mfl_.Data_.Tf.Tf
+	:members:
+	:undoc-members:
+	:noindex:

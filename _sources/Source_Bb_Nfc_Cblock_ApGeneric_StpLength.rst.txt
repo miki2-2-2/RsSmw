@@ -1,0 +1,20 @@
+StpLength
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:APGeneric:STPLength
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:APGeneric:STPLength
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.ApGeneric_.StpLength.StpLength
+	:members:
+	:undoc-members:
+	:noindex:

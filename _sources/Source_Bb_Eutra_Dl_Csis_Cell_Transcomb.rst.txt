@@ -1,0 +1,36 @@
+Transcomb<TransComb>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr15
+	rc = driver.source.bb.eutra.dl.csis.cell.transcomb.repcap_transComb_get()
+	driver.source.bb.eutra.dl.csis.cell.transcomb.repcap_transComb_set(repcap.TransComb.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:TRANscomb<TransComb>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:TRANscomb<TransComb>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Csis_.Cell_.Transcomb.Transcomb
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.csis.cell.transcomb.clone()

@@ -1,0 +1,20 @@
+McmPosition
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:XMRadio:TERRestrial:TRIGger:OUTPut<Channel>:MCMPosition
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:XMRadio:TERRestrial:TRIGger:OUTPut<Channel>:MCMPosition
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Xmradio_.Terrestrial_.Trigger_.Output_.McmPosition.McmPosition
+	:members:
+	:undoc-members:
+	:noindex:

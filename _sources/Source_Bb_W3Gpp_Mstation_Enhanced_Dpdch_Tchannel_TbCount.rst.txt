@@ -1,0 +1,20 @@
+TbCount
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:TCHannel<TransportChannel>:TBCount
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:TCHannel<TransportChannel>:TBCount
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Enhanced_.Dpdch_.Tchannel_.TbCount.TbCount
+	:members:
+	:undoc-members:
+	:noindex:

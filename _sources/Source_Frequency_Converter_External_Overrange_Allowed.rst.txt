@@ -1,0 +1,20 @@
+Allowed
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FREQuency:CONVerter:EXTernal:OVERrange:ALLowed:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FREQuency:CONVerter:EXTernal:OVERrange:ALLowed:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Frequency_.Converter_.External_.Overrange_.Allowed.Allowed
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Delay
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce:BB:IMPairment:BBMM<Channel>:DELay
+
+.. code-block:: python
+
+	SOURce:BB:IMPairment:BBMM<Channel>:DELay
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Impairment_.Bbmm_.Delay.Delay
+	:members:
+	:undoc-members:
+	:noindex:

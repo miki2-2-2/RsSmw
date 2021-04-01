@@ -1,0 +1,20 @@
+File
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:A<Channel>:APATtern:FILE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:A<Channel>:APATtern:FILE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.A_.Apattern_.File.File
+	:members:
+	:undoc-members:
+	:noindex:

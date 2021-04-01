@@ -1,0 +1,38 @@
+Layer<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.ofdm.alloc.scma.layer.repcap_stream_get()
+	driver.source.bb.ofdm.alloc.scma.layer.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Ofdm_.Alloc_.Scma_.Layer.Layer
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.ofdm.alloc.scma.layer.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Ofdm_Alloc_Scma_Layer_Pwr.rst
+	Source_Bb_Ofdm_Alloc_Scma_Layer_State.rst
+	Source_Bb_Ofdm_Alloc_Scma_Layer_User.rst

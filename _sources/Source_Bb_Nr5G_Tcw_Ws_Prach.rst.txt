@@ -1,0 +1,22 @@
+Prach
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:TCW:WS:PRACh:FORMat
+	single: SOURce<HwInstance>:BB:NR5G:TCW:WS:PRACh:SCSPacing
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:TCW:WS:PRACh:FORMat
+	SOURce<HwInstance>:BB:NR5G:TCW:WS:PRACh:SCSPacing
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Tcw_.Ws_.Prach.Prach
+	:members:
+	:undoc-members:
+	:noindex:

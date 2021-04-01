@@ -1,0 +1,20 @@
+SaEnd
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:MBSFn:PMCH<Channel>:SAENd
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:MBSFn:PMCH<Channel>:SAENd
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Mbsfn_.Pmch_.SaEnd.SaEnd
+	:members:
+	:undoc-members:
+	:noindex:

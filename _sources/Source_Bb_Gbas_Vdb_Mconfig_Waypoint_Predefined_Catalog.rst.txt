@@ -1,0 +1,20 @@
+Catalog
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:WAYPoint:PREDefined:CATalog
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:WAYPoint:PREDefined:CATalog
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Mconfig_.Waypoint_.Predefined_.Catalog.Catalog
+	:members:
+	:undoc-members:
+	:noindex:

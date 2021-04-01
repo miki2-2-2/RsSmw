@@ -1,0 +1,20 @@
+Bits
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:BITS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:BITS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Encc_.Xpdcch_.Bits.Bits
+	:members:
+	:undoc-members:
+	:noindex:

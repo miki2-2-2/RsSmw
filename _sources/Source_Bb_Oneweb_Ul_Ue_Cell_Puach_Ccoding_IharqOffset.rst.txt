@@ -1,0 +1,20 @@
+IharqOffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:PUACh:CCODing:IHARqoffset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:CELL<CarrierComponent>:PUACh:CCODing:IHARqoffset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Ue_.Cell_.Puach_.Ccoding_.IharqOffset.IharqOffset
+	:members:
+	:undoc-members:
+	:noindex:

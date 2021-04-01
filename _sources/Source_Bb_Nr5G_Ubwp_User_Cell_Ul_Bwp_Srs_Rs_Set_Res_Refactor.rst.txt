@@ -1,0 +1,20 @@
+Refactor
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:SRS:RS:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:REFactor
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:SRS:RS:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:REFactor
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Ul_.Bwp_.Srs_.Rs_.Set_.Res_.Refactor.Refactor
+	:members:
+	:undoc-members:
+	:noindex:

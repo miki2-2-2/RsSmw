@@ -1,0 +1,20 @@
+Rba
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:EPDCch:CELL<Stream>:SET<Direction>:RBA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:EPDCch:CELL<Stream>:SET<Direction>:RBA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Epdcch_.Cell_.Set_.Rba.Rba
+	:members:
+	:undoc-members:
+	:noindex:

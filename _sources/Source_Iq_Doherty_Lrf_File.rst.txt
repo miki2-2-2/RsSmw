@@ -1,0 +1,37 @@
+File
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DOHerty<Stream>:LRF:FILE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DOHerty<Stream>:LRF:FILE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Lrf_.File.File
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.doherty.lrf.file.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Doherty_Lrf_File_Data.rst

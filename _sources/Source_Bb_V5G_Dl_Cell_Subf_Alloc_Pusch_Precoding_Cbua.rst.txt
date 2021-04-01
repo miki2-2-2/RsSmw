@@ -1,0 +1,20 @@
+Cbua
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:PUSCh:PRECoding:CBUA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:PUSCh:PRECoding:CBUA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Cell_.Subf_.Alloc_.Pusch_.Precoding_.Cbua.Cbua
+	:members:
+	:undoc-members:
+	:noindex:

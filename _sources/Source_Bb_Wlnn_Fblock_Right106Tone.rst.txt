@@ -1,0 +1,20 @@
+Right106Tone
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:RIGHt106tone
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:RIGHt106tone
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Right106Tone.Right106Tone
+	:members:
+	:undoc-members:
+	:noindex:

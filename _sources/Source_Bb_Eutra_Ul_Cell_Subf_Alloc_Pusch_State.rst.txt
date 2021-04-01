@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:PUSCh:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:PUSCh:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Cell_.Subf_.Alloc_.Pusch_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

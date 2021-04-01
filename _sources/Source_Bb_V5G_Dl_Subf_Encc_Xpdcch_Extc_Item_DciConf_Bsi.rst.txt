@@ -1,0 +1,20 @@
+Bsi
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:EXTC:ITEM<Channel>:DCIConf:BSI
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:EXTC:ITEM<Channel>:DCIConf:BSI
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Encc_.Xpdcch_.Extc_.Item_.DciConf_.Bsi.Bsi
+	:members:
+	:undoc-members:
+	:noindex:

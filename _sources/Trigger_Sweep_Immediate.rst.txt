@@ -1,0 +1,20 @@
+Immediate
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: TRIGger<HwInstance>:SWEep:IMMediate
+
+.. code-block:: python
+
+	TRIGger<HwInstance>:SWEep:IMMediate
+
+
+
+.. autoclass:: RsSmw.Implementations.Trigger_.Sweep_.Immediate.Immediate
+	:members:
+	:undoc-members:
+	:noindex:

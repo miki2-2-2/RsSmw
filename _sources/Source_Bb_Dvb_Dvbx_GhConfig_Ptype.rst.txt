@@ -1,0 +1,20 @@
+Ptype
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:DVBX:GHConfig:PTYPe:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:DVBX:GHConfig:PTYPe:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbx_.GhConfig_.Ptype.Ptype
+	:members:
+	:undoc-members:
+	:noindex:

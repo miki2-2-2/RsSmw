@@ -1,0 +1,20 @@
+UeMode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:EMTC:DCI:ALLoc<Channel>:UEMode
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:EMTC:DCI:ALLoc<Channel>:UEMode
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Emtc_.Dci_.Alloc_.UeMode.UeMode
+	:members:
+	:undoc-members:
+	:noindex:

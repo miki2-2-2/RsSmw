@@ -1,0 +1,20 @@
+TypePy
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:USER:TX<Channel>:VEHicle:PREDefined:TYPE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:USER:TX<Channel>:VEHicle:PREDefined:TYPE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Tx_.Vehicle_.Predefined_.TypePy.TypePy
+	:members:
+	:undoc-members:
+	:noindex:

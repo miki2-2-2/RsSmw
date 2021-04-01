@@ -1,0 +1,20 @@
+Sonce
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:CORRection:CSET:DATA:SENSor<Channel>:POWer:SONCe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:CORRection:CSET:DATA:SENSor<Channel>:POWer:SONCe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Correction_.Cset_.Data_.Sensor_.Power_.Sonce.Sonce
+	:members:
+	:undoc-members:
+	:noindex:

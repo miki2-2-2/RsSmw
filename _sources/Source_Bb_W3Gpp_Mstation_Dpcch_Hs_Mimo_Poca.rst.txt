@@ -1,0 +1,20 @@
+Poca
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPCCh:HS:MIMO:POCA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:DPCCh:HS:MIMO:POCA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Dpcch_.Hs_.Mimo_.Poca.Poca
+	:members:
+	:undoc-members:
+	:noindex:

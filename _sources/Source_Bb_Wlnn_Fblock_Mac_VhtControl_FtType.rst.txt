@@ -1,0 +1,20 @@
+FtType
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:VHTControl:FTTYpe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:VHTControl:FTTYpe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mac_.VhtControl_.FtType.FtType
+	:members:
+	:undoc-members:
+	:noindex:

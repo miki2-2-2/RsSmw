@@ -1,0 +1,20 @@
+Dselection
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:DVBH:HP<Channel>:DATA:DSELection
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:DVBH:HP<Channel>:DATA:DSELection
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbh_.Hp_.Data_.Dselection.Dselection
+	:members:
+	:undoc-members:
+	:noindex:

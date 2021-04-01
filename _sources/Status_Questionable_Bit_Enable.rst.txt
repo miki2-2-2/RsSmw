@@ -1,0 +1,20 @@
+Enable
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: STATus:QUEStionable:BIT<BitNumber>:ENABle
+
+.. code-block:: python
+
+	STATus:QUEStionable:BIT<BitNumber>:ENABle
+
+
+
+.. autoclass:: RsSmw.Implementations.Status_.Questionable_.Bit_.Enable.Enable
+	:members:
+	:undoc-members:
+	:noindex:

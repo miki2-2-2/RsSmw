@@ -1,0 +1,20 @@
+Gselection
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:DVBS:DATA:GSELection<Channel>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:DVBS:DATA:GSELection<Channel>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbs_.Data_.Gselection.Gselection
+	:members:
+	:undoc-members:
+	:noindex:

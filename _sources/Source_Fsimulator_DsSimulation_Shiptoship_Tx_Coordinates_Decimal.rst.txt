@@ -1,0 +1,20 @@
+Decimal
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:SHIPtoship:TX<Channel>:COORdinates:DECimal
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:SHIPtoship:TX<Channel>:COORdinates:DECimal
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.Shiptoship_.Tx_.Coordinates_.Decimal.Decimal
+	:members:
+	:undoc-members:
+	:noindex:

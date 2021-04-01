@@ -1,0 +1,20 @@
+Nsts
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MU<Stream>:NSTS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MU<Stream>:NSTS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mu_.Nsts.Nsts
+	:members:
+	:undoc-members:
+	:noindex:

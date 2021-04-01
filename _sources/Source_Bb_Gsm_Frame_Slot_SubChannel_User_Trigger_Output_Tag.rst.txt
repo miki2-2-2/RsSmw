@@ -1,0 +1,20 @@
+Tag
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:TRIGger:OUTPut:TAG
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:TRIGger:OUTPut:TAG
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gsm_.Frame_.Slot_.SubChannel_.User_.Trigger_.Output_.Tag.Tag
+	:members:
+	:undoc-members:
+	:noindex:

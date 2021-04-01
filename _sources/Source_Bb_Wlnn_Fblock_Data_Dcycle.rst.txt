@@ -1,0 +1,20 @@
+Dcycle
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:DATA:DCYCle
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:DATA:DCYCle
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Data_.Dcycle.Dcycle
+	:members:
+	:undoc-members:
+	:noindex:

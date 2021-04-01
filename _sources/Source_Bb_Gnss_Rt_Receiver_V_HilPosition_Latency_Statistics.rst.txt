@@ -1,0 +1,20 @@
+Statistics
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RT:RECeiver:V<Stream>:HILPosition:LATency:STATistics
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RT:RECeiver:V<Stream>:HILPosition:LATency:STATistics
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Rt_.Receiver_.V_.HilPosition_.Latency_.Statistics.Statistics
+	:members:
+	:undoc-members:
+	:noindex:

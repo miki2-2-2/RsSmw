@@ -1,0 +1,20 @@
+Qcomponent
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:SMAPping:ROW<Stream>:COL<Column>:Q
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:SMAPping:ROW<Stream>:COL<Column>:Q
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Smapping_.Row_.Col_.Qcomponent.Qcomponent
+	:members:
+	:undoc-members:
+	:noindex:

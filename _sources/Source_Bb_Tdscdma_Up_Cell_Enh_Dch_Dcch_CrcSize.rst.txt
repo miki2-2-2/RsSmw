@@ -1,0 +1,20 @@
+CrcSize
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:DCCH<Channel>:CRCSize
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:DCCH<Channel>:CRCSize
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Enh_.Dch_.Dcch_.CrcSize.CrcSize
+	:members:
+	:undoc-members:
+	:noindex:

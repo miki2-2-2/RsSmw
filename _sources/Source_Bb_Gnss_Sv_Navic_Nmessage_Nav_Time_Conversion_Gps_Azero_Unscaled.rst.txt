@@ -1,0 +1,20 @@
+Unscaled
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SV:NAVic<Stream>:NMESsage:NAV:TIME:CONVersion:GPS<Channel>:AZERo:UNSCaled
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SV:NAVic<Stream>:NMESsage:NAV:TIME:CONVersion:GPS<Channel>:AZERo:UNSCaled
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Sv_.Navic_.Nmessage_.Nav_.Time_.Conversion_.Gps_.Azero_.Unscaled.Unscaled
+	:members:
+	:undoc-members:
+	:noindex:

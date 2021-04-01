@@ -1,0 +1,20 @@
+FeShift
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:TRIGger:OUTPut<Channel>:FESHift
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:TRIGger:OUTPut<Channel>:FESHift
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Trigger_.Output_.FeShift.FeShift
+	:members:
+	:undoc-members:
+	:noindex:

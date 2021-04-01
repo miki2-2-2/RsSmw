@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SENSe<Channel>:POWer:LOGGing:STATe
+
+.. code-block:: python
+
+	SENSe<Channel>:POWer:LOGGing:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Sense_.Power_.Logging_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

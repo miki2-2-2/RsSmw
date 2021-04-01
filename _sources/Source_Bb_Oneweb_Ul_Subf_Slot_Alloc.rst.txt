@@ -1,0 +1,37 @@
+Alloc<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.oneweb.ul.subf.slot.alloc.repcap_channel_get()
+	driver.source.bb.oneweb.ul.subf.slot.alloc.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Subf_.Slot_.Alloc.Alloc
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.oneweb.ul.subf.slot.alloc.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Oneweb_Ul_Subf_Slot_Alloc_Pucch.rst
+	Source_Bb_Oneweb_Ul_Subf_Slot_Alloc_RbOffset.rst

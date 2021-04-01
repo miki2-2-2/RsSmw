@@ -1,0 +1,55 @@
+Nprs
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:CONF
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:ID
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:MTIA
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:MTIB
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:PERiod
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:POW
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:SEIN
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:SFNM
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:STATe
+	single: SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:STSFrame
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:CONF
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:ID
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:MTIA
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:MTIB
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:PERiod
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:POW
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:SEIN
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:SFNM
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:STATe
+	SOURce<HwInstance>:BB:EUTRa:DL:NIOT:NPRS:STSFrame
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Niot_.Nprs.Nprs
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.niot.nprs.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Dl_Niot_Nprs_Bmp.rst

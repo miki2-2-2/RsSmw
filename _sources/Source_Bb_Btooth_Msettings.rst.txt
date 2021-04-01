@@ -1,0 +1,20 @@
+Msettings
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:BTOoth:MSETtings:FDEViation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:BTOoth:MSETtings:FDEViation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Btooth_.Msettings.Msettings
+	:members:
+	:undoc-members:
+	:noindex:

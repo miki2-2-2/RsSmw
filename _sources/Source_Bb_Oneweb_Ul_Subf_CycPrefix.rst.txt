@@ -1,0 +1,20 @@
+CycPrefix
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:CYCPrefix
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:CYCPrefix
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Subf_.CycPrefix.CycPrefix
+	:members:
+	:undoc-members:
+	:noindex:

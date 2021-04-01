@@ -1,0 +1,20 @@
+Ssspow
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:SSSPow
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:SSSPow
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Sspbch_.Ssspow.Ssspow
+	:members:
+	:undoc-members:
+	:noindex:

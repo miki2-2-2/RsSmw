@@ -1,0 +1,20 @@
+TypePy
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:FILTer:TYPE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:FILTer:TYPE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gsm_.Frame_.Slot_.SubChannel_.User_.FilterPy_.TypePy.TypePy
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:MCCW:CARRier:LIST:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:MCCW:CARRier:LIST:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Mccw_.Carrier_.ListPy_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,24 @@
+Rdata
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce:BB:W3GPp:TS25141:WSIGnal:DPCCh:TPC:RDATa:DSELect
+	single: SOURce:BB:W3GPp:TS25141:WSIGnal:DPCCh:TPC:RDATa:PATTern
+	single: SOURce:BB:W3GPp:TS25141:WSIGnal:DPCCh:TPC:RDATa
+
+.. code-block:: python
+
+	SOURce:BB:W3GPp:TS25141:WSIGnal:DPCCh:TPC:RDATa:DSELect
+	SOURce:BB:W3GPp:TS25141:WSIGnal:DPCCh:TPC:RDATa:PATTern
+	SOURce:BB:W3GPp:TS25141:WSIGnal:DPCCh:TPC:RDATa
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Ts25141_.Wsignal_.Dpcch_.Tpc_.Rdata.Rdata
+	:members:
+	:undoc-members:
+	:noindex:

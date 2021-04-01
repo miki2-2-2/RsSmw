@@ -1,0 +1,20 @@
+Power
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:RES<SrsRsrcSetRsrc>:POWer
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:RES<SrsRsrcSetRsrc>:POWer
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Prs_.Rset_.Res_.Power.Power
+	:members:
+	:undoc-members:
+	:noindex:

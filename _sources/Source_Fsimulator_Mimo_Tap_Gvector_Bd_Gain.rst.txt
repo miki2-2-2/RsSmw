@@ -1,0 +1,20 @@
+Gain
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:GVECtor:BD<Stream>:GAIN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:GVECtor:BD<Stream>:GAIN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Tap_.Gvector_.Bd_.Gain.Gain
+	:members:
+	:undoc-members:
+	:noindex:

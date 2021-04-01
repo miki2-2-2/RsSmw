@@ -1,0 +1,20 @@
+Cbarred
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:MIB:CBARred
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:MIB:CBARred
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Sspbch_.Mib_.Cbarred.Cbarred
+	:members:
+	:undoc-members:
+	:noindex:

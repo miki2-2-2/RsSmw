@@ -1,0 +1,20 @@
+Real
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:ANTenna:TCHain<Channel>:TX<TxIx>:REAL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:ANTenna:TCHain<Channel>:TX<TxIx>:REAL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Antenna_.Tchain_.Tx_.Real.Real
+	:members:
+	:undoc-members:
+	:noindex:

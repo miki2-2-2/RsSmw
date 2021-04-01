@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:USER:RX<Channel>:TRAJectory:TDF:MACCeleration:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:USER:RX<Channel>:TRAJectory:TDF:MACCeleration:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Rx_.Trajectory_.Tdf_.Macceleration_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

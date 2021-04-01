@@ -1,0 +1,20 @@
+Edge
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GSM:EDGE:FORMat
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GSM:EDGE:FORMat
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gsm_.Edge.Edge
+	:members:
+	:undoc-members:
+	:noindex:

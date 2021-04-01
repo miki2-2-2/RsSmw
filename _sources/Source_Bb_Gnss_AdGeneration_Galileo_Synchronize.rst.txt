@@ -1,0 +1,20 @@
+Synchronize
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ADGeneration:GALileo<Stream>:SYNChronize
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ADGeneration:GALileo<Stream>:SYNChronize
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.AdGeneration_.Galileo_.Synchronize.Synchronize
+	:members:
+	:undoc-members:
+	:noindex:

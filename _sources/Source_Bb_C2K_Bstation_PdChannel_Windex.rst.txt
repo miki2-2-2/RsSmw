@@ -1,0 +1,20 @@
+Windex
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:BSTation<Stream>:PDCHannel:WINDex
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:BSTation<Stream>:PDCHannel:WINDex
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.PdChannel_.Windex.Windex
+	:members:
+	:undoc-members:
+	:noindex:

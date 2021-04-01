@@ -1,0 +1,36 @@
+N4Max<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.eutra.ul.pucch.n4Max.repcap_channel_get()
+	driver.source.bb.eutra.ul.pucch.n4Max.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:PUCCh:N4Max<Channel>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:PUCCh:N4Max<Channel>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Pucch_.N4Max.N4Max
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.pucch.n4Max.clone()

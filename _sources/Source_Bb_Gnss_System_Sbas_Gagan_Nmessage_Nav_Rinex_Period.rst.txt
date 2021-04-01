@@ -1,0 +1,20 @@
+Period
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SYSTem:SBAS:GAGAN<Stream>:NMESsage:NAV:RINex:PERiod
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SYSTem:SBAS:GAGAN<Stream>:NMESsage:NAV:RINex:PERiod
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.System_.Sbas_.Gagan_.Nmessage_.Nav_.Rinex_.Period.Period
+	:members:
+	:undoc-members:
+	:noindex:

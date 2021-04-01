@@ -1,0 +1,20 @@
+Append
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ESEQuencer:RTCI:SEQuencer<Stream>:WLISt:SEGMent:APPend
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ESEQuencer:RTCI:SEQuencer<Stream>:WLISt:SEGMent:APPend
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.Rtci_.Sequencer_.Wlist_.Segment_.Append.Append
+	:members:
+	:undoc-members:
+	:noindex:

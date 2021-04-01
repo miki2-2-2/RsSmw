@@ -1,0 +1,20 @@
+Cfactor
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:OUTPut:CFACtor
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:OUTPut:CFACtor
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Output_.Cfactor.Cfactor
+	:members:
+	:undoc-members:
+	:noindex:

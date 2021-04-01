@@ -1,0 +1,20 @@
+TbSize
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:ALLoc<Channel>:CCODing:TBSize
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:ALLoc<Channel>:CCODing:TBSize
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Alloc_.Ccoding_.TbSize.TbSize
+	:members:
+	:undoc-members:
+	:noindex:

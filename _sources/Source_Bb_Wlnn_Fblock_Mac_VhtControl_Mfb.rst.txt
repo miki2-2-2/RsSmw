@@ -1,0 +1,20 @@
+Mfb
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:VHTControl:MFB
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:MAC:VHTControl:MFB
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Mac_.VhtControl_.Mfb.Mfb
+	:members:
+	:undoc-members:
+	:noindex:

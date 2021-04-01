@@ -1,0 +1,20 @@
+Psize
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DCHannel:PACKet<Channel>:PSIZe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DCHannel:PACKet<Channel>:PSIZe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.Dchannel_.Packet_.Psize.Psize
+	:members:
+	:undoc-members:
+	:noindex:

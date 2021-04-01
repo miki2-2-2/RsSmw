@@ -1,0 +1,20 @@
+Aid
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:TFConfig:UINFo<Stream>:AID
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:TFConfig:UINFo<Stream>:AID
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.User_.TfConfig_.Uinfo_.Aid.Aid
+	:members:
+	:undoc-members:
+	:noindex:

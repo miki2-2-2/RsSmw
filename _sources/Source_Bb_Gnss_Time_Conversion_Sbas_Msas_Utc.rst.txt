@@ -1,0 +1,32 @@
+Utc
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Time_.Conversion_.Sbas_.Msas_.Utc.Utc
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.gnss.time.conversion.sbas.msas.utc.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Gnss_Time_Conversion_Sbas_Msas_Utc_Aone.rst
+	Source_Bb_Gnss_Time_Conversion_Sbas_Msas_Utc_Azero.rst
+	Source_Bb_Gnss_Time_Conversion_Sbas_Msas_Utc_Ioffset.rst
+	Source_Bb_Gnss_Time_Conversion_Sbas_Msas_Utc_Tot.rst
+	Source_Bb_Gnss_Time_Conversion_Sbas_Msas_Utc_Wnot.rst

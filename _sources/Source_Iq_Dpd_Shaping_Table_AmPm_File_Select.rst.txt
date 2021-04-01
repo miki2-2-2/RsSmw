@@ -1,0 +1,20 @@
+Select
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:SHAPing:TABLe:AMPM:FILE:SELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:SHAPing:TABLe:AMPM:FILE:SELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Shaping_.Table_.AmPm_.File_.Select.Select
+	:members:
+	:undoc-members:
+	:noindex:

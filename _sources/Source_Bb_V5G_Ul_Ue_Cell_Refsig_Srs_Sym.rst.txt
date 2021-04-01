@@ -1,0 +1,37 @@
+Sym<SymbolIx>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr31
+	rc = driver.source.bb.v5G.ul.ue.cell.refsig.srs.sym.repcap_symbolIx_get()
+	driver.source.bb.v5G.ul.ue.cell.refsig.srs.sym.repcap_symbolIx_set(repcap.SymbolIx.Nr0)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.Cell_.Refsig_.Srs_.Sym.Sym
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.v5G.ul.ue.cell.refsig.srs.sym.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_V5G_Ul_Ue_Cell_Refsig_Srs_Sym_Ntrans.rst
+	Source_Bb_V5G_Ul_Ue_Cell_Refsig_Srs_Sym_Subf.rst

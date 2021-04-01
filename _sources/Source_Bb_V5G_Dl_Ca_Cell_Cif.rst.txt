@@ -1,0 +1,20 @@
+Cif
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:CA:CELL<Channel>:CIF
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:CA:CELL<Channel>:CIF
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Ca_.Cell_.Cif.Cif
+	:members:
+	:undoc-members:
+	:noindex:

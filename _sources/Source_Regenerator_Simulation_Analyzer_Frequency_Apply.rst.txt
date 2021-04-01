@@ -1,0 +1,20 @@
+Apply
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:REGenerator:SIMulation:ANALyzer:FREQuency:APPLy
+
+.. code-block:: python
+
+	SOURce<HwInstance>:REGenerator:SIMulation:ANALyzer:FREQuency:APPLy
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Regenerator_.Simulation_.Analyzer_.Frequency_.Apply.Apply
+	:members:
+	:undoc-members:
+	:noindex:

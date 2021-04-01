@@ -1,0 +1,42 @@
+Reference<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.fsimulator.tcInterferer.reference.repcap_channel_get()
+	driver.source.fsimulator.tcInterferer.reference.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.TcInterferer_.Reference.Reference
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.tcInterferer.reference.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Fsimulator_TcInterferer_Reference_Delay.rst
+	Source_Fsimulator_TcInterferer_Reference_Fdoppler.rst
+	Source_Fsimulator_TcInterferer_Reference_Fratio.rst
+	Source_Fsimulator_TcInterferer_Reference_Loss.rst
+	Source_Fsimulator_TcInterferer_Reference_Mmode.rst
+	Source_Fsimulator_TcInterferer_Reference_Profile.rst
+	Source_Fsimulator_TcInterferer_Reference_State.rst

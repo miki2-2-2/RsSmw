@@ -1,0 +1,20 @@
+Ndi
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:AS:DL:CELL<Stream>:SEQelem:TB2:NDI
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:AS:DL:CELL<Stream>:SEQelem:TB2:NDI
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.User_.AsPy_.Dl_.Cell_.SeqElem_.Tb2_.Ndi.Ndi
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+GbrbIdx
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CARRier<Channel>:NIOT:GBRBidx
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CARRier<Channel>:NIOT:GBRBidx
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Carrier_.Niot_.GbrbIdx.GbrbIdx
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,26 @@
+File
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:OUTPut:ANALog:ENVelope:SHAPing:FILE:CATalog
+	single: SOURce<HwInstance>:IQ:OUTPut:ANALog:ENVelope:SHAPing:FILE:DATA
+	single: SOURce<HwInstance>:IQ:OUTPut:ANALog:ENVelope:SHAPing:FILE:NEW
+	single: SOURce<HwInstance>:IQ:OUTPut:ANALog:ENVelope:SHAPing:FILE:SELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:OUTPut:ANALog:ENVelope:SHAPing:FILE:CATalog
+	SOURce<HwInstance>:IQ:OUTPut:ANALog:ENVelope:SHAPing:FILE:DATA
+	SOURce<HwInstance>:IQ:OUTPut:ANALog:ENVelope:SHAPing:FILE:NEW
+	SOURce<HwInstance>:IQ:OUTPut:ANALog:ENVelope:SHAPing:FILE:SELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Output_.Analog_.Envelope_.Shaping_.File.File
+	:members:
+	:undoc-members:
+	:noindex:

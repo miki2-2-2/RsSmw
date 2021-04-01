@@ -1,0 +1,20 @@
+Apsi
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:EMTC:DCI:ALLoc<Channel>:APSI
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:EMTC:DCI:ALLoc<Channel>:APSI
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Emtc_.Dci_.Alloc_.Apsi.Apsi
+	:members:
+	:undoc-members:
+	:noindex:

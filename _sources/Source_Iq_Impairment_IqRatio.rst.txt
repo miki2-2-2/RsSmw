@@ -1,0 +1,20 @@
+IqRatio
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:IMPairment:IQRatio:MAGNitude
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:IMPairment:IQRatio:MAGNitude
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Impairment_.IqRatio.IqRatio
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+ConType
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:CONType
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:CONType
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Alloc_.Cw_.ConType.ConType
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Modulation
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DCHannel:PACKet<Channel>:MODulation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DCHannel:PACKet<Channel>:MODulation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.Dchannel_.Packet_.Modulation.Modulation
+	:members:
+	:undoc-members:
+	:noindex:

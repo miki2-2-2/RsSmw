@@ -1,0 +1,20 @@
+Txm
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:CELL<Stream>:TXM
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:CELL<Stream>:TXM
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.User_.Cell_.Txm.Txm
+	:members:
+	:undoc-members:
+	:noindex:

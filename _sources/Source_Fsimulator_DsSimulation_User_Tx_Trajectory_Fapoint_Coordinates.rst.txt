@@ -1,0 +1,30 @@
+Coordinates
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Tx_.Trajectory_.Fapoint_.Coordinates.Coordinates
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.dsSimulation.user.tx.trajectory.fapoint.coordinates.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Fsimulator_DsSimulation_User_Tx_Trajectory_Fapoint_Coordinates_Dms.rst
+	Source_Fsimulator_DsSimulation_User_Tx_Trajectory_Fapoint_Coordinates_Xyz.rst
+	Source_Fsimulator_DsSimulation_User_Tx_Trajectory_Fapoint_Coordinates_Decimal.rst

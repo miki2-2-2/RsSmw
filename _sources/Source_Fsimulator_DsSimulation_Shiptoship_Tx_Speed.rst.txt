@@ -1,0 +1,20 @@
+Speed
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:SHIPtoship:TX<Channel>:SPEed
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:SHIPtoship:TX<Channel>:SPEed
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.Shiptoship_.Tx_.Speed.Speed
+	:members:
+	:undoc-members:
+	:noindex:

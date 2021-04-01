@@ -1,0 +1,20 @@
+Rbid
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:NIOT:RBID
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:NIOT:RBID
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Prach_.Niot_.Rbid.Rbid
+	:members:
+	:undoc-members:
+	:noindex:

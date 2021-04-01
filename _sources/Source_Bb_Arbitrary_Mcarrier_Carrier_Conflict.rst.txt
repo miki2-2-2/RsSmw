@@ -1,0 +1,20 @@
+Conflict
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ARBitrary:MCARrier:CARRier<Channel>:CONFlict
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ARBitrary:MCARrier:CARRier<Channel>:CONFlict
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Arbitrary_.Mcarrier_.Carrier_.Conflict.Conflict
+	:members:
+	:undoc-members:
+	:noindex:

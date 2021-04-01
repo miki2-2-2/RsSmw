@@ -1,0 +1,20 @@
+Tcmd
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:EMTC:DCI:ALLoc<Channel>:TCMD
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:EMTC:DCI:ALLoc<Channel>:TCMD
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Emtc_.Dci_.Alloc_.Tcmd.Tcmd
+	:members:
+	:undoc-members:
+	:noindex:

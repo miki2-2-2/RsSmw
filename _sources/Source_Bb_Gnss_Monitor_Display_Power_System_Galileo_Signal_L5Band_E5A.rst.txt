@@ -1,0 +1,20 @@
+E5A
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:GALileo<Stream>:SIGNal:L5Band:E5A
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:GALileo<Stream>:SIGNal:L5Band:E5A
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Monitor_.Display_.Power_.System_.Galileo_.Signal_.L5Band_.E5A.E5A
+	:members:
+	:undoc-members:
+	:noindex:

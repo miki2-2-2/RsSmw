@@ -1,0 +1,20 @@
+Value
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:SLOT<Channel>:CHANnel<Subchannel>:DPCCh:TFCI:VALue
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:SLOT<Channel>:CHANnel<Subchannel>:DPCCh:TFCI:VALue
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Slot_.Channel_.Dpcch_.Tfci_.Value.Value
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Nresources
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:NRESources
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:NRESources
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Prs_.Rset_.Nresources.Nresources
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,24 @@
+Clock
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:CLOCk:MODE
+	single: SOURce<HwInstance>:BB:WLAN:CLOCk:MULTiplier
+	single: SOURce<HwInstance>:BB:WLAN:CLOCk:SOURce
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:CLOCk:MODE
+	SOURce<HwInstance>:BB:WLAN:CLOCk:MULTiplier
+	SOURce<HwInstance>:BB:WLAN:CLOCk:SOURce
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Clock.Clock
+	:members:
+	:undoc-members:
+	:noindex:

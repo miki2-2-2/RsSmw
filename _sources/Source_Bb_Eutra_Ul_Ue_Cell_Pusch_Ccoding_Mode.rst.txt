@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:CELL<CarrierComponent>:PUSCh:CCODing:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:CELL<CarrierComponent>:PUSCh:CCODing:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Cell_.Pusch_.Ccoding_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

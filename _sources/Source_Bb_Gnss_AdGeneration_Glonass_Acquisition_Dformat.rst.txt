@@ -1,0 +1,20 @@
+Dformat
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ADGeneration:GLONass<Stream>:ACQuisition:DFORmat
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ADGeneration:GLONass<Stream>:ACQuisition:DFORmat
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.AdGeneration_.Glonass_.Acquisition_.Dformat.Dformat
+	:members:
+	:undoc-members:
+	:noindex:

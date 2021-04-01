@@ -1,0 +1,20 @@
+Gain
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:SCWI:CLUSter<Channel>:TAP<Stream>:SUBCluster<SubCluster>:GAIN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:SCWI:CLUSter<Channel>:TAP<Stream>:SUBCluster<SubCluster>:GAIN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Scwi_.Cluster_.Tap_.SubCluster_.Gain.Gain
+	:members:
+	:undoc-members:
+	:noindex:

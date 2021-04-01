@@ -1,0 +1,20 @@
+External
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:CHANnel<Channel>:DPCH:DPControl:STEP:EXTernal
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:CHANnel<Channel>:DPCH:DPControl:STEP:EXTernal
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Enhanced_.Channel_.Dpch_.DpControl_.Step_.External.External
+	:members:
+	:undoc-members:
+	:noindex:

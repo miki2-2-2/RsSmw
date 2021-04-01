@@ -1,0 +1,20 @@
+Ntrans
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS<SoundRefSignalIx>:SYM<SymbolIx>:NTRans
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS<SoundRefSignalIx>:SYM<SymbolIx>:NTRans
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.Cell_.Refsig_.Srs_.Sym_.Ntrans.Ntrans
+	:members:
+	:undoc-members:
+	:noindex:

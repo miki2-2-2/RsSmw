@@ -1,0 +1,20 @@
+Dselect
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:EMTC:ALLoc<Channel>:DSELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:EMTC:ALLoc<Channel>:DSELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Emtc_.Alloc_.Dselect.Dselect
+	:members:
+	:undoc-members:
+	:noindex:

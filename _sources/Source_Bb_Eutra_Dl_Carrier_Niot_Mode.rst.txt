@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CARRier<Channel>:NIOT:MODE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CARRier<Channel>:NIOT:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Carrier_.Niot_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,36 @@
+Interleaver<Interleave>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr2
+	rc = driver.source.bb.w3Gpp.bstation.enhanced.pccpch.ccoding.interleaver.repcap_interleave_get()
+	driver.source.bb.w3Gpp.bstation.enhanced.pccpch.ccoding.interleaver.repcap_interleave_set(repcap.Interleave.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:PCCPch:CCODing:INTerleaver<Interleave>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:PCCPch:CCODing:INTerleaver<Interleave>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Enhanced_.Pccpch_.Ccoding_.Interleaver.Interleaver
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.w3Gpp.bstation.enhanced.pccpch.ccoding.interleaver.clone()

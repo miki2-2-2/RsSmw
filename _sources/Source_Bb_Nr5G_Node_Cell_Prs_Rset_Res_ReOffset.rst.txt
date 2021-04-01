@@ -1,0 +1,20 @@
+ReOffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:RES<SrsRsrcSetRsrc>:REOFfset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:PRS:RSET<Stream>:RES<SrsRsrcSetRsrc>:REOFfset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Prs_.Rset_.Res_.ReOffset.ReOffset
+	:members:
+	:undoc-members:
+	:noindex:

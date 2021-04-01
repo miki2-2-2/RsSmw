@@ -1,0 +1,20 @@
+Limit
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:POWer:LIMit:AMPLitude
+
+.. code-block:: python
+
+	SOURce<HwInstance>:POWer:LIMit:AMPLitude
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Power_.Limit.Limit
+	:members:
+	:undoc-members:
+	:noindex:

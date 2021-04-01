@@ -1,0 +1,20 @@
+Ontime
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:TRIGger:OUTPut<Channel>:ONTime
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:TRIGger:OUTPut<Channel>:ONTime
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Trigger_.Output_.Ontime.Ontime
+	:members:
+	:undoc-members:
+	:noindex:

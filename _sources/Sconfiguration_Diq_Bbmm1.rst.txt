@@ -1,0 +1,20 @@
+Bbmm1
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SCONfiguration:DIQ:BBMM1:CHANnels
+
+.. code-block:: python
+
+	SCONfiguration:DIQ:BBMM1:CHANnels
+
+
+
+.. autoclass:: RsSmw.Implementations.Sconfiguration_.Diq_.Bbmm1.Bbmm1
+	:members:
+	:undoc-members:
+	:noindex:

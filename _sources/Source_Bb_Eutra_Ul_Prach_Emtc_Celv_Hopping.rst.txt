@@ -1,0 +1,20 @@
+Hopping
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:PRACh:EMTC:CELV<Channel>:HOPPing
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:PRACh:EMTC:CELV<Channel>:HOPPing
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Prach_.Emtc_.Celv_.Hopping.Hopping
+	:members:
+	:undoc-members:
+	:noindex:

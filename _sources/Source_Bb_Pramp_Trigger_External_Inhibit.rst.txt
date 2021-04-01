@@ -1,0 +1,20 @@
+Inhibit
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:PRAMp:TRIGger:EXTernal<Channel>:INHibit
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:PRAMp:TRIGger:EXTernal<Channel>:INHibit
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Pramp_.Trigger_.External_.Inhibit.Inhibit
+	:members:
+	:undoc-members:
+	:noindex:

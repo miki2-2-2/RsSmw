@@ -1,0 +1,20 @@
+User
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:SLOT<Channel>:CHANnel<Subchannel>:USER
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:SLOT<Channel>:CHANnel<Subchannel>:USER
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Slot_.Channel_.User.User
+	:members:
+	:undoc-members:
+	:noindex:

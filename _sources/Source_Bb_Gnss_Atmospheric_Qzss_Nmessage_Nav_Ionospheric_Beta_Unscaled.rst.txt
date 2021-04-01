@@ -1,0 +1,20 @@
+Unscaled
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ATMospheric:QZSS:NMESsage:NAV:IONospheric:BETA<Channel>:UNSCaled
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ATMospheric:QZSS:NMESsage:NAV:IONospheric:BETA<Channel>:UNSCaled
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Atmospheric_.Qzss_.Nmessage_.Nav_.Ionospheric_.Beta_.Unscaled.Unscaled
+	:members:
+	:undoc-members:
+	:noindex:

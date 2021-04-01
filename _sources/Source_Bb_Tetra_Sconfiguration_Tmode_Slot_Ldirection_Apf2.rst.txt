@@ -1,0 +1,20 @@
+Apf2
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TETRa:SCONfiguration:TMODe<TestMode>:SLOT<Stream>:LDIRection<Channel>:APF2
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TETRa:SCONfiguration:TMODe<TestMode>:SLOT<Stream>:LDIRection<Channel>:APF2
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tetra_.Sconfiguration_.Tmode_.Slot_.Ldirection_.Apf2.Apf2
+	:members:
+	:undoc-members:
+	:noindex:

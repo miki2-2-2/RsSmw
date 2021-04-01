@@ -1,0 +1,20 @@
+F5Naport
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PUCCh:F5Naport
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PUCCh:F5Naport
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Pucch_.F5Naport.F5Naport
+	:members:
+	:undoc-members:
+	:noindex:

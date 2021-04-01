@@ -1,0 +1,34 @@
+Fader
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Output_.Digital_.Fader.Fader
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.output.digital.fader.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Output_Digital_Fader_Cdevice.rst
+	Source_Iq_Output_Digital_Fader_Interface.rst
+	Source_Iq_Output_Digital_Fader_Oflow.rst
+	Source_Iq_Output_Digital_Fader_Pon.rst
+	Source_Iq_Output_Digital_Fader_Power.rst
+	Source_Iq_Output_Digital_Fader_SymbolRate.rst
+	Source_Iq_Output_Digital_Fader_State.rst

@@ -1,0 +1,20 @@
+F1Naport
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:PUCCh:F1Naport
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:PUCCh:F1Naport
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Ue_.Pucch_.F1Naport.F1Naport
+	:members:
+	:undoc-members:
+	:noindex:

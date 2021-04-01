@@ -1,0 +1,20 @@
+Angle
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:SCM:TAP<Stream>:ARRival:ANGLe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:SCM:TAP<Stream>:ARRival:ANGLe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Scm_.Tap_.Arrival_.Angle.Angle
+	:members:
+	:undoc-members:
+	:noindex:

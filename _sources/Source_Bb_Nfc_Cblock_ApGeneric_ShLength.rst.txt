@@ -1,0 +1,20 @@
+ShLength
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:APGeneric:SHLength
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:APGeneric:SHLength
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.ApGeneric_.ShLength.ShLength
+	:members:
+	:undoc-members:
+	:noindex:

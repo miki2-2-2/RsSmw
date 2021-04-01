@@ -1,0 +1,20 @@
+PowOffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS:POWoffset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS:POWoffset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Cell_.Refsig_.Srs_.PowOffset.PowOffset
+	:members:
+	:undoc-members:
+	:noindex:

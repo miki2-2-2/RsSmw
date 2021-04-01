@@ -1,0 +1,20 @@
+Actual
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:TCINterferer:REFerence<Channel>:FDOPpler:ACTual
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:TCINterferer:REFerence<Channel>:FDOPpler:ACTual
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.TcInterferer_.Reference_.Fdoppler_.Actual.Actual
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Stnb
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:EPDCch:CELL<Stream>:SET<Direction>:STNB
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:EPDCch:CELL<Stream>:SET<Direction>:STNB
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Epdcch_.Cell_.Set_.Stnb.Stnb
+	:members:
+	:undoc-members:
+	:noindex:

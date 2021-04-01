@@ -1,0 +1,20 @@
+Pre
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:GAIN:PRE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:GAIN:PRE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Gain_.Pre.Pre
+	:members:
+	:undoc-members:
+	:noindex:

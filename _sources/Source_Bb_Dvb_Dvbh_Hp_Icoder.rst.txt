@@ -1,0 +1,29 @@
+Icoder
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbh_.Hp_.Icoder.Icoder
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.dvb.dvbh.hp.icoder.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Dvb_Dvbh_Hp_Icoder_Rate.rst
+	Source_Bb_Dvb_Dvbh_Hp_Icoder_State.rst

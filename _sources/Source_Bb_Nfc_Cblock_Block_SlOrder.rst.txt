@@ -1,0 +1,20 @@
+SlOrder
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:BLOCk<Stream>:SLORder
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:BLOCk<Stream>:SLORder
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.Block_.SlOrder.SlOrder
+	:members:
+	:undoc-members:
+	:noindex:

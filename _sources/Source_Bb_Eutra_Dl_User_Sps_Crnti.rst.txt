@@ -1,0 +1,20 @@
+Crnti
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:SPS:CRNTi
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:SPS:CRNTi
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Sps_.Crnti.Crnti
+	:members:
+	:undoc-members:
+	:noindex:

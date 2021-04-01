@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:DVBT:HP<Channel>:ICODer:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:DVBT:HP<Channel>:ICODer:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbt_.Hp_.Icoder_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

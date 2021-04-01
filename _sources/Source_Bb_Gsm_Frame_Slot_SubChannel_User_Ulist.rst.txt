@@ -1,0 +1,40 @@
+Ulist
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:ULISt:DELete
+	single: SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:ULISt:LOAD
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:ULISt:DELete
+	SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:ULISt:LOAD
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gsm_.Frame_.Slot_.SubChannel_.User_.Ulist.Ulist
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.gsm.frame.slot.subChannel.user.ulist.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Gsm_Frame_Slot_SubChannel_User_Ulist_Catalog.rst
+	Source_Bb_Gsm_Frame_Slot_SubChannel_User_Ulist_Store.rst

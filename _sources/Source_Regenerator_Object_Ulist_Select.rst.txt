@@ -1,0 +1,20 @@
+Select
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:REGenerator:OBJect<Channel>:ULISt:SELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:REGenerator:OBJect<Channel>:ULISt:SELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Regenerator_.Object_.Ulist_.Select.Select
+	:members:
+	:undoc-members:
+	:noindex:

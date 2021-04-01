@@ -1,0 +1,20 @@
+B2A
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:BEIDou<Stream>:SIGNal:L5Band:B2A
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:BEIDou<Stream>:SIGNal:L5Band:B2A
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Monitor_.Display_.Power_.System_.Beidou_.Signal_.L5Band_.B2A.B2A
+	:members:
+	:undoc-members:
+	:noindex:

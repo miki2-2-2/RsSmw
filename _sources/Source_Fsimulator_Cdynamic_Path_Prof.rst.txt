@@ -1,0 +1,20 @@
+Prof
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:CDYNamic:PATH<Channel>:PROF
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:CDYNamic:PATH<Channel>:PROF
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Cdynamic_.Path_.Prof.Prof
+	:members:
+	:undoc-members:
+	:noindex:

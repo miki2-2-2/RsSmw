@@ -1,0 +1,20 @@
+TtInterval
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:DCCH<Channel>:TTINterval
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:ENH:DCH:DCCH<Channel>:TTINterval
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Enh_.Dch_.Dcch_.TtInterval.TtInterval
+	:members:
+	:undoc-members:
+	:noindex:

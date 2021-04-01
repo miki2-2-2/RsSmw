@@ -1,0 +1,29 @@
+Ccoding
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Cell_.Subf_.Alloc_.Cw_.Pusch_.Ccoding.Ccoding
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.cell.subf.alloc.cw.pusch.ccoding.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Ul_Cell_Subf_Alloc_Cw_Pusch_Ccoding_RvIndex.rst
+	Source_Bb_Eutra_Ul_Cell_Subf_Alloc_Cw_Pusch_Ccoding_TbSize.rst

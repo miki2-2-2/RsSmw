@@ -1,0 +1,20 @@
+UtrTiming
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:EXTC:ITEM<Channel>:DCIConf:UTRTiming
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:EXTC:ITEM<Channel>:DCIConf:UTRTiming
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Encc_.Xpdcch_.Extc_.Item_.DciConf_.UtrTiming.UtrTiming
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,36 @@
+TmiValue<IndicatorNr>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr7
+	rc = driver.source.bb.nr5G.ubwp.user.cell.ul.bwp.pucch.pdsharq.tmiValue.repcap_indicatorNr_get()
+	driver.source.bb.nr5G.ubwp.user.cell.ul.bwp.pucch.pdsharq.tmiValue.repcap_indicatorNr_set(repcap.IndicatorNr.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:PUCCh:PDSHarq:TMIValue<IndicatorNr>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:PUCCh:PDSHarq:TMIValue<IndicatorNr>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Ul_.Bwp_.Pucch_.Pdsharq_.TmiValue.TmiValue
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.nr5G.ubwp.user.cell.ul.bwp.pucch.pdsharq.tmiValue.clone()

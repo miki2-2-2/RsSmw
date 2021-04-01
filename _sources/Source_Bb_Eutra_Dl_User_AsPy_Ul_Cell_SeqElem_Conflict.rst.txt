@@ -1,0 +1,20 @@
+Conflict
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:AS:UL:CELL<Stream>:SEQelem:CONFlict
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:AS:UL:CELL<Stream>:SEQelem:CONFlict
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.AsPy_.Ul_.Cell_.SeqElem_.Conflict.Conflict
+	:members:
+	:undoc-members:
+	:noindex:

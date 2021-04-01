@@ -1,0 +1,20 @@
+Nsym
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:CELL<CarrierComponent>:PUSCh:UPPTs:NSYM
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:CELL<CarrierComponent>:PUSCh:UPPTs:NSYM
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Cell_.Pusch_.Uppts_.Nsym.Nsym
+	:members:
+	:undoc-members:
+	:noindex:

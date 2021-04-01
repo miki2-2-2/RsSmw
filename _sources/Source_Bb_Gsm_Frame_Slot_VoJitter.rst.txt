@@ -1,0 +1,20 @@
+VoJitter
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:VOJitter
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:VOJitter
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gsm_.Frame_.Slot_.VoJitter.VoJitter
+	:members:
+	:undoc-members:
+	:noindex:

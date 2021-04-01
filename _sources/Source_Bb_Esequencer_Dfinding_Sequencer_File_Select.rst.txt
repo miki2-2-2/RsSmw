@@ -1,0 +1,20 @@
+Select
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ESEQuencer:DFINding:SEQuencer<Stream>:FILE:SELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ESEQuencer:DFINding:SEQuencer<Stream>:FILE:SELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.Dfinding_.Sequencer_.File_.Select.Select
+	:members:
+	:undoc-members:
+	:noindex:

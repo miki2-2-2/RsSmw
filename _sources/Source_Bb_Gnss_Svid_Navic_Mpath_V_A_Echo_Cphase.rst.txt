@@ -1,0 +1,20 @@
+Cphase
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:MPATh:V<Vehicle>:A<Antenna>:ECHO<Echoes>:CPHase
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:MPATh:V<Vehicle>:A<Antenna>:ECHO<Echoes>:CPHase
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Navic_.Mpath_.V_.A_.Echo_.Cphase.Cphase
+	:members:
+	:undoc-members:
+	:noindex:

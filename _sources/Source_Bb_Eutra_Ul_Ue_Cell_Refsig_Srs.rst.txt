@@ -1,0 +1,51 @@
+Srs<SoundRefSignalIx>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr31
+	rc = driver.source.bb.eutra.ul.ue.cell.refsig.srs.repcap_soundRefSignalIx_get()
+	driver.source.bb.eutra.ul.ue.cell.refsig.srs.repcap_soundRefSignalIx_set(repcap.SoundRefSignalIx.Nr0)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Cell_.Refsig_.Srs.Srs
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.ue.cell.refsig.srs.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Bhop.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Bsrs.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_CycShift.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Isrs.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_NaPort.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Nktc.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Nrrc.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Ntrans.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_PowOffset.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_State.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Subf.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Toffset.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_TrComb.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Tsrs.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Tt0.rst
+	Source_Bb_Eutra_Ul_Ue_Cell_Refsig_Srs_Upptsadd.rst

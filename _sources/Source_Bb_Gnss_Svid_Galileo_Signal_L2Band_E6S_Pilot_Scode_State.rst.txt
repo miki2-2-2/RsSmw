@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SIGNal:L2Band:E6S:PILot:SCODe:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GALileo<Stream>:SIGNal:L2Band:E6S:PILot:SCODe:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Galileo_.Signal_.L2Band_.E6S_.Pilot_.Scode_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

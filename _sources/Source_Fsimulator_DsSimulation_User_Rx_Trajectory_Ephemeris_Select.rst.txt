@@ -1,0 +1,20 @@
+Select
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:USER:RX<Channel>:TRAJectory:EPHemeris:SELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:USER:RX<Channel>:TRAJectory:EPHemeris:SELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Rx_.Trajectory_.Ephemeris_.Select.Select
+	:members:
+	:undoc-members:
+	:noindex:

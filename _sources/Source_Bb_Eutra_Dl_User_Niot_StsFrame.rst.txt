@@ -1,0 +1,20 @@
+StsFrame
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:NIOT:STSFrame
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:NIOT:STSFrame
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Niot_.StsFrame.StsFrame
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+NumBursts
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:LAA:CELL<Channel>:NUMBursts
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:LAA:CELL<Channel>:NUMBursts
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Laa_.Cell_.NumBursts.NumBursts
+	:members:
+	:undoc-members:
+	:noindex:

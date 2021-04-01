@@ -1,0 +1,20 @@
+Dselect
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:CDYNamic:PATH<Channel>:DATA:DSELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:CDYNamic:PATH<Channel>:DATA:DSELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Cdynamic_.Path_.Data_.Dselect.Dselect
+	:members:
+	:undoc-members:
+	:noindex:

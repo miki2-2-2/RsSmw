@@ -1,0 +1,43 @@
+Time
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SYSTem:TIME:LOCal
+	single: SYSTem:TIME:UTC
+	single: SYSTem:TIME
+
+.. code-block:: python
+
+	SYSTem:TIME:LOCal
+	SYSTem:TIME:UTC
+	SYSTem:TIME
+
+
+
+.. autoclass:: RsSmw.Implementations.System_.Time.Time
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.system.time.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	System_Time_DaylightSavingTime.rst
+	System_Time_HrTimer.rst
+	System_Time_Zone.rst

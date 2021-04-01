@@ -1,0 +1,20 @@
+Maximum
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:TRIGger:OUTPut<Channel>:DELay:MAXimum
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:TRIGger:OUTPut<Channel>:DELay:MAXimum
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Trigger_.Output_.Delay_.Maximum.Maximum
+	:members:
+	:undoc-members:
+	:noindex:

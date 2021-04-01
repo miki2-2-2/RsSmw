@@ -1,0 +1,20 @@
+OffsetInd
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:SYNC:OFFSetind
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:SYNC:OFFSetind
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Sync_.OffsetInd.OffsetInd
+	:members:
+	:undoc-members:
+	:noindex:

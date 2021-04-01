@@ -1,0 +1,20 @@
+ConType
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:ALLoc<Channel>:CONType
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:ALLoc<Channel>:CONType
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Subf_.Alloc_.ConType.ConType
+	:members:
+	:undoc-members:
+	:noindex:

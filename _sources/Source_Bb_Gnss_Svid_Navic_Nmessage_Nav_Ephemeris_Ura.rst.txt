@@ -1,0 +1,20 @@
+Ura
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:NMESsage:NAV:EPHemeris:URA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:NMESsage:NAV:EPHemeris:URA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Navic_.Nmessage_.Nav_.Ephemeris_.Ura.Ura
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,42 @@
+Setting
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce:IQ:DOHerty<Stream>:SETTing:DELete
+	single: SOURce:IQ:DOHerty<Stream>:SETTing:LOAD
+	single: SOURce:IQ:DOHerty<Stream>:SETTing:PRESet
+
+.. code-block:: python
+
+	SOURce:IQ:DOHerty<Stream>:SETTing:DELete
+	SOURce:IQ:DOHerty<Stream>:SETTing:LOAD
+	SOURce:IQ:DOHerty<Stream>:SETTing:PRESet
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Setting.Setting
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.doherty.setting.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Doherty_Setting_Catalog.rst
+	Source_Iq_Doherty_Setting_Store.rst

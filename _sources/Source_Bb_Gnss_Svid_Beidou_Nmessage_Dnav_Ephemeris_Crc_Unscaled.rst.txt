@@ -1,0 +1,20 @@
+Unscaled
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:NMESsage:DNAV:EPHemeris:CRC:UNSCaled
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:NMESsage:DNAV:EPHemeris:CRC:UNSCaled
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Beidou_.Nmessage_.Dnav_.Ephemeris_.Crc_.Unscaled.Unscaled
+	:members:
+	:undoc-members:
+	:noindex:

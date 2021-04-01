@@ -1,0 +1,20 @@
+FcSequence
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCSequence:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:PSDU:MAC:FCSequence:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Psdu_.Mac_.FcSequence.FcSequence
+	:members:
+	:undoc-members:
+	:noindex:

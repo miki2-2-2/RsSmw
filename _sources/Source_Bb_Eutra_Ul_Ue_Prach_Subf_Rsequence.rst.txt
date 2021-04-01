@@ -1,0 +1,20 @@
+Rsequence
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:SUBF<Channel>:RSEQuence
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:SUBF<Channel>:RSEQuence
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Prach_.Subf_.Rsequence.Rsequence
+	:members:
+	:undoc-members:
+	:noindex:

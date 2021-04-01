@@ -1,0 +1,20 @@
+NzConfig
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:DRS:CELL<Channel>:CSIRs<Stream>:NZConfig
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:DRS:CELL<Channel>:CSIRs<Stream>:NZConfig
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Drs_.Cell_.Csirs_.NzConfig.NzConfig
+	:members:
+	:undoc-members:
+	:noindex:

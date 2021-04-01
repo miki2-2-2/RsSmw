@@ -1,0 +1,20 @@
+CbIndex
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:EMTC:ALLoc<Channel>:PRECoding:CBINdex
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:EMTC:ALLoc<Channel>:PRECoding:CBINdex
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Emtc_.Alloc_.Precoding_.CbIndex.CbIndex
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SYSTem:SBAS:WAAS<Stream>:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SYSTem:SBAS:WAAS<Stream>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.System_.Sbas_.Waas_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

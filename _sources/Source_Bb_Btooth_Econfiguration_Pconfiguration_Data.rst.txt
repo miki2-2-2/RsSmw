@@ -1,0 +1,24 @@
+Data
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:BTOoth:ECONfiguration:PCONfiguration:DATA:DPATtern
+	single: SOURce<HwInstance>:BB:BTOoth:ECONfiguration:PCONfiguration:DATA:DSELection
+	single: SOURce<HwInstance>:BB:BTOoth:ECONfiguration:PCONfiguration:DATA
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:BTOoth:ECONfiguration:PCONfiguration:DATA:DPATtern
+	SOURce<HwInstance>:BB:BTOoth:ECONfiguration:PCONfiguration:DATA:DSELection
+	SOURce<HwInstance>:BB:BTOoth:ECONfiguration:PCONfiguration:DATA
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Btooth_.Econfiguration_.Pconfiguration_.Data.Data
+	:members:
+	:undoc-members:
+	:noindex:

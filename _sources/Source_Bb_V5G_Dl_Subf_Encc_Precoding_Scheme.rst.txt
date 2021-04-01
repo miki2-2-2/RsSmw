@@ -1,0 +1,20 @@
+Scheme
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:PRECoding:SCHeme
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:PRECoding:SCHeme
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Encc_.Precoding_.Scheme.Scheme
+	:members:
+	:undoc-members:
+	:noindex:

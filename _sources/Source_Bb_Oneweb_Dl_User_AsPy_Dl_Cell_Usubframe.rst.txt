@@ -1,0 +1,36 @@
+Usubframe<DlSubframeIx>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr9
+	rc = driver.source.bb.oneweb.dl.user.asPy.dl.cell.usubframe.repcap_dlSubframeIx_get()
+	driver.source.bb.oneweb.dl.user.asPy.dl.cell.usubframe.repcap_dlSubframeIx_set(repcap.DlSubframeIx.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:AS:DL:CELL<CarrierComponent>:USUBframe<DlSubframeIx>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:AS:DL:CELL<CarrierComponent>:USUBframe<DlSubframeIx>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.User_.AsPy_.Dl_.Cell_.Usubframe.Usubframe
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.oneweb.dl.user.asPy.dl.cell.usubframe.clone()

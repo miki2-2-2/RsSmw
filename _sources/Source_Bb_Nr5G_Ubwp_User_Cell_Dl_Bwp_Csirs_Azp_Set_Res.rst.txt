@@ -1,0 +1,44 @@
+Res<SrsRsrcSetRsrc>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr63
+	rc = driver.source.bb.nr5G.ubwp.user.cell.dl.bwp.csirs.azp.set.res.repcap_srsRsrcSetRsrc_get()
+	driver.source.bb.nr5G.ubwp.user.cell.dl.bwp.csirs.azp.set.res.repcap_srsRsrcSetRsrc_set(repcap.SrsRsrcSetRsrc.Nr0)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Dl_.Bwp_.Csirs_.Azp_.Set_.Res.Res
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.nr5G.ubwp.user.cell.dl.bwp.csirs.azp.set.res.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Csirs_Azp_Set_Res_Bitmap.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Csirs_Azp_Set_Res_CdmType.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Csirs_Azp_Set_Res_Density.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Csirs_Azp_Set_Res_I0.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Csirs_Azp_Set_Res_I1.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Csirs_Azp_Set_Res_Ports.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Csirs_Azp_Set_Res_RbNumber.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Csirs_Azp_Set_Res_Row.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Dl_Bwp_Csirs_Azp_Set_Res_SrbNumber.rst

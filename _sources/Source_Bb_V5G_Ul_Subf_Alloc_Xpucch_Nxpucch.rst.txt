@@ -1,0 +1,20 @@
+Nxpucch
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:SUBF<Stream>:ALLoc<Channel>:XPUCch:NXPucch
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:SUBF<Stream>:ALLoc<Channel>:XPUCch:NXPucch
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Subf_.Alloc_.Xpucch_.Nxpucch.Nxpucch
+	:members:
+	:undoc-members:
+	:noindex:

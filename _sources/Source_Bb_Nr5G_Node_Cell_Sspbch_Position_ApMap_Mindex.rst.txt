@@ -1,0 +1,20 @@
+Mindex
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:POSition:APMap<AntennaPortMap>:MINDex
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SSPBch<Stream>:POSition:APMap<AntennaPortMap>:MINDex
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Sspbch_.Position_.ApMap_.Mindex.Mindex
+	:members:
+	:undoc-members:
+	:noindex:

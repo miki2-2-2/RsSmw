@@ -1,0 +1,20 @@
+SubChannel
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:SCI<Channel>:SUBChannel
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:SCI<Channel>:SUBChannel
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Sci_.SubChannel.SubChannel
+	:members:
+	:undoc-members:
+	:noindex:

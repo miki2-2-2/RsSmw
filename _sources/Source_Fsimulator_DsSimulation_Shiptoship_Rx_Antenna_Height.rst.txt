@@ -1,0 +1,20 @@
+Height
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:SHIPtoship:RX<Channel>:ANTenna:HEIGht
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:SHIPtoship:RX<Channel>:ANTenna:HEIGht
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.Shiptoship_.Rx_.Antenna_.Height.Height
+	:members:
+	:undoc-members:
+	:noindex:

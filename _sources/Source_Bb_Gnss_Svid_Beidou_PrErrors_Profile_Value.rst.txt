@@ -1,0 +1,20 @@
+Value
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:PRERrors:PROFile<PseudoRange>:VALue
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:PRERrors:PROFile<PseudoRange>:VALue
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Beidou_.PrErrors_.Profile_.Value.Value
+	:members:
+	:undoc-members:
+	:noindex:

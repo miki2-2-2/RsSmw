@@ -1,0 +1,20 @@
+SpsConf
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CA:CELL<Channel>:SPSConf
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CA:CELL<Channel>:SPSConf
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Ca_.Cell_.SpsConf.SpsConf
+	:members:
+	:undoc-members:
+	:noindex:

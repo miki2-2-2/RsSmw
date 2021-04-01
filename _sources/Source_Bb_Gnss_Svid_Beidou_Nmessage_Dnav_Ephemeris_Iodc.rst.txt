@@ -1,0 +1,20 @@
+Iodc
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:NMESsage:DNAV:EPHemeris:IODC
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:NMESsage:DNAV:EPHemeris:IODC
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Beidou_.Nmessage_.Dnav_.Ephemeris_.Iodc.Iodc
+	:members:
+	:undoc-members:
+	:noindex:

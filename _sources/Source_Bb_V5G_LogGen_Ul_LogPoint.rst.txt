@@ -1,0 +1,36 @@
+LogPoint<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.v5G.logGen.ul.logPoint.repcap_channel_get()
+	driver.source.bb.v5G.logGen.ul.logPoint.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:LOGGen:UL:LOGPoint<Channel>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:LOGGen:UL:LOGPoint<Channel>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.LogGen_.Ul_.LogPoint.LogPoint
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.v5G.logGen.ul.logPoint.clone()

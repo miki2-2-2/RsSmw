@@ -1,0 +1,20 @@
+Power
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:EPDCch:CELL<Stream>:SET<Direction>:POWer
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:EPDCch:CELL<Stream>:SET<Direction>:POWer
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Epdcch_.Cell_.Set_.Power.Power
+	:members:
+	:undoc-members:
+	:noindex:

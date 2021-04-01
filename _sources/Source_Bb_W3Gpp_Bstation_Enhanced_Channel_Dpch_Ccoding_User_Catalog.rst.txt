@@ -1,0 +1,20 @@
+Catalog
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:CHANnel<Channel>:DPCH:CCODing:USER:CATalog
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:CHANnel<Channel>:DPCH:CCODing:USER:CATalog
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Enhanced_.Channel_.Dpch_.Ccoding_.User_.Catalog.Catalog
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+RmAttribute
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:DTCH<Channel>:RMATtribute
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:CELL<Stream>:ENH:DCH:DTCH<Channel>:RMATtribute
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Cell_.Enh_.Dch_.Dtch_.RmAttribute.RmAttribute
+	:members:
+	:undoc-members:
+	:noindex:

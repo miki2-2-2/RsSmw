@@ -1,0 +1,20 @@
+CidGroup
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CARRier<Channel>:NIOT:CIDGroup
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CARRier<Channel>:NIOT:CIDGroup
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Carrier_.Niot_.CidGroup.CidGroup
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Pmanagement
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:MAC:FCONtrol:PMANagement
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:MAC:FCONtrol:PMANagement
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.User_.Mac_.Fcontrol_.Pmanagement.Pmanagement
+	:members:
+	:undoc-members:
+	:noindex:

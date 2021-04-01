@@ -1,0 +1,20 @@
+FormatPy
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:FORMat
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:FORMat
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Subf_.Alloc_.Pucch_.FormatPy.FormatPy
+	:members:
+	:undoc-members:
+	:noindex:

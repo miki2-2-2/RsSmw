@@ -1,0 +1,20 @@
+Rate
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:CHANnel<Channel>:DPCH:DERRor:BIT:RATE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:CHANnel<Channel>:DPCH:DERRor:BIT:RATE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Enhanced_.Channel_.Dpch_.Derror_.Bit_.Rate.Rate
+	:members:
+	:undoc-members:
+	:noindex:

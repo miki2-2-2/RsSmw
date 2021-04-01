@@ -1,0 +1,20 @@
+Gain
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:TGN:RAY<Stream>:GAIN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:TGN:RAY<Stream>:GAIN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Tap_.Tgn_.Ray_.Gain.Gain
+	:members:
+	:undoc-members:
+	:noindex:

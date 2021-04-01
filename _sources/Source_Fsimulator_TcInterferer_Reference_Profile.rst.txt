@@ -1,0 +1,20 @@
+Profile
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:TCINterferer:REFerence<Channel>:PROFile
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:TCINterferer:REFerence<Channel>:PROFile
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.TcInterferer_.Reference_.Profile.Profile
+	:members:
+	:undoc-members:
+	:noindex:

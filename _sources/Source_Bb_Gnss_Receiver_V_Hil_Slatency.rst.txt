@@ -1,0 +1,20 @@
+Slatency
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:HIL:SLATency
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:HIL:SLATency
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.Hil_.Slatency.Slatency
+	:members:
+	:undoc-members:
+	:noindex:

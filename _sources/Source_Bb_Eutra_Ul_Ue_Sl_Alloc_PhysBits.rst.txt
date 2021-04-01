@@ -1,0 +1,20 @@
+PhysBits
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:ALLoc<Channel>:PHYSbits
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:ALLoc<Channel>:PHYSbits
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Alloc_.PhysBits.PhysBits
+	:members:
+	:undoc-members:
+	:noindex:

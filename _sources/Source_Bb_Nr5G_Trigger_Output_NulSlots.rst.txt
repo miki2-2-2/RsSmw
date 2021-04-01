@@ -1,0 +1,20 @@
+NulSlots
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:TRIGger:OUTPut<Channel>:NULSlots
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:TRIGger:OUTPut<Channel>:NULSlots
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Trigger_.Output_.NulSlots.NulSlots
+	:members:
+	:undoc-members:
+	:noindex:

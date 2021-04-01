@@ -1,0 +1,54 @@
+Sci<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.eutra.ul.ue.sl.sci.repcap_channel_get()
+	driver.source.bb.eutra.ul.ue.sl.sci.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Sci.Sci
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.ue.sl.sci.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_BitData.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_FhFlag.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_FormatPy.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_FreqResloc.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_Grid.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_Mcs.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_Npscch.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_Pririty.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_PscPeriod.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_RbahoppAlloc.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_Rreservation.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_Sf.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_StartSf.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_SubChannel.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_TaInd.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_TimGap.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_Trp.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_TxIndex.rst
+	Source_Bb_Eutra_Ul_Ue_Sl_Sci_Txmode.rst

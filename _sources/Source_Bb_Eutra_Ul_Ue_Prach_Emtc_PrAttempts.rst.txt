@@ -1,0 +1,20 @@
+PrAttempts
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:EMTC:PRATtempts
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:EMTC:PRATtempts
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Prach_.Emtc_.PrAttempts.PrAttempts
+	:members:
+	:undoc-members:
+	:noindex:

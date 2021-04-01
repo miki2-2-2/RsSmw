@@ -1,0 +1,17 @@
+Welcome to the RsSmw Documentation
+====================================================================
+
+.. image:: icon.png
+   :class: with-shadow
+   :align: right
+   
+.. toctree::
+   :maxdepth: 6
+   :caption: Contents:
+   
+   genindex
+   Readme.rst
+   GettingStarted.rst
+   enums.rst
+   repcap.rst
+   RsSmw.rst

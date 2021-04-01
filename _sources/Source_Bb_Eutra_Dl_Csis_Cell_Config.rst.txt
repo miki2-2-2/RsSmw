@@ -1,0 +1,36 @@
+Config<ConfigIx>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr15
+	rc = driver.source.bb.eutra.dl.csis.cell.config.repcap_configIx_get()
+	driver.source.bb.eutra.dl.csis.cell.config.repcap_configIx_set(repcap.ConfigIx.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:CONFig<ConfigIx>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CSIS:CELL<Channel>:CONFig<ConfigIx>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Csis_.Cell_.Config.Config
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.csis.cell.config.clone()

@@ -1,0 +1,20 @@
+Active
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SV:SELection:SBAS<Stream>:ACTive
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SV:SELection:SBAS<Stream>:ACTive
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Sv_.Selection_.Sbas_.Active.Active
+	:members:
+	:undoc-members:
+	:noindex:

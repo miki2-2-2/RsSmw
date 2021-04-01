@@ -1,0 +1,36 @@
+Matrix<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.fsimulator.mimo.tap.antenna.polarization.matrix.repcap_stream_get()
+	driver.source.fsimulator.mimo.tap.antenna.polarization.matrix.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:ANTenna:POLarization:MATRix<Stream>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:ANTenna:POLarization:MATRix<Stream>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Tap_.Antenna_.Polarization_.Matrix.Matrix
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.mimo.tap.antenna.polarization.matrix.clone()

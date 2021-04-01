@@ -1,0 +1,20 @@
+Wcodes
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:BSTation<Stream>:PDCHannel:SUBPacket<Subpacket>:WCODes
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:BSTation<Stream>:PDCHannel:SUBPacket<Subpacket>:WCODes
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.PdChannel_.SubPacket_.Wcodes.Wcodes
+	:members:
+	:undoc-members:
+	:noindex:

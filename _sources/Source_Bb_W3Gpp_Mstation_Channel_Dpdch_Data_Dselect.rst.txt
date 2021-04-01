@@ -1,0 +1,20 @@
+Dselect
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:CHANnel<Channel>:DPDCh:DATA:DSELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:CHANnel<Channel>:DPDCh:DATA:DSELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Channel_.Dpdch_.Data_.Dselect.Dselect
+	:members:
+	:undoc-members:
+	:noindex:

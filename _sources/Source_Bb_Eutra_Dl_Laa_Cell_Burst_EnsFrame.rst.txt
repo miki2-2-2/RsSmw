@@ -1,0 +1,20 @@
+EnsFrame
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:LAA:CELL<Channel>:BURSt<Stream>:ENSFrame
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:LAA:CELL<Channel>:BURSt<Stream>:ENSFrame
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Laa_.Cell_.Burst_.EnsFrame.EnsFrame
+	:members:
+	:undoc-members:
+	:noindex:

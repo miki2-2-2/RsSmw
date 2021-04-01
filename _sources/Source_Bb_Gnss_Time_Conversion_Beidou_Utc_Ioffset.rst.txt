@@ -1,0 +1,20 @@
+Ioffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:TIME:CONVersion:BEIDou<Stream>:UTC:IOFFset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:TIME:CONVersion:BEIDou<Stream>:UTC:IOFFset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Time_.Conversion_.Beidou_.Utc_.Ioffset.Ioffset
+	:members:
+	:undoc-members:
+	:noindex:

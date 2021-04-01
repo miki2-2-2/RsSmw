@@ -1,0 +1,20 @@
+Apply
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:CORRection:FRESponse:RF:USER:APPLy
+
+.. code-block:: python
+
+	SOURce<HwInstance>:CORRection:FRESponse:RF:USER:APPLy
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Correction_.Fresponse_.Rf_.User_.Apply.Apply
+	:members:
+	:undoc-members:
+	:noindex:

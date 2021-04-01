@@ -1,0 +1,20 @@
+Conflict
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:TXBW:CONFlict
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:TXBW:CONFlict
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Txbw_.Conflict.Conflict
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+File
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ESEQuencer:USER:HOTime:FILE:CATalog
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ESEQuencer:USER:HOTime:FILE:CATalog
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.User_.HoTime_.File.File
+	:members:
+	:undoc-members:
+	:noindex:

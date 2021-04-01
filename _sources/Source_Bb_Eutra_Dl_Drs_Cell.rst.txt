@@ -1,0 +1,44 @@
+Cell<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.eutra.dl.drs.cell.repcap_channel_get()
+	driver.source.bb.eutra.dl.drs.cell.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Drs_.Cell.Cell
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.drs.cell.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Dl_Drs_Cell_CdState.rst
+	Source_Bb_Eutra_Dl_Drs_Cell_Csirs.rst
+	Source_Bb_Eutra_Dl_Drs_Cell_Duration.rst
+	Source_Bb_Eutra_Dl_Drs_Cell_Nzpnum.rst
+	Source_Bb_Eutra_Dl_Drs_Cell_Offset.rst
+	Source_Bb_Eutra_Dl_Drs_Cell_Pattern.rst
+	Source_Bb_Eutra_Dl_Drs_Cell_Periodicity.rst
+	Source_Bb_Eutra_Dl_Drs_Cell_State.rst
+	Source_Bb_Eutra_Dl_Drs_Cell_ZpNum.rst

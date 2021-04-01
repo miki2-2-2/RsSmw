@@ -1,0 +1,20 @@
+High
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:LFOutput<Channel>:SHAPe:TRAPeze:HIGH
+
+.. code-block:: python
+
+	SOURce<HwInstance>:LFOutput<Channel>:SHAPe:TRAPeze:HIGH
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.LfOutput_.Shape_.Trapeze_.High.High
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Roffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:TRIGger:OUTPut<Channel>:ROFFset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:TRIGger:OUTPut<Channel>:ROFFset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Trigger_.Output_.Roffset.Roffset
+	:members:
+	:undoc-members:
+	:noindex:

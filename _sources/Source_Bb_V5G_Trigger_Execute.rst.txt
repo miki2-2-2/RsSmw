@@ -1,0 +1,20 @@
+Execute
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:TRIGger:EXECute
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:TRIGger:EXECute
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Trigger_.Execute.Execute
+	:members:
+	:undoc-members:
+	:noindex:

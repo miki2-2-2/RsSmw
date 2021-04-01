@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:PM<Channel>:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:PM<Channel>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Pm_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

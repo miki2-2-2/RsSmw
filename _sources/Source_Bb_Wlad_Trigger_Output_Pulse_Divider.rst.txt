@@ -1,0 +1,20 @@
+Divider
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAD:TRIGger:OUTPut<Channel>:PULSe:DIVider
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAD:TRIGger:OUTPut<Channel>:PULSe:DIVider
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlad_.Trigger_.Output_.Pulse_.Divider.Divider
+	:members:
+	:undoc-members:
+	:noindex:

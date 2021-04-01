@@ -1,0 +1,20 @@
+Config
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:AWGN:RF<Channel>:CONFig
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:AWGN:RF<Channel>:CONFig
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Awgn_.Rf_.Config.Config
+	:members:
+	:undoc-members:
+	:noindex:

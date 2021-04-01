@@ -1,0 +1,20 @@
+Wnumber
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:TIME:STARt:NAVic<Stream>:WNUMber
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:TIME:STARt:NAVic<Stream>:WNUMber
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Time_.Start_.Navic_.Wnumber.Wnumber
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Period
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SYSTem:SBAS:WAAS<Stream>:NMESsage:NAV:DFACtor:PERiod
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SYSTem:SBAS:WAAS<Stream>:NMESsage:NAV:DFACtor:PERiod
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.System_.Sbas_.Waas_.Nmessage_.Nav_.Dfactor_.Period.Period
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Rframe
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ADGeneration:QZSS<Stream>:LOCation:COORdinates:RFRame
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ADGeneration:QZSS<Stream>:LOCation:COORdinates:RFRame
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.AdGeneration_.Qzss_.Location_.Coordinates_.Rframe.Rframe
+	:members:
+	:undoc-members:
+	:noindex:

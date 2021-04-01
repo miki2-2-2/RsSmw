@@ -1,0 +1,20 @@
+Spread
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:OFDM:ALLoc<Channel>:SCMA:SPRead
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:OFDM:ALLoc<Channel>:SCMA:SPRead
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Ofdm_.Alloc_.Scma_.Spread.Spread
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Bw
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CA:CELL<Channel>:BW
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CA:CELL<Channel>:BW
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Ca_.Cell_.Bw.Bw
+	:members:
+	:undoc-members:
+	:noindex:

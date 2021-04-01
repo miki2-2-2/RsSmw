@@ -1,0 +1,20 @@
+Prbs
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:EPDCch:CELL<Stream>:SET<Direction>:PRBS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:EPDCch:CELL<Stream>:SET<Direction>:PRBS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.User_.Epdcch_.Cell_.Set_.Prbs.Prbs
+	:members:
+	:undoc-members:
+	:noindex:

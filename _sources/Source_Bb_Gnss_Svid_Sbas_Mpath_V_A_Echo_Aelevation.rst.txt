@@ -1,0 +1,20 @@
+Aelevation
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:SBAS<Stream>:MPATh:V<Vehicle>:A<Antenna>:ECHO<Echoes>:AELEVation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:SBAS<Stream>:MPATh:V<Vehicle>:A<Antenna>:ECHO<Echoes>:AELEVation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Sbas_.Mpath_.V_.A_.Echo_.Aelevation.Aelevation
+	:members:
+	:undoc-members:
+	:noindex:

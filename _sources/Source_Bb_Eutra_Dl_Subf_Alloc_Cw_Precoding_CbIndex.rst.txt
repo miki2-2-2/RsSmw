@@ -1,0 +1,36 @@
+CbIndex<CodeBookIx>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr15
+	rc = driver.source.bb.eutra.dl.subf.alloc.cw.precoding.cbIndex.repcap_codeBookIx_get()
+	driver.source.bb.eutra.dl.subf.alloc.cw.precoding.cbIndex.repcap_codeBookIx_set(repcap.CodeBookIx.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:PRECoding:CBINdex<CodeBookIx>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:SUBF<Stream>:ALLoc<Channel>:CW<Codeword>:PRECoding:CBINdex<CodeBookIx>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf_.Alloc_.Cw_.Precoding_.CbIndex.CbIndex
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.subf.alloc.cw.precoding.cbIndex.clone()

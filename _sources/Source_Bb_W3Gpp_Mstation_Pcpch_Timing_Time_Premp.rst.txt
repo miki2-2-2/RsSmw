@@ -1,0 +1,20 @@
+Premp
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PCPCh:TIMing:TIME:PREMp
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PCPCh:TIMing:TIME:PREMp
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Pcpch_.Timing_.Time_.Premp.Premp
+	:members:
+	:undoc-members:
+	:noindex:

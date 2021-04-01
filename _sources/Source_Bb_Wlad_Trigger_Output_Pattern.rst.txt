@@ -1,0 +1,20 @@
+Pattern
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAD:TRIGger:OUTPut<Channel>:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAD:TRIGger:OUTPut<Channel>:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlad_.Trigger_.Output_.Pattern.Pattern
+	:members:
+	:undoc-members:
+	:noindex:

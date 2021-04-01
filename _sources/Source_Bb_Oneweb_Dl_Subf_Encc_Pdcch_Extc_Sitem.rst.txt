@@ -1,0 +1,20 @@
+Sitem
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:SITem
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:SUBF<Stream>:ENCC:PDCCh:EXTC:SITem
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.Subf_.Encc_.Pdcch_.Extc_.Sitem.Sitem
+	:members:
+	:undoc-members:
+	:noindex:

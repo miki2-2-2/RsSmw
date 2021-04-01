@@ -1,0 +1,20 @@
+Delay
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ESEQuencer:TRIGger:SEQuencer<Stream>:OUTPut<Channel>:DELay
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ESEQuencer:TRIGger:SEQuencer<Stream>:OUTPut<Channel>:DELay
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.Trigger_.Sequencer_.Output_.Delay.Delay
+	:members:
+	:undoc-members:
+	:noindex:

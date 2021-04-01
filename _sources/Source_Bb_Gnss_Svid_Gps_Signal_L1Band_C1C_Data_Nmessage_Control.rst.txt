@@ -1,0 +1,20 @@
+Control
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GPS<Stream>:SIGNal:L1Band:C1C:DATA:NMESsage:CONTrol
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:GPS<Stream>:SIGNal:L1Band:C1C:DATA:NMESsage:CONTrol
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Gps_.Signal_.L1Band_.C1C_.Data_.Nmessage_.Control.Control
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Speed
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MDELay:DEL30:GROup<Stream>:PATH<Channel>:SPEed
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MDELay:DEL30:GROup<Stream>:PATH<Channel>:SPEed
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mdelay_.Del30_.Group_.Path_.Speed.Speed
+	:members:
+	:undoc-members:
+	:noindex:

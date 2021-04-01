@@ -1,0 +1,31 @@
+Shaping
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Shaping.Shaping
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.dpd.shaping.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Dpd_Shaping_Mode.rst
+	Source_Iq_Dpd_Shaping_Normalized.rst
+	Source_Iq_Dpd_Shaping_Polynomial.rst
+	Source_Iq_Dpd_Shaping_Table.rst

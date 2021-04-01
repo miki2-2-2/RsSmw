@@ -1,0 +1,20 @@
+Imaginary
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:APM:LAYer<Layer>:AP<AntennaPort>:BB<Stream>:IMAGinary
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:DL:USER<Channel>:APM:LAYer<Layer>:AP<AntennaPort>:BB<Stream>:IMAGinary
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.User_.Apm_.Layer_.Ap_.Bb_.Imaginary.Imaginary
+	:members:
+	:undoc-members:
+	:noindex:

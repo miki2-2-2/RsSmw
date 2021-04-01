@@ -1,0 +1,20 @@
+B3I
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:BEIDou<Stream>:SIGNal:L2Band:B3I
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:BEIDou<Stream>:SIGNal:L2Band:B3I
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Monitor_.Display_.Power_.System_.Beidou_.Signal_.L2Band_.B3I.B3I
+	:members:
+	:undoc-members:
+	:noindex:

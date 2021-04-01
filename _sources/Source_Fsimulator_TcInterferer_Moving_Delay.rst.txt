@@ -1,0 +1,29 @@
+Delay
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.TcInterferer_.Moving_.Delay.Delay
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.fsimulator.tcInterferer.moving.delay.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Fsimulator_TcInterferer_Moving_Delay_Maximum.rst
+	Source_Fsimulator_TcInterferer_Moving_Delay_Minimum.rst

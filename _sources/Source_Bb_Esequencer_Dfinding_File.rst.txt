@@ -1,0 +1,20 @@
+File
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ESEQuencer:DFINding:FILE:CATalog
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ESEQuencer:DFINding:FILE:CATalog
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.Dfinding_.File.File
+	:members:
+	:undoc-members:
+	:noindex:

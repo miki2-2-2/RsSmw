@@ -1,0 +1,29 @@
+Tb1
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Dl_.Subf_.Encc_.Pdcch_.Extc_.Item_.DciConf_.Tb1.Tb1
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.oneweb.dl.subf.encc.pdcch.extc.item.dciConf.tb1.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Oneweb_Dl_Subf_Encc_Pdcch_Extc_Item_DciConf_Tb1_Ndi.rst
+	Source_Bb_Oneweb_Dl_Subf_Encc_Pdcch_Extc_Item_DciConf_Tb1_Rv.rst

@@ -1,0 +1,20 @@
+Reference
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ENVironment:FULL:AREA<Channel>:REFerence
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ENVironment:FULL:AREA<Channel>:REFerence
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.Environment_.Full_.Area_.Reference.Reference
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,65 @@
+Wlan
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:FFORmat
+	single: SOURce<HwInstance>:BB:WLAN:ITIMe
+	single: SOURce<HwInstance>:BB:WLAN:MODE
+	single: SOURce<HwInstance>:BB:WLAN:PRESet
+	single: SOURce<HwInstance>:BB:WLAN:SLENgth
+	single: SOURce<HwInstance>:BB:WLAN:SMODe
+	single: SOURce<HwInstance>:BB:WLAN:STANdard
+	single: SOURce<HwInstance>:BB:WLAN:STATe
+	single: SOURce<HwInstance>:BB:WLAN:TTIMe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:FFORmat
+	SOURce<HwInstance>:BB:WLAN:ITIMe
+	SOURce<HwInstance>:BB:WLAN:MODE
+	SOURce<HwInstance>:BB:WLAN:PRESet
+	SOURce<HwInstance>:BB:WLAN:SLENgth
+	SOURce<HwInstance>:BB:WLAN:SMODe
+	SOURce<HwInstance>:BB:WLAN:STANdard
+	SOURce<HwInstance>:BB:WLAN:STATe
+	SOURce<HwInstance>:BB:WLAN:TTIMe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan.Wlan
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.wlan.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Wlan_Clipping.rst
+	Source_Bb_Wlan_Clock.rst
+	Source_Bb_Wlan_Crate.rst
+	Source_Bb_Wlan_FilterPy.rst
+	Source_Bb_Wlan_Ileaver.rst
+	Source_Bb_Wlan_Plcp.rst
+	Source_Bb_Wlan_Psdu.rst
+	Source_Bb_Wlan_Scrambler.rst
+	Source_Bb_Wlan_Service.rst
+	Source_Bb_Wlan_Setting.rst
+	Source_Bb_Wlan_TdWindowing.rst
+	Source_Bb_Wlan_Trigger.rst
+	Source_Bb_Wlan_Waveform.rst

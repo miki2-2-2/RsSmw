@@ -1,0 +1,20 @@
+Pccpch
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:DOWN:PPARameter:PCCPch:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:DOWN:PPARameter:PCCPch:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Down_.Pparameter_.Pccpch.Pccpch
+	:members:
+	:undoc-members:
+	:noindex:

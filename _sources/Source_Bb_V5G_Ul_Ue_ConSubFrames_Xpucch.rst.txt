@@ -1,0 +1,20 @@
+Xpucch
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CONSubframes:XPUCch
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CONSubframes:XPUCch
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.ConSubFrames_.Xpucch.Xpucch
+	:members:
+	:undoc-members:
+	:noindex:

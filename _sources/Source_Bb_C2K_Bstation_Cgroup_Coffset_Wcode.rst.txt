@@ -1,0 +1,20 @@
+Wcode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:BSTation<Stream>:CGRoup<ChannelGroup>:COFFset<Channel>:WCODe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:BSTation<Stream>:CGRoup<ChannelGroup>:COFFset<Channel>:WCODe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.Cgroup_.Coffset_.Wcode.Wcode
+	:members:
+	:undoc-members:
+	:noindex:

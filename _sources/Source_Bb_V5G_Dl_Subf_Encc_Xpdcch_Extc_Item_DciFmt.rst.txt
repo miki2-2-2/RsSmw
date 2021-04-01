@@ -1,0 +1,20 @@
+DciFmt
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:EXTC:ITEM<Channel>:DCIFmt
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ENCC:XPDCch:EXTC:ITEM<Channel>:DCIFmt
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Encc_.Xpdcch_.Extc_.Item_.DciFmt.DciFmt
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Pre
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ESEQuencer:TRIGger:SEQuencer<Stream>:OUTPut<Channel>:PRE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ESEQuencer:TRIGger:SEQuencer<Stream>:OUTPut<Channel>:PRE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Esequencer_.Trigger_.Sequencer_.Output_.Pre.Pre
+	:members:
+	:undoc-members:
+	:noindex:

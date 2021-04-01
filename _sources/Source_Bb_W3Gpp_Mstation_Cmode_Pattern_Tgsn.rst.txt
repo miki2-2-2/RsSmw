@@ -1,0 +1,20 @@
+Tgsn
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:CMODe:PATTern<Channel>:TGSN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:CMODe:PATTern<Channel>:TGSN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Cmode_.Pattern_.Tgsn.Tgsn
+	:members:
+	:undoc-members:
+	:noindex:

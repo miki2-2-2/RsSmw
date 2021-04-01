@@ -1,0 +1,20 @@
+CycShift
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:SRS:RS:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:SEQ:CYCShift
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:SRS:RS:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:SEQ:CYCShift
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Ul_.Bwp_.Srs_.Rs_.Set_.Res_.Seq_.CycShift.CycShift
+	:members:
+	:undoc-members:
+	:noindex:

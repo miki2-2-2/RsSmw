@@ -1,0 +1,20 @@
+Auto
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:BTOoth:FILTer:OSAMpling:AUTO:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:BTOoth:FILTer:OSAMpling:AUTO:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Btooth_.FilterPy_.Osampling_.Auto.Auto
+	:members:
+	:undoc-members:
+	:noindex:

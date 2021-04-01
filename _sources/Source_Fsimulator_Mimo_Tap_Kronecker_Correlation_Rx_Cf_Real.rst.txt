@@ -1,0 +1,20 @@
+Real
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:KRONecker:CORRelation:RX:CF<Stream>:REAL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:TAP<Channel>:KRONecker:CORRelation:RX:CF<Stream>:REAL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Tap_.Kronecker_.Correlation_.Rx_.Cf_.Real.Real
+	:members:
+	:undoc-members:
+	:noindex:

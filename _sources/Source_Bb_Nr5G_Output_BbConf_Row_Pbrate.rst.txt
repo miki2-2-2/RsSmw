@@ -1,0 +1,20 @@
+Pbrate
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:OUTPut:BBConf:ROW<Channel>:PBRate
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:OUTPut:BBConf:ROW<Channel>:PBRate
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Output_.BbConf_.Row_.Pbrate.Pbrate
+	:members:
+	:undoc-members:
+	:noindex:

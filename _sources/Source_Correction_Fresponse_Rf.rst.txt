@@ -1,0 +1,37 @@
+Rf<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.correction.fresponse.rf.repcap_channel_get()
+	driver.source.correction.fresponse.rf.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Correction_.Fresponse_.Rf.Rf
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.correction.fresponse.rf.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Correction_Fresponse_Rf_Optimization.rst
+	Source_Correction_Fresponse_Rf_User.rst

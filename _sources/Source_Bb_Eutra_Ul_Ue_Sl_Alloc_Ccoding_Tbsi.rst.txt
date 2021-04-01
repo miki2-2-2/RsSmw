@@ -1,0 +1,20 @@
+Tbsi
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:ALLoc<Channel>:CCODing:TBSI
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:ALLoc<Channel>:CCODing:TBSI
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Alloc_.Ccoding_.Tbsi.Tbsi
+	:members:
+	:undoc-members:
+	:noindex:

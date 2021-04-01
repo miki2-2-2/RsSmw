@@ -1,0 +1,20 @@
+Pattern
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIGNal:L1Band:B1I:DATA:NMESsage:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIGNal:L1Band:B1I:DATA:NMESsage:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Beidou_.Signal_.L1Band_.B1I_.Data_.Nmessage_.Pattern.Pattern
+	:members:
+	:undoc-members:
+	:noindex:

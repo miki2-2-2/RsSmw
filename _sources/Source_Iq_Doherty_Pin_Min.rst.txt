@@ -1,0 +1,20 @@
+Min
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DOHerty<Stream>:PIN:MIN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DOHerty<Stream>:PIN:MIN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Pin_.Min.Min
+	:members:
+	:undoc-members:
+	:noindex:

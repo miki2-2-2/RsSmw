@@ -1,0 +1,20 @@
+Rate
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:DVBT:LP<Channel>:ICODer:RATE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:DVBT:LP<Channel>:ICODer:RATE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbt_.Lp_.Icoder_.Rate.Rate
+	:members:
+	:undoc-members:
+	:noindex:

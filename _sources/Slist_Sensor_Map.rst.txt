@@ -1,0 +1,20 @@
+Map
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SLISt:SENSor:MAP
+
+.. code-block:: python
+
+	SLISt:SENSor:MAP
+
+
+
+.. autoclass:: RsSmw.Implementations.Slist_.Sensor_.Map.Map
+	:members:
+	:undoc-members:
+	:noindex:

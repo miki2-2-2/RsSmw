@@ -1,0 +1,20 @@
+Unscaled
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:TIME:CONVersion:GPS<Stream>:UTC:TOT:UNSCaled
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:TIME:CONVersion:GPS<Stream>:UTC:TOT:UNSCaled
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Time_.Conversion_.Gps_.Utc_.Tot_.Unscaled.Unscaled
+	:members:
+	:undoc-members:
+	:noindex:

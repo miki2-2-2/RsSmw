@@ -1,0 +1,20 @@
+Period
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:LFOutput<Channel>:PERiod
+
+.. code-block:: python
+
+	SOURce<HwInstance>:LFOutput<Channel>:PERiod
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.LfOutput_.Period.Period
+	:members:
+	:undoc-members:
+	:noindex:

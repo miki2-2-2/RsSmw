@@ -1,0 +1,20 @@
+Resolve
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:BSTation<Stream>:DCONflict:RESolve
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:BSTation<Stream>:DCONflict:RESolve
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.Dconflict_.Resolve.Resolve
+	:members:
+	:undoc-members:
+	:noindex:

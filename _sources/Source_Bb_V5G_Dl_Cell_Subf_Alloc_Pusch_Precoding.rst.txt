@@ -1,0 +1,28 @@
+Precoding
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Cell_.Subf_.Alloc_.Pusch_.Precoding.Precoding
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.v5G.dl.cell.subf.alloc.pusch.precoding.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_V5G_Dl_Cell_Subf_Alloc_Pusch_Precoding_Cbua.rst

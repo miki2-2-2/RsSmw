@@ -1,0 +1,22 @@
+Eobscuration
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SV:SELection:EOBScuration:ANGLe
+	single: SOURce<HwInstance>:BB:GNSS:SV:SELection:EOBScuration:REFerence
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SV:SELection:EOBScuration:ANGLe
+	SOURce<HwInstance>:BB:GNSS:SV:SELection:EOBScuration:REFerence
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Sv_.Selection_.Eobscuration.Eobscuration
+	:members:
+	:undoc-members:
+	:noindex:

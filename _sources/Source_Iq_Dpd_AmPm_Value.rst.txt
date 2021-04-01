@@ -1,0 +1,38 @@
+Value
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:AMPM:VALue
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:AMPM:VALue
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.AmPm_.Value.Value
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.dpd.amPm.value.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Dpd_AmPm_Value_Level.rst
+	Source_Iq_Dpd_AmPm_Value_Pep.rst

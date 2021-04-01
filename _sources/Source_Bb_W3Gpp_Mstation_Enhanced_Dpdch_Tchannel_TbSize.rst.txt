@@ -1,0 +1,20 @@
+TbSize
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:TCHannel<TransportChannel>:TBSize
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation:ENHanced:DPDCh:TCHannel<TransportChannel>:TBSize
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Enhanced_.Dpdch_.Tchannel_.TbSize.TbSize
+	:members:
+	:undoc-members:
+	:noindex:

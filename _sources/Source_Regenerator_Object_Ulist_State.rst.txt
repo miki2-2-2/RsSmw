@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:REGenerator:OBJect<Channel>:ULISt:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:REGenerator:OBJect<Channel>:ULISt:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Regenerator_.Object_.Ulist_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

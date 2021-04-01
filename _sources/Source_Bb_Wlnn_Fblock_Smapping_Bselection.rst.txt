@@ -1,0 +1,20 @@
+Bselection
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:SMAPping:BSELection
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:SMAPping:BSELection
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Smapping_.Bselection.Bselection
+	:members:
+	:undoc-members:
+	:noindex:

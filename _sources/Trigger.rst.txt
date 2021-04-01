@@ -1,0 +1,32 @@
+Trigger
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Trigger.Trigger
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.trigger.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Trigger_FpSweep.rst
+	Trigger_FreqSweep.rst
+	Trigger_LffSweep.rst
+	Trigger_Psweep.rst
+	Trigger_Sweep.rst

@@ -1,0 +1,20 @@
+Ubbnch
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TETRa:SCONfiguration:SLOT<Stream>:UBBNch
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TETRa:SCONfiguration:SLOT<Stream>:UBBNch
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tetra_.Sconfiguration_.Slot_.Ubbnch.Ubbnch
+	:members:
+	:undoc-members:
+	:noindex:

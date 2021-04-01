@@ -1,0 +1,20 @@
+Avrl
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:OUTPut:POWer:BBConf:ROW<Channel>:AVRL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:OUTPut:POWer:BBConf:ROW<Channel>:AVRL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Output_.Power_.BbConf_.Row_.Avrl.Avrl
+	:members:
+	:undoc-members:
+	:noindex:

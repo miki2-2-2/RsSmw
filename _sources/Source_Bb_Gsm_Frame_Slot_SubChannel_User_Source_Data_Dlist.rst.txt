@@ -1,0 +1,37 @@
+Dlist
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:SOURce:DATA:DLISt
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GSM:FRAMe<FrameIx>:SLOT<Stream>:SUBChannel<Subchannel>:USER<Channel>:SOURce:DATA:DLISt
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gsm_.Frame_.Slot_.SubChannel_.User_.Source_.Data_.Dlist.Dlist
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.gsm.frame.slot.subChannel.user.source.data.dlist.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Gsm_Frame_Slot_SubChannel_User_Source_Data_Dlist_Catalog.rst

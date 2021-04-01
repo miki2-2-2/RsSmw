@@ -1,0 +1,20 @@
+Id1
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:SCRambling:CELL<Stream>:DMRS:ID1
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:SCRambling:CELL<Stream>:DMRS:ID1
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Scrambling_.Cell_.Dmrs_.Id1.Id1
+	:members:
+	:undoc-members:
+	:noindex:

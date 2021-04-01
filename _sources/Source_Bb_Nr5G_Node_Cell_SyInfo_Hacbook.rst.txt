@@ -1,0 +1,20 @@
+Hacbook
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SYINfo:HACBook
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:NODE:CELL<Channel>:SYINfo:HACBook
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.SyInfo_.Hacbook.Hacbook
+	:members:
+	:undoc-members:
+	:noindex:

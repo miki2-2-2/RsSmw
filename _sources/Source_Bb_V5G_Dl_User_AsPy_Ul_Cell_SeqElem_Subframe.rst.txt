@@ -1,0 +1,20 @@
+Subframe
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:AS:UL:CELL<Stream>:SEQelem:SUBFrame
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:AS:UL:CELL<Stream>:SEQelem:SUBFrame
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.User_.AsPy_.Ul_.Cell_.SeqElem_.Subframe.Subframe
+	:members:
+	:undoc-members:
+	:noindex:

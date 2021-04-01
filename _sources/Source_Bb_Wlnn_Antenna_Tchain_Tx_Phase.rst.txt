@@ -1,0 +1,20 @@
+Phase
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:ANTenna:TCHain<Channel>:TX<TxIx>:PHASe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:ANTenna:TCHain<Channel>:TX<TxIx>:PHASe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Antenna_.Tchain_.Tx_.Phase.Phase
+	:members:
+	:undoc-members:
+	:noindex:

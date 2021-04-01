@@ -1,0 +1,20 @@
+NaPort
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:XPUCch:NAPort
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:XPUCch:NAPort
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.Xpucch_.NaPort.NaPort
+	:members:
+	:undoc-members:
+	:noindex:

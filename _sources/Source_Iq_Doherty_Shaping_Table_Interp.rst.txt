@@ -1,0 +1,20 @@
+Interp
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DOHerty<Stream>:SHAPing:TABLe:INTerp
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DOHerty<Stream>:SHAPing:TABLe:INTerp
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Shaping_.Table_.Interp.Interp
+	:members:
+	:undoc-members:
+	:noindex:

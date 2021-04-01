@@ -1,0 +1,20 @@
+Tropospheric
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ATMospheric:TROPospheric:MODel
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ATMospheric:TROPospheric:MODel
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Atmospheric_.Tropospheric.Tropospheric
+	:members:
+	:undoc-members:
+	:noindex:

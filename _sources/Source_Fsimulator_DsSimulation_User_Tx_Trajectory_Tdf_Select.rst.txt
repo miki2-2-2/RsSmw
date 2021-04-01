@@ -1,0 +1,20 @@
+Select
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:DSSimulation:USER:TX<Channel>:TRAJectory:TDF:SELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:DSSimulation:USER:TX<Channel>:TRAJectory:TDF:SELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.DsSimulation_.User_.Tx_.Trajectory_.Tdf_.Select.Select
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Read
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PCPCh:TPC:READ
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:PCPCh:TPC:READ
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Pcpch_.Tpc_.Read.Read
+	:members:
+	:undoc-members:
+	:noindex:

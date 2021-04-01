@@ -1,0 +1,20 @@
+Scale
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:SCALe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:SCALe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Scale.Scale
+	:members:
+	:undoc-members:
+	:noindex:

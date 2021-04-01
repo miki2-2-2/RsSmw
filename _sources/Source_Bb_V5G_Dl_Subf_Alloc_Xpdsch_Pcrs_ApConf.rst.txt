@@ -1,0 +1,20 @@
+ApConf
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ALLoc<Channel>:XPDSch:PCRS:APConf
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:SUBF<Stream>:ALLoc<Channel>:XPDSch:PCRS:APConf
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Alloc_.Xpdsch_.Pcrs_.ApConf.ApConf
+	:members:
+	:undoc-members:
+	:noindex:

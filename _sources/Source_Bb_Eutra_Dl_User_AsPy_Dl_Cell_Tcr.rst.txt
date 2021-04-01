@@ -1,0 +1,20 @@
+Tcr
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:AS:DL:CELL<Stream>:TCR
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:AS:DL:CELL<Stream>:TCR
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.AsPy_.Dl_.Cell_.Tcr.Tcr
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Cdevice
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce:IQ:OUTPut:DIGital:BBMM<Channel>:CDEVice
+
+.. code-block:: python
+
+	SOURce:IQ:OUTPut:DIGital:BBMM<Channel>:CDEVice
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Output_.Digital_.Bbmm_.Cdevice.Cdevice
+	:members:
+	:undoc-members:
+	:noindex:

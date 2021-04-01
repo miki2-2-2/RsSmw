@@ -1,0 +1,20 @@
+Mdata
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:MAC:FCONtrol:MDATa
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:MAC:FCONtrol:MDATa
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.User_.Mac_.Fcontrol_.Mdata.Mdata
+	:members:
+	:undoc-members:
+	:noindex:

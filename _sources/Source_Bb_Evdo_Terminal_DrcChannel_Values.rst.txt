@@ -1,0 +1,20 @@
+Values
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DRCChannel:VALues
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:TERMinal<Stream>:DRCChannel:VALues
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Terminal_.DrcChannel_.Values.Values
+	:members:
+	:undoc-members:
+	:noindex:

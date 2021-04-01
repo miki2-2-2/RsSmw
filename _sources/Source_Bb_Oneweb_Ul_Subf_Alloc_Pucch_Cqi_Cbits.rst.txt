@@ -1,0 +1,20 @@
+Cbits
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:CQI:CBITs
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:CQI:CBITs
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Subf_.Alloc_.Pucch_.Cqi_.Cbits.Cbits
+	:members:
+	:undoc-members:
+	:noindex:

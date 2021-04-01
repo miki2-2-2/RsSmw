@@ -1,0 +1,20 @@
+Behaviour
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ATTitude:BEHaviour
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ATTitude:BEHaviour
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.Attitude_.Behaviour.Behaviour
+	:members:
+	:undoc-members:
+	:noindex:

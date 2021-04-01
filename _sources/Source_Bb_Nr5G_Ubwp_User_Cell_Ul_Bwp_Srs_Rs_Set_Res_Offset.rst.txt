@@ -1,0 +1,20 @@
+Offset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:SRS:RS:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:OFFSet
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:CELL<Stream>:UL:BWP<NumSuffix>:SRS:RS:SET<SrsRsrcSet>:RES<SrsRsrcSetRsrc>:OFFSet
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Ul_.Bwp_.Srs_.Rs_.Set_.Res_.Offset.Offset
+	:members:
+	:undoc-members:
+	:noindex:

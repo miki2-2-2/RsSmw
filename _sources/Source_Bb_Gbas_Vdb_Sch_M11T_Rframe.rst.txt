@@ -1,0 +1,20 @@
+Rframe
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GBAS:VDB<Channel>:SCH:M11T<Stream>:RFRame
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GBAS:VDB<Channel>:SCH:M11T<Stream>:RFRame
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Sch_.M11T_.Rframe.Rframe
+	:members:
+	:undoc-members:
+	:noindex:

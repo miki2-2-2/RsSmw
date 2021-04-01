@@ -1,0 +1,20 @@
+Execute
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SV:IMPort:GLONass<Stream>:EXECute
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SV:IMPort:GLONass<Stream>:EXECute
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Sv_.ImportPy_.Glonass_.Execute.Execute
+	:members:
+	:undoc-members:
+	:noindex:

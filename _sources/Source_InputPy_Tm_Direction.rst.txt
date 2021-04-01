@@ -1,0 +1,20 @@
+Direction
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:INPut:TM<Channel>:DIRection
+
+.. code-block:: python
+
+	SOURce<HwInstance>:INPut:TM<Channel>:DIRection
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.InputPy_.Tm_.Direction.Direction
+	:members:
+	:undoc-members:
+	:noindex:

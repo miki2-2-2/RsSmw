@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:MEASurement:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:MEASurement:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Measurement_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

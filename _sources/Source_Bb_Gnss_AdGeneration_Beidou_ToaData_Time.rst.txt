@@ -1,0 +1,20 @@
+Time
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ADGeneration:BEIDou<Stream>:TOAData:TIME
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ADGeneration:BEIDou<Stream>:TOAData:TIME
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.AdGeneration_.Beidou_.ToaData_.Time.Time
+	:members:
+	:undoc-members:
+	:noindex:

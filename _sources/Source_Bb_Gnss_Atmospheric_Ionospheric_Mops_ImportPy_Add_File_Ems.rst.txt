@@ -1,0 +1,20 @@
+Ems
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:ATMospheric:IONospheric:MOPS:IMPort<Stream>:ADD:FILE:EMS<Channel>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:ATMospheric:IONospheric:MOPS:IMPort<Stream>:ADD:FILE:EMS<Channel>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Atmospheric_.Ionospheric_.Mops_.ImportPy_.Add_.File_.Ems.Ems
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Pmodel
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ENVironment:RPL:PMODel
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ENVironment:RPL:PMODel
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.Environment_.Rpl_.Pmodel.Pmodel
+	:members:
+	:undoc-members:
+	:noindex:

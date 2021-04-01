@@ -1,0 +1,20 @@
+Dot
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FSIMulator:MIMO:SCWI:TAP<Stream>:DOT
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FSIMulator:MIMO:SCWI:TAP<Stream>:DOT
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fsimulator_.Mimo_.Scwi_.Tap_.Dot.Dot
+	:members:
+	:undoc-members:
+	:noindex:

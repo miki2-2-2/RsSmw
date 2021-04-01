@@ -1,0 +1,20 @@
+Mode
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SCONfiguration:OUTPut:MAPPing:FADer<Channel>:MODE
+
+.. code-block:: python
+
+	SCONfiguration:OUTPut:MAPPing:FADer<Channel>:MODE
+
+
+
+.. autoclass:: RsSmw.Implementations.Sconfiguration_.Output_.Mapping_.Fader_.Mode.Mode
+	:members:
+	:undoc-members:
+	:noindex:

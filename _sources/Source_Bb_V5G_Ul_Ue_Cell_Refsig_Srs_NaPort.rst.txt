@@ -1,0 +1,20 @@
+NaPort
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS<SoundRefSignalIx>:NAPort
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:CELL<CarrierComponent>:REFSig:SRS<SoundRefSignalIx>:NAPort
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.Cell_.Refsig_.Srs_.NaPort.NaPort
+	:members:
+	:undoc-members:
+	:noindex:

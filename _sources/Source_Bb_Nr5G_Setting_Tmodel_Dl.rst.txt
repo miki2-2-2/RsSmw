@@ -1,0 +1,22 @@
+Dl
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:SETTing:TMODel:DL:CATalog
+	single: SOURce<HwInstance>:BB:NR5G:SETTing:TMODel:DL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:SETTing:TMODel:DL:CATalog
+	SOURce<HwInstance>:BB:NR5G:SETTing:TMODel:DL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Setting_.Tmodel_.Dl.Dl
+	:members:
+	:undoc-members:
+	:noindex:

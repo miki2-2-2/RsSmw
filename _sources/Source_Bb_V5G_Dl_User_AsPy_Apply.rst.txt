@@ -1,0 +1,20 @@
+Apply
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:AS:APPLy
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:USER<Channel>:AS:APPLy
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.User_.AsPy_.Apply.Apply
+	:members:
+	:undoc-members:
+	:noindex:

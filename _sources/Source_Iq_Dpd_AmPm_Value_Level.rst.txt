@@ -1,0 +1,20 @@
+Level
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DPD<Stream>:AMPM:VALue:LEVel
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DPD<Stream>:AMPM:VALue:LEVel
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.AmPm_.Value_.Level.Level
+	:members:
+	:undoc-members:
+	:noindex:

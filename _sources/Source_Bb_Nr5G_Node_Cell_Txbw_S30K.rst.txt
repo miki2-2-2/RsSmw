@@ -1,0 +1,39 @@
+S30K<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.nr5G.node.cell.txbw.s30K.repcap_stream_get()
+	driver.source.bb.nr5G.node.cell.txbw.s30K.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Node_.Cell_.Txbw_.S30K.S30K
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.nr5G.node.cell.txbw.s30K.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Nr5G_Node_Cell_Txbw_S30K_Komu.rst
+	Source_Bb_Nr5G_Node_Cell_Txbw_S30K_Nrb.rst
+	Source_Bb_Nr5G_Node_Cell_Txbw_S30K_Offset.rst
+	Source_Bb_Nr5G_Node_Cell_Txbw_S30K_Use.rst

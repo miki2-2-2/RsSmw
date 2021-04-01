@@ -1,0 +1,20 @@
+Eccentricity
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIMulated:ORBit:ECCentricity
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:BEIDou<Stream>:SIMulated:ORBit:ECCentricity
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Beidou_.Simulated_.Orbit_.Eccentricity.Eccentricity
+	:members:
+	:undoc-members:
+	:noindex:

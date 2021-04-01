@@ -1,0 +1,37 @@
+Bb<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.eutra.dl.user.apm.layer.ap.bb.repcap_stream_get()
+	driver.source.bb.eutra.dl.user.apm.layer.ap.bb.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.Apm_.Layer_.Ap_.Bb.Bb
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.user.apm.layer.ap.bb.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Dl_User_Apm_Layer_Ap_Bb_Imaginary.rst
+	Source_Bb_Eutra_Dl_User_Apm_Layer_Ap_Bb_Real.rst

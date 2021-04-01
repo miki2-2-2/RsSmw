@@ -1,0 +1,20 @@
+Epdcch
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:LAA:CELL<Channel>:BURSt<Stream>:EPDCch
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:LAA:CELL<Channel>:BURSt<Stream>:EPDCch
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Laa_.Cell_.Burst_.Epdcch.Epdcch
+	:members:
+	:undoc-members:
+	:noindex:

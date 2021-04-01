@@ -1,0 +1,20 @@
+Csi2
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:TCW:WS:UCI:CSI2:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:TCW:WS:UCI:CSI2:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Tcw_.Ws_.Uci_.Csi2.Csi2
+	:members:
+	:undoc-members:
+	:noindex:

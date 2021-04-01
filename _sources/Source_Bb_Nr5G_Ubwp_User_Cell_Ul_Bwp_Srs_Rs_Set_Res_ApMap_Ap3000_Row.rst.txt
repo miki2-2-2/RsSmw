@@ -1,0 +1,39 @@
+Row<Row>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr16
+	rc = driver.source.bb.nr5G.ubwp.user.cell.ul.bwp.srs.rs.set.res.apMap.ap3000.row.repcap_row_get()
+	driver.source.bb.nr5G.ubwp.user.cell.ul.bwp.srs.rs.set.res.apMap.ap3000.row.repcap_row_set(repcap.Row.Nr0)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Cell_.Ul_.Bwp_.Srs_.Rs_.Set_.Res_.ApMap_.Ap3000_.Row.Row
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.nr5G.ubwp.user.cell.ul.bwp.srs.rs.set.res.apMap.ap3000.row.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Nr5G_Ubwp_User_Cell_Ul_Bwp_Srs_Rs_Set_Res_ApMap_Ap3000_Row_Imaginary.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Ul_Bwp_Srs_Rs_Set_Res_ApMap_Ap3000_Row_Magnitude.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Ul_Bwp_Srs_Rs_Set_Res_ApMap_Ap3000_Row_Phase.rst
+	Source_Bb_Nr5G_Ubwp_User_Cell_Ul_Bwp_Srs_Rs_Set_Res_ApMap_Ap3000_Row_Real.rst

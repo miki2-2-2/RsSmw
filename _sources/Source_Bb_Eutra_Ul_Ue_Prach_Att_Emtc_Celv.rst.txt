@@ -1,0 +1,20 @@
+Celv
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:ATT<Channel>:EMTC:CELV
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:PRACh:ATT<Channel>:EMTC:CELV
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Prach_.Att_.Emtc_.Celv.Celv
+	:members:
+	:undoc-members:
+	:noindex:

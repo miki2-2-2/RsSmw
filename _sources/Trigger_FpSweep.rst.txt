@@ -1,0 +1,20 @@
+FpSweep
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: TRIGger<HwInstance>:FPSWeep:SOURce
+
+.. code-block:: python
+
+	TRIGger<HwInstance>:FPSWeep:SOURce
+
+
+
+.. autoclass:: RsSmw.Implementations.Trigger_.FpSweep.FpSweep
+	:members:
+	:undoc-members:
+	:noindex:

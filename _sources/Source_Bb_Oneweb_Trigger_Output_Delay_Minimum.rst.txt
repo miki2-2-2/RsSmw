@@ -1,0 +1,20 @@
+Minimum
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:TRIGger:OUTPut<Channel>:DELay:MINimum
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:TRIGger:OUTPut<Channel>:DELay:MINimum
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Trigger_.Output_.Delay_.Minimum.Minimum
+	:members:
+	:undoc-members:
+	:noindex:

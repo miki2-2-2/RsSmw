@@ -1,0 +1,20 @@
+Fmcs
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:AS:DL:CELL<Stream>:FMCS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:USER<Channel>:AS:DL:CELL<Stream>:FMCS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.User_.AsPy_.Dl_.Cell_.Fmcs.Fmcs
+	:members:
+	:undoc-members:
+	:noindex:

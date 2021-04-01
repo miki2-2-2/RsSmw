@@ -1,0 +1,22 @@
+Time
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ARBitrary:MCARrier:TIME:MODE
+	single: SOURce<HwInstance>:BB:ARBitrary:MCARrier:TIME
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ARBitrary:MCARrier:TIME:MODE
+	SOURce<HwInstance>:BB:ARBitrary:MCARrier:TIME
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Arbitrary_.Mcarrier_.Time.Time
+	:members:
+	:undoc-members:
+	:noindex:

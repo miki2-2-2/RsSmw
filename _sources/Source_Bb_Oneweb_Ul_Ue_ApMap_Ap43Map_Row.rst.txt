@@ -1,0 +1,36 @@
+Row<RowIx>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr0 .. Nr31
+	rc = driver.source.bb.oneweb.ul.ue.apMap.ap43Map.row.repcap_rowIx_get()
+	driver.source.bb.oneweb.ul.ue.apMap.ap43Map.row.repcap_rowIx_set(repcap.RowIx.Nr0)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:APMap:AP43Map<Channel>:ROW<RowIx>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ONEWeb:UL:UE<Stream>:APMap:AP43Map<Channel>:ROW<RowIx>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Oneweb_.Ul_.Ue_.ApMap_.Ap43Map_.Row.Row
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.oneweb.ul.ue.apMap.ap43Map.row.clone()

@@ -1,0 +1,20 @@
+Preamble
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAD:PCONfig:PREamble:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAD:PCONfig:PREamble:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlad_.Pconfig_.Preamble.Preamble
+	:members:
+	:undoc-members:
+	:noindex:

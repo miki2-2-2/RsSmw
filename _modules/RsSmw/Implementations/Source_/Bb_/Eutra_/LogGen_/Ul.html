@@ -1,0 +1,409 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul &mdash; RsSmw 4.80.1.31 documentation</title>
+  
+
+  
+  <link rel="stylesheet" href="../../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../../_static/pygments.css" type="text/css" />
+
+  
+  
+  
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="../../../../../../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../../../../../../" src="../../../../../../../_static/documentation_options.js"></script>
+        <script src="../../../../../../../_static/jquery.js"></script>
+        <script src="../../../../../../../_static/underscore.js"></script>
+        <script src="../../../../../../../_static/doctools.js"></script>
+        <script src="../../../../../../../_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="../../../../../../../_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Index" href="../../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../../../../../../index.html" class="icon icon-home" alt="Documentation Home"> RsSmw
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Contents:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../../genindex.html">Index</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../../Readme.html">Revision History</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../../GettingStarted.html">Getting Started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../../enums.html">Enums</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../../repcap.html">RepCaps</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../../RsSmw.html">RsSmw API Structure</a></li>
+</ul>
+
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../../index.html">RsSmw</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../../index.html" class="icon icon-home"></a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Module code</a> &raquo;</li>
+        
+      <li>RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <h1>Source code for RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul</h1><div class="highlight"><pre>
+<span></span><span class="kn">from</span> <span class="nn">......Internal.Core</span> <span class="kn">import</span> <span class="n">Core</span>
+<span class="kn">from</span> <span class="nn">......Internal.CommandsGroup</span> <span class="kn">import</span> <span class="n">CommandsGroup</span>
+<span class="kn">from</span> <span class="nn">......Internal</span> <span class="kn">import</span> <span class="n">Conversions</span>
+
+
+<span class="c1"># noinspection PyPep8Naming,PyAttributeOutsideInit,SpellCheckingInspection</span>
+<div class="viewcode-block" id="Ul"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul">[docs]</a><span class="k">class</span> <span class="nc">Ul</span><span class="p">:</span>
+	<span class="sd">&quot;&quot;&quot;Ul commands group definition. 12 total commands, 3 Sub-groups, 9 group commands&quot;&quot;&quot;</span>
+
+	<span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">core</span><span class="p">:</span> <span class="n">Core</span><span class="p">,</span> <span class="n">parent</span><span class="p">):</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_core</span> <span class="o">=</span> <span class="n">core</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_base</span> <span class="o">=</span> <span class="n">CommandsGroup</span><span class="p">(</span><span class="s2">&quot;ul&quot;</span><span class="p">,</span> <span class="n">core</span><span class="p">,</span> <span class="n">parent</span><span class="p">)</span>
+
+	<span class="nd">@property</span>
+	<span class="k">def</span> <span class="nf">dall</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+		<span class="sd">&quot;&quot;&quot;dall commands group. 0 Sub-classes, 1 commands.&quot;&quot;&quot;</span>
+		<span class="k">if</span> <span class="ow">not</span> <span class="nb">hasattr</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="s1">&#39;_dall&#39;</span><span class="p">):</span>
+			<span class="kn">from</span> <span class="nn">.Ul_.Dall</span> <span class="kn">import</span> <span class="n">Dall</span>
+			<span class="bp">self</span><span class="o">.</span><span class="n">_dall</span> <span class="o">=</span> <span class="n">Dall</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_base</span><span class="p">)</span>
+		<span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">_dall</span>
+
+	<span class="nd">@property</span>
+	<span class="k">def</span> <span class="nf">eall</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+		<span class="sd">&quot;&quot;&quot;eall commands group. 0 Sub-classes, 1 commands.&quot;&quot;&quot;</span>
+		<span class="k">if</span> <span class="ow">not</span> <span class="nb">hasattr</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="s1">&#39;_eall&#39;</span><span class="p">):</span>
+			<span class="kn">from</span> <span class="nn">.Ul_.Eall</span> <span class="kn">import</span> <span class="n">Eall</span>
+			<span class="bp">self</span><span class="o">.</span><span class="n">_eall</span> <span class="o">=</span> <span class="n">Eall</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_base</span><span class="p">)</span>
+		<span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">_eall</span>
+
+	<span class="nd">@property</span>
+	<span class="k">def</span> <span class="nf">logPoint</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+		<span class="sd">&quot;&quot;&quot;logPoint commands group. 0 Sub-classes, 1 commands.&quot;&quot;&quot;</span>
+		<span class="k">if</span> <span class="ow">not</span> <span class="nb">hasattr</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="s1">&#39;_logPoint&#39;</span><span class="p">):</span>
+			<span class="kn">from</span> <span class="nn">.Ul_.LogPoint</span> <span class="kn">import</span> <span class="n">LogPoint</span>
+			<span class="bp">self</span><span class="o">.</span><span class="n">_logPoint</span> <span class="o">=</span> <span class="n">LogPoint</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_base</span><span class="p">)</span>
+		<span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">_logPoint</span>
+
+<div class="viewcode-block" id="Ul.get_eu_logging"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.get_eu_logging">[docs]</a>	<span class="k">def</span> <span class="nf">get_eu_logging</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">bool</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:EULogging \n</span>
+<span class="sd">		Snippet: value: bool = driver.source.bb.eutra.logGen.ul.get_eu_logging() \n</span>
+<span class="sd">		Enables the generation of a logfile with extended information regarding the DCI/UCI mapping. \n</span>
+<span class="sd">			:return: ext_uci_log: 0| 1| OFF| ON</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">response</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">query_str</span><span class="p">(</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:EULogging?&#39;</span><span class="p">)</span>
+		<span class="k">return</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">str_to_bool</span><span class="p">(</span><span class="n">response</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.set_eu_logging"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.set_eu_logging">[docs]</a>	<span class="k">def</span> <span class="nf">set_eu_logging</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">ext_uci_log</span><span class="p">:</span> <span class="nb">bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:EULogging \n</span>
+<span class="sd">		Snippet: driver.source.bb.eutra.logGen.ul.set_eu_logging(ext_uci_log = False) \n</span>
+<span class="sd">		Enables the generation of a logfile with extended information regarding the DCI/UCI mapping. \n</span>
+<span class="sd">			:param ext_uci_log: 0| 1| OFF| ON</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">param</span> <span class="o">=</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">bool_to_str</span><span class="p">(</span><span class="n">ext_uci_log</span><span class="p">)</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:EULogging </span><span class="si">{</span><span class="n">param</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.get_prach"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.get_prach">[docs]</a>	<span class="k">def</span> <span class="nf">get_prach</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">bool</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:PRACh \n</span>
+<span class="sd">		Snippet: value: bool = driver.source.bb.eutra.logGen.ul.get_prach() \n</span>
+<span class="sd">		No command help available \n</span>
+<span class="sd">			:return: prach_log_state: No help available</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">response</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">query_str</span><span class="p">(</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:PRACh?&#39;</span><span class="p">)</span>
+		<span class="k">return</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">str_to_bool</span><span class="p">(</span><span class="n">response</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.set_prach"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.set_prach">[docs]</a>	<span class="k">def</span> <span class="nf">set_prach</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">prach_log_state</span><span class="p">:</span> <span class="nb">bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:PRACh \n</span>
+<span class="sd">		Snippet: driver.source.bb.eutra.logGen.ul.set_prach(prach_log_state = False) \n</span>
+<span class="sd">		No command help available \n</span>
+<span class="sd">			:param prach_log_state: No help available</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">param</span> <span class="o">=</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">bool_to_str</span><span class="p">(</span><span class="n">prach_log_state</span><span class="p">)</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:PRACh </span><span class="si">{</span><span class="n">param</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.get_pucch"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.get_pucch">[docs]</a>	<span class="k">def</span> <span class="nf">get_pucch</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">bool</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:PUCCh \n</span>
+<span class="sd">		Snippet: value: bool = driver.source.bb.eutra.logGen.ul.get_pucch() \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:return: pucch_log_state: No help available</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">response</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">query_str</span><span class="p">(</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:PUCCh?&#39;</span><span class="p">)</span>
+		<span class="k">return</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">str_to_bool</span><span class="p">(</span><span class="n">response</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.set_pucch"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.set_pucch">[docs]</a>	<span class="k">def</span> <span class="nf">set_pucch</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">pucch_log_state</span><span class="p">:</span> <span class="nb">bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:PUCCh \n</span>
+<span class="sd">		Snippet: driver.source.bb.eutra.logGen.ul.set_pucch(pucch_log_state = False) \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:param pucch_log_state: 0| 1| OFF| ON</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">param</span> <span class="o">=</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">bool_to_str</span><span class="p">(</span><span class="n">pucch_log_state</span><span class="p">)</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:PUCCh </span><span class="si">{</span><span class="n">param</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.get_pucdrs"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.get_pucdrs">[docs]</a>	<span class="k">def</span> <span class="nf">get_pucdrs</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">bool</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:PUCDrs \n</span>
+<span class="sd">		Snippet: value: bool = driver.source.bb.eutra.logGen.ul.get_pucdrs() \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:return: pusch_drs_log: No help available</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">response</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">query_str</span><span class="p">(</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:PUCDrs?&#39;</span><span class="p">)</span>
+		<span class="k">return</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">str_to_bool</span><span class="p">(</span><span class="n">response</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.set_pucdrs"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.set_pucdrs">[docs]</a>	<span class="k">def</span> <span class="nf">set_pucdrs</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">pusch_drs_log</span><span class="p">:</span> <span class="nb">bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:PUCDrs \n</span>
+<span class="sd">		Snippet: driver.source.bb.eutra.logGen.ul.set_pucdrs(pusch_drs_log = False) \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:param pusch_drs_log: 0| 1| OFF| ON</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">param</span> <span class="o">=</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">bool_to_str</span><span class="p">(</span><span class="n">pusch_drs_log</span><span class="p">)</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:PUCDrs </span><span class="si">{</span><span class="n">param</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.get_pusch"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.get_pusch">[docs]</a>	<span class="k">def</span> <span class="nf">get_pusch</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">bool</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:PUSCh \n</span>
+<span class="sd">		Snippet: value: bool = driver.source.bb.eutra.logGen.ul.get_pusch() \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:return: pusch_log_state: 0| 1| OFF| ON</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">response</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">query_str</span><span class="p">(</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:PUSCh?&#39;</span><span class="p">)</span>
+		<span class="k">return</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">str_to_bool</span><span class="p">(</span><span class="n">response</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.set_pusch"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.set_pusch">[docs]</a>	<span class="k">def</span> <span class="nf">set_pusch</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">pusch_log_state</span><span class="p">:</span> <span class="nb">bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:PUSCh \n</span>
+<span class="sd">		Snippet: driver.source.bb.eutra.logGen.ul.set_pusch(pusch_log_state = False) \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:param pusch_log_state: 0| 1| OFF| ON</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">param</span> <span class="o">=</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">bool_to_str</span><span class="p">(</span><span class="n">pusch_log_state</span><span class="p">)</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:PUSCh </span><span class="si">{</span><span class="n">param</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.get_pusdrs"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.get_pusdrs">[docs]</a>	<span class="k">def</span> <span class="nf">get_pusdrs</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">bool</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:PUSDrs \n</span>
+<span class="sd">		Snippet: value: bool = driver.source.bb.eutra.logGen.ul.get_pusdrs() \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:return: pusch_drs_log: No help available</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">response</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">query_str</span><span class="p">(</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:PUSDrs?&#39;</span><span class="p">)</span>
+		<span class="k">return</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">str_to_bool</span><span class="p">(</span><span class="n">response</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.set_pusdrs"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.set_pusdrs">[docs]</a>	<span class="k">def</span> <span class="nf">set_pusdrs</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">pusch_drs_log</span><span class="p">:</span> <span class="nb">bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:PUSDrs \n</span>
+<span class="sd">		Snippet: driver.source.bb.eutra.logGen.ul.set_pusdrs(pusch_drs_log = False) \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:param pusch_drs_log: 0| 1| OFF| ON</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">param</span> <span class="o">=</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">bool_to_str</span><span class="p">(</span><span class="n">pusch_drs_log</span><span class="p">)</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:PUSDrs </span><span class="si">{</span><span class="n">param</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.get_sl"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.get_sl">[docs]</a>	<span class="k">def</span> <span class="nf">get_sl</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">bool</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:SL \n</span>
+<span class="sd">		Snippet: value: bool = driver.source.bb.eutra.logGen.ul.get_sl() \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:return: log_sidelink: No help available</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">response</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">query_str</span><span class="p">(</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:SL?&#39;</span><span class="p">)</span>
+		<span class="k">return</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">str_to_bool</span><span class="p">(</span><span class="n">response</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.set_sl"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.set_sl">[docs]</a>	<span class="k">def</span> <span class="nf">set_sl</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">log_sidelink</span><span class="p">:</span> <span class="nb">bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:SL \n</span>
+<span class="sd">		Snippet: driver.source.bb.eutra.logGen.ul.set_sl(log_sidelink = False) \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:param log_sidelink: 0| 1| OFF| ON</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">param</span> <span class="o">=</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">bool_to_str</span><span class="p">(</span><span class="n">log_sidelink</span><span class="p">)</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:SL </span><span class="si">{</span><span class="n">param</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.get_sld"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.get_sld">[docs]</a>	<span class="k">def</span> <span class="nf">get_sld</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">bool</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:SLD \n</span>
+<span class="sd">		Snippet: value: bool = driver.source.bb.eutra.logGen.ul.get_sld() \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:return: log_sidelink_drs: No help available</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">response</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">query_str</span><span class="p">(</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:SLD?&#39;</span><span class="p">)</span>
+		<span class="k">return</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">str_to_bool</span><span class="p">(</span><span class="n">response</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.set_sld"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.set_sld">[docs]</a>	<span class="k">def</span> <span class="nf">set_sld</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">log_sidelink_drs</span><span class="p">:</span> <span class="nb">bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:SLD \n</span>
+<span class="sd">		Snippet: driver.source.bb.eutra.logGen.ul.set_sld(log_sidelink_drs = False) \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:param log_sidelink_drs: 0| 1| OFF| ON</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">param</span> <span class="o">=</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">bool_to_str</span><span class="p">(</span><span class="n">log_sidelink_drs</span><span class="p">)</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:SLD </span><span class="si">{</span><span class="n">param</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.get_srs"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.get_srs">[docs]</a>	<span class="k">def</span> <span class="nf">get_srs</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">bool</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:SRS \n</span>
+<span class="sd">		Snippet: value: bool = driver.source.bb.eutra.logGen.ul.get_srs() \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:return: srs_state: No help available</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">response</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">query_str</span><span class="p">(</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:SRS?&#39;</span><span class="p">)</span>
+		<span class="k">return</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">str_to_bool</span><span class="p">(</span><span class="n">response</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="Ul.set_srs"><a class="viewcode-back" href="../../../../../../../Source_Bb_Eutra_LogGen_Ul.html#RsSmw.Implementations.Source_.Bb_.Eutra_.LogGen_.Ul.Ul.set_srs">[docs]</a>	<span class="k">def</span> <span class="nf">set_srs</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">srs_state</span><span class="p">:</span> <span class="nb">bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;SCPI: [SOURce&lt;HW&gt;]:BB:EUTRa:LOGGen:UL:SRS \n</span>
+<span class="sd">		Snippet: driver.source.bb.eutra.logGen.ul.set_srs(srs_state = False) \n</span>
+<span class="sd">		Enables the channel or reference signal for that logfiles are generated. \n</span>
+<span class="sd">			:param srs_state: 0| 1| OFF| ON</span>
+<span class="sd">		&quot;&quot;&quot;</span>
+		<span class="n">param</span> <span class="o">=</span> <span class="n">Conversions</span><span class="o">.</span><span class="n">bool_to_str</span><span class="p">(</span><span class="n">srs_state</span><span class="p">)</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;SOURce&lt;HwInstance&gt;:BB:EUTRa:LOGGen:UL:SRS </span><span class="si">{</span><span class="n">param</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span></div>
+
+	<span class="k">def</span> <span class="nf">clone</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="s1">&#39;Ul&#39;</span><span class="p">:</span>
+		<span class="sd">&quot;&quot;&quot;Clones the group by creating new object from it and its whole existing sub-groups</span>
+<span class="sd">		Also copies all the existing default Repeated Capabilities setting,</span>
+<span class="sd">		which you can change independently without affecting the original group&quot;&quot;&quot;</span>
+		<span class="n">new_group</span> <span class="o">=</span> <span class="n">Ul</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_core</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_base</span><span class="o">.</span><span class="n">parent</span><span class="p">)</span>
+		<span class="bp">self</span><span class="o">.</span><span class="n">_base</span><span class="o">.</span><span class="n">synchronize_repcaps</span><span class="p">(</span><span class="n">new_group</span><span class="p">)</span>
+		<span class="k">return</span> <span class="n">new_group</span></div>
+</pre></div>
+
+           </div>
+           
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        
+        &copy; Copyright © Rohde &amp; Schwarz 2020
+
+    </p>
+  </div>
+    
+    
+    
+    Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

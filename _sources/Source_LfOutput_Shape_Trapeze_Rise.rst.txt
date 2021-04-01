@@ -1,0 +1,20 @@
+Rise
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:LFOutput<Channel>:SHAPe:TRAPeze:RISE
+
+.. code-block:: python
+
+	SOURce<HwInstance>:LFOutput<Channel>:SHAPe:TRAPeze:RISE
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.LfOutput_.Shape_.Trapeze_.Rise.Rise
+	:members:
+	:undoc-members:
+	:noindex:

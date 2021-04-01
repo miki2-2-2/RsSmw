@@ -1,0 +1,20 @@
+HoppingParam
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDATa:HOPPingparam
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDATa:HOPPingparam
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Rdata_.HoppingParam.HoppingParam
+	:members:
+	:undoc-members:
+	:noindex:

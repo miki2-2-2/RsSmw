@@ -1,0 +1,20 @@
+ZpNum
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:DRS:CELL<Channel>:ZPNum
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:DRS:CELL<Channel>:ZPNum
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Drs_.Cell_.ZpNum.ZpNum
+	:members:
+	:undoc-members:
+	:noindex:

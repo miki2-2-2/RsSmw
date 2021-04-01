@@ -1,0 +1,20 @@
+TrptSubset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDATa:TRPTsubset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDATa:TRPTsubset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Rdata_.TrptSubset.TrptSubset
+	:members:
+	:undoc-members:
+	:noindex:

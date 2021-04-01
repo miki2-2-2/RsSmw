@@ -1,0 +1,20 @@
+Length
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:CHANnel<Subchannel>:DPCCh:SYNC:LENGth
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:TDSCdma:UP:CELL<Stream>:SLOT<Channel>:CHANnel<Subchannel>:DPCCh:SYNC:LENGth
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Tdscdma_.Up_.Cell_.Slot_.Channel_.Dpcch_.Sync_.Length.Length
+	:members:
+	:undoc-members:
+	:noindex:

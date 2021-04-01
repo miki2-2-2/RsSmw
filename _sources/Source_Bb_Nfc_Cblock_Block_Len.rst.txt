@@ -1,0 +1,20 @@
+Len
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NFC:CBLock<Channel>:BLOCk<Stream>:LEN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NFC:CBLock<Channel>:BLOCk<Stream>:LEN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nfc_.Cblock_.Block_.Len.Len
+	:members:
+	:undoc-members:
+	:noindex:

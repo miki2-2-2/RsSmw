@@ -1,0 +1,40 @@
+Subf<Stream>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.eutra.dl.subf.repcap_stream_get()
+	driver.source.bb.eutra.dl.subf.repcap_stream_set(repcap.Stream.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Subf.Subf
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.dl.subf.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Dl_Subf_AlCount.rst
+	Source_Bb_Eutra_Dl_Subf_Alloc.rst
+	Source_Bb_Eutra_Dl_Subf_CycPrefix.rst
+	Source_Bb_Eutra_Dl_Subf_Encc.rst
+	Source_Bb_Eutra_Dl_Subf_User.rst

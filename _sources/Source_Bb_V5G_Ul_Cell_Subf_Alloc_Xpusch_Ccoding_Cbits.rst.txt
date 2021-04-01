@@ -1,0 +1,20 @@
+Cbits
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:XPUSch:CCODing:CBITs
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:CELL<CarrierComponent>:SUBF<Stream>:ALLoc<Channel>:XPUSch:CCODing:CBITs
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Cell_.Subf_.Alloc_.Xpusch_.Ccoding_.Cbits.Cbits
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Cframes
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:PRACh:CFRames
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:UL:UE<Stream>:PRACh:CFRames
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.Prach_.Cframes.Cframes
+	:members:
+	:undoc-members:
+	:noindex:

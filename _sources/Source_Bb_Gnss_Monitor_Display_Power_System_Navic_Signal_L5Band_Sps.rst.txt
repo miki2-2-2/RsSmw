@@ -1,0 +1,20 @@
+Sps
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:NAVic<Stream>:SIGNal:L5Band:SPS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:MONitor<Channel>:DISPlay:POWer:SYSTem:NAVic<Stream>:SIGNal:L5Band:SPS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Monitor_.Display_.Power_.System_.Navic_.Signal_.L5Band_.Sps.Sps
+	:members:
+	:undoc-members:
+	:noindex:

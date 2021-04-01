@@ -1,0 +1,20 @@
+Synchronize
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:TRIGger:EXTernal:SYNChronize:OUTPut
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:TRIGger:EXTernal:SYNChronize:OUTPut
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Trigger_.External_.Synchronize.Synchronize
+	:members:
+	:undoc-members:
+	:noindex:

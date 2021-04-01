@@ -1,0 +1,20 @@
+Foffset
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:PRACh:EMTC:CELV<Channel>:FOFFset
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:PRACh:EMTC:CELV<Channel>:FOFFset
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Prach_.Emtc_.Celv_.Foffset.Foffset
+	:members:
+	:undoc-members:
+	:noindex:

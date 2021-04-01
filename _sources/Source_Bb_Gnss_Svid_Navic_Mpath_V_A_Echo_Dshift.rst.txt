@@ -1,0 +1,20 @@
+Dshift
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:MPATh:V<Vehicle>:A<Antenna>:ECHO<Echoes>:DSHift
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:NAVic<Stream>:MPATh:V<Vehicle>:A<Antenna>:ECHO<Echoes>:DSHift
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Navic_.Mpath_.V_.A_.Echo_.Dshift.Dshift
+	:members:
+	:undoc-members:
+	:noindex:

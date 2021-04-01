@@ -1,0 +1,20 @@
+Fselect
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:ANTenna:TCHain<Channel>:OUTPut:FSELect
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:ANTenna:TCHain<Channel>:OUTPut:FSELect
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Antenna_.Tchain_.Output_.Fselect.Fselect
+	:members:
+	:undoc-members:
+	:noindex:

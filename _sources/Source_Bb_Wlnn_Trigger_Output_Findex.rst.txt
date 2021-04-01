@@ -1,0 +1,20 @@
+Findex
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:TRIGger:OUTPut<Channel>:FINDex
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:TRIGger:OUTPut<Channel>:FINDex
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Trigger_.Output_.Findex.Findex
+	:members:
+	:undoc-members:
+	:noindex:

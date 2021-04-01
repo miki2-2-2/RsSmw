@@ -1,0 +1,20 @@
+BpSymbol
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:DATA:BPSymbol
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:DATA:BPSymbol
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.User_.Data_.BpSymbol.BpSymbol
+	:members:
+	:undoc-members:
+	:noindex:

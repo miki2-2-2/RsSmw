@@ -1,0 +1,20 @@
+Fds
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:MAC:FCONtrol:FDS
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:USER<AvailableUser>:MAC:FCONtrol:FDS
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.User_.Mac_.Fcontrol_.Fds.Fds
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Tgpl
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:CMODe:PATTern<Channel>:TGPL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:CMODe:PATTern<Channel>:TGPL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Cmode_.Pattern_.Tgpl.Tgpl
+	:members:
+	:undoc-members:
+	:noindex:

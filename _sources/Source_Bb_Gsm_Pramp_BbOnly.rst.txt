@@ -1,0 +1,20 @@
+BbOnly
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GSM:PRAMp:BBONly:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GSM:PRAMp:BBONly:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gsm_.Pramp_.BbOnly.BbOnly
+	:members:
+	:undoc-members:
+	:noindex:

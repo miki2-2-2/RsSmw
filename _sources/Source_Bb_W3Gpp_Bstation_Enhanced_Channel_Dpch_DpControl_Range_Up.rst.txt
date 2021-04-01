@@ -1,0 +1,20 @@
+Up
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:ENHanced:CHANnel<Channel>:DPCH:DPControl:RANGe:UP
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation<Stream>:ENHanced:CHANnel<Channel>:DPCH:DPControl:RANGe:UP
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Enhanced_.Channel_.Dpch_.DpControl_.Range_.Up.Up
+	:members:
+	:undoc-members:
+	:noindex:

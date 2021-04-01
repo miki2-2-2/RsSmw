@@ -1,0 +1,32 @@
+Output
+----------------------------------------
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Dpd_.Output.Output
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.iq.dpd.output.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Iq_Dpd_Output_Cfactor.rst
+	Source_Iq_Dpd_Output_Error.rst
+	Source_Iq_Dpd_Output_Iterations.rst
+	Source_Iq_Dpd_Output_Level.rst
+	Source_Iq_Dpd_Output_Pep.rst

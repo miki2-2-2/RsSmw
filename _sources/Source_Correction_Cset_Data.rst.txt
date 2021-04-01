@@ -1,0 +1,39 @@
+Data<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.correction.cset.data.repcap_channel_get()
+	driver.source.correction.cset.data.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Correction_.Cset_.Data.Data
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.correction.cset.data.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Correction_Cset_Data_Frequency.rst
+	Source_Correction_Cset_Data_Power.rst
+	Source_Correction_Cset_Data_Sgamma.rst
+	Source_Correction_Cset_Data_Sensor.rst

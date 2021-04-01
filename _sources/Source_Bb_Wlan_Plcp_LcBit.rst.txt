@@ -1,0 +1,20 @@
+LcBit
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:PLCP:LCBit:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:PLCP:LCBit:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Plcp_.LcBit.LcBit
+	:members:
+	:undoc-members:
+	:noindex:

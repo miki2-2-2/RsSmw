@@ -1,0 +1,22 @@
+Revision
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:ANETwork:CCHannel:REVision:MAXimum
+	single: SOURce<HwInstance>:BB:EVDO:ANETwork:CCHannel:REVision:MINimum
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:ANETwork:CCHannel:REVision:MAXimum
+	SOURce<HwInstance>:BB:EVDO:ANETwork:CCHannel:REVision:MINimum
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.Anetwork_.Cchannel_.Revision.Revision
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Absolute
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:NOTCh<Channel>:BWIDth:ABSolute
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:NOTCh<Channel>:BWIDth:ABSolute
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Notch_.Bandwidth_.Absolute.Absolute
+	:members:
+	:undoc-members:
+	:noindex:

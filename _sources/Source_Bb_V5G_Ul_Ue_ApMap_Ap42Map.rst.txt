@@ -1,0 +1,36 @@
+Ap42Map<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.source.bb.v5G.ul.ue.apMap.ap42Map.repcap_channel_get()
+	driver.source.bb.v5G.ul.ue.apMap.ap42Map.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Ul_.Ue_.ApMap_.Ap42Map.Ap42Map
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.v5G.ul.ue.apMap.ap42Map.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_V5G_Ul_Ue_ApMap_Ap42Map_Row.rst

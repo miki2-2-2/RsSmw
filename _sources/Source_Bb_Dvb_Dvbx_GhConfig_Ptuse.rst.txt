@@ -1,0 +1,20 @@
+Ptuse
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:DVBX:GHConfig:PTUSe:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:DVBX:GHConfig:PTUSe:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbx_.GhConfig_.Ptuse.Ptuse
+	:members:
+	:undoc-members:
+	:noindex:

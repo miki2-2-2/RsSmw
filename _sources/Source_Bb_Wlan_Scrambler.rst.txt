@@ -1,0 +1,22 @@
+Scrambler
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLAN:SCRambler:MODE
+	single: SOURce<HwInstance>:BB:WLAN:SCRambler:PATTern
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLAN:SCRambler:MODE
+	SOURce<HwInstance>:BB:WLAN:SCRambler:PATTern
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlan_.Scrambler.Scrambler
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Nrepetitions
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDISc:NREPetitions
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:UE<Stream>:SL:RDISc:NREPetitions
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Ue_.Sl_.Rdisc_.Nrepetitions.Nrepetitions
+	:members:
+	:undoc-members:
+	:noindex:

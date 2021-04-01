@@ -1,0 +1,20 @@
+Spcsi
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:RNTI:SPCSi
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:UBWP:USER<Channel>:RNTI:SPCSi
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Ubwp_.User_.Rnti_.Spcsi.Spcsi
+	:members:
+	:undoc-members:
+	:noindex:

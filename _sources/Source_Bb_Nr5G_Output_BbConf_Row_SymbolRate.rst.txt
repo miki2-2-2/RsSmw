@@ -1,0 +1,20 @@
+SymbolRate
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:OUTPut:BBConf:ROW<Channel>:SRATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:OUTPut:BBConf:ROW<Channel>:SRATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Output_.BbConf_.Row_.SymbolRate.SymbolRate
+	:members:
+	:undoc-members:
+	:noindex:

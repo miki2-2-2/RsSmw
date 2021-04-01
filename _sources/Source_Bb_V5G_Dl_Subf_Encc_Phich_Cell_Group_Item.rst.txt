@@ -1,0 +1,36 @@
+Item<UserItem>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr32
+	rc = driver.source.bb.v5G.dl.subf.encc.phich.cell.group.item.repcap_userItem_get()
+	driver.source.bb.v5G.dl.subf.encc.phich.cell.group.item.repcap_userItem_set(repcap.UserItem.Nr1)
+
+
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Subf_.Encc_.Phich_.Cell_.Group_.Item.Item
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.v5G.dl.subf.encc.phich.cell.group.item.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_V5G_Dl_Subf_Encc_Phich_Cell_Group_Item_Pow.rst

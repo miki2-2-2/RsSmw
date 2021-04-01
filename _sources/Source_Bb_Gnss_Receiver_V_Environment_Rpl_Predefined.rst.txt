@@ -1,0 +1,20 @@
+Predefined
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ENVironment:RPL:PREDefined
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:RECeiver:V<Stream>:ENVironment:RPL:PREDefined
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Receiver_.V_.Environment_.Rpl_.Predefined.Predefined
+	:members:
+	:undoc-members:
+	:noindex:

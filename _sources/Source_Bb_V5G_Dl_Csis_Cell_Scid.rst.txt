@@ -1,0 +1,20 @@
+Scid
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:V5G:DL:CSIS:CELL<Channel>:SCID
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:V5G:DL:CSIS:CELL<Channel>:SCID
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.V5G_.Dl_.Csis_.Cell_.Scid.Scid
+	:members:
+	:undoc-members:
+	:noindex:

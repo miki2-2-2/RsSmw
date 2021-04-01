@@ -1,0 +1,20 @@
+AtcHeight
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:FDB<Stream>:ATCHeight
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:FDB<Stream>:ATCHeight
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Mconfig_.Fdb_.AtcHeight.AtcHeight
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Decimal
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:LFLocation:COORdinates:DECimal
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GBAS:VDB<Channel>:MCONfig:LFLocation:COORdinates:DECimal
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gbas_.Vdb_.Mconfig_.LfLocation_.Coordinates_.Decimal.Decimal
+	:members:
+	:undoc-members:
+	:noindex:

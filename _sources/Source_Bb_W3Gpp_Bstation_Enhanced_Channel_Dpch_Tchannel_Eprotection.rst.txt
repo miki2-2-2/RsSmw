@@ -1,0 +1,20 @@
+Eprotection
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:CHANnel<Channel>:DPCH:TCHannel<TransportChannel>:EPRotection
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:BSTation:ENHanced:CHANnel<Channel>:DPCH:TCHannel<TransportChannel>:EPRotection
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Bstation_.Enhanced_.Channel_.Dpch_.Tchannel_.Eprotection.Eprotection
+	:members:
+	:undoc-members:
+	:noindex:

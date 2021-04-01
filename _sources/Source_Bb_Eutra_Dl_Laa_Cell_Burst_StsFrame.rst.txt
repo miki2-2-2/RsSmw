@@ -1,0 +1,20 @@
+StsFrame
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:LAA:CELL<Channel>:BURSt<Stream>:STSFrame
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:LAA:CELL<Channel>:BURSt<Stream>:STSFrame
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Laa_.Cell_.Burst_.StsFrame.StsFrame
+	:members:
+	:undoc-members:
+	:noindex:

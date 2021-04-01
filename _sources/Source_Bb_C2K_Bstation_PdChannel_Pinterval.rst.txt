@@ -1,0 +1,20 @@
+Pinterval
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:C2K:BSTation<Stream>:PDCHannel:PINTerval
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:C2K:BSTation<Stream>:PDCHannel:PINTerval
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.C2K_.Bstation_.PdChannel_.Pinterval.Pinterval
+	:members:
+	:undoc-members:
+	:noindex:

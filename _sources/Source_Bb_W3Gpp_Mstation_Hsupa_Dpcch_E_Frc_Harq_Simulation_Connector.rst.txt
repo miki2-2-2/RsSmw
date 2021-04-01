@@ -1,0 +1,20 @@
+Connector
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPCCh:E:FRC:HARQ:SIMulation:CONNector
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:W3GPp:MSTation<Stream>:HSUPa:DPCCh:E:FRC:HARQ:SIMulation:CONNector
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.W3Gpp_.Mstation_.Hsupa_.Dpcch_.E_.Frc_.Harq_.Simulation_.Connector.Connector
+	:members:
+	:undoc-members:
+	:noindex:

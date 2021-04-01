@@ -1,0 +1,20 @@
+RbCount
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:RBCount
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:SUBF<Stream>:ALLoc<Channel>:PUCCh:RBCount
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Subf_.Alloc_.Pucch_.RbCount.RbCount
+	:members:
+	:undoc-members:
+	:noindex:

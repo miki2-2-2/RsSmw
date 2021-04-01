@@ -1,0 +1,20 @@
+Tselection
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:DVB:DVBX:DATA:TSELection<Channel>
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:DVB:DVBX:DATA:TSELection<Channel>
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Dvb_.Dvbx_.Data_.Tselection.Tselection
+	:members:
+	:undoc-members:
+	:noindex:

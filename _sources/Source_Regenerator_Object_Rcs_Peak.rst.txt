@@ -1,0 +1,20 @@
+Peak
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:REGenerator:OBJect<Channel>:RCS:PEAK
+
+.. code-block:: python
+
+	SOURce<HwInstance>:REGenerator:OBJect<Channel>:RCS:PEAK
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Regenerator_.Object_.Rcs_.Peak.Peak
+	:members:
+	:undoc-members:
+	:noindex:

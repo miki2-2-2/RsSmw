@@ -1,0 +1,24 @@
+Deviation
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:FM:DEViation:MODE
+	single: SOURce<HwInstance>:FM:DEViation:SUM
+	single: SOURce<HwInstance>:FM<Channel>:DEViation
+
+.. code-block:: python
+
+	SOURce<HwInstance>:FM:DEViation:MODE
+	SOURce<HwInstance>:FM:DEViation:SUM
+	SOURce<HwInstance>:FM<Channel>:DEViation
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Fm_.Deviation.Deviation
+	:members:
+	:undoc-members:
+	:noindex:

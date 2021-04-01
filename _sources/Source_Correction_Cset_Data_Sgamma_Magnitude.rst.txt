@@ -1,0 +1,22 @@
+Magnitude
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:CORRection:CSET:DATA:SGAMma:MAGNitude:POINts
+	single: SOURce<HwInstance>:CORRection:CSET:DATA:SGAMma:MAGNitude
+
+.. code-block:: python
+
+	SOURce<HwInstance>:CORRection:CSET:DATA:SGAMma:MAGNitude:POINts
+	SOURce<HwInstance>:CORRection:CSET:DATA:SGAMma:MAGNitude
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Correction_.Cset_.Data_.Sgamma_.Magnitude.Magnitude
+	:members:
+	:undoc-members:
+	:noindex:

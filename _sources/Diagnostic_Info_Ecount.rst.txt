@@ -1,0 +1,47 @@
+Ecount<Channel>
+----------------------------------------
+
+.. rubric:: RepCap Settings
+
+.. code-block:: python
+
+	# Range: Nr1 .. Nr16
+	rc = driver.diagnostic.info.ecount.repcap_channel_get()
+	driver.diagnostic.info.ecount.repcap_channel_set(repcap.Channel.Nr1)
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: DIAGnostic:INFO:ECOunt<Channel>
+
+.. code-block:: python
+
+	DIAGnostic:INFO:ECOunt<Channel>
+
+
+
+.. autoclass:: RsSmw.Implementations.Diagnostic_.Info_.Ecount.Ecount
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.diagnostic.info.ecount.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Diagnostic_Info_Ecount_Info.rst
+	Diagnostic_Info_Ecount_Name.rst
+	Diagnostic_Info_Ecount_Set.rst

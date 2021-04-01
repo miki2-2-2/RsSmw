@@ -1,0 +1,20 @@
+Ontime
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:ARBitrary:TRIGger:OUTPut<Channel>:ONTime
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:ARBitrary:TRIGger:OUTPut<Channel>:ONTime
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Arbitrary_.Trigger_.Output_.Ontime.Ontime
+	:members:
+	:undoc-members:
+	:noindex:

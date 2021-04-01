@@ -1,0 +1,20 @@
+Ydn
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:GNSS:SVID<Channel>:SBAS<Stream>:SIMulated:ORBit:YDN
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:GNSS:SVID<Channel>:SBAS<Stream>:SIMulated:ORBit:YDN
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Gnss_.Svid_.Sbas_.Simulated_.Orbit_.Ydn.Ydn
+	:members:
+	:undoc-members:
+	:noindex:

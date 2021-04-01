@@ -1,0 +1,20 @@
+Power
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: INITiate<HwInstance>:POWer:CONTinuous
+
+.. code-block:: python
+
+	INITiate<HwInstance>:POWer:CONTinuous
+
+
+
+.. autoclass:: RsSmw.Implementations.Initiate_.Power.Power
+	:members:
+	:undoc-members:
+	:noindex:

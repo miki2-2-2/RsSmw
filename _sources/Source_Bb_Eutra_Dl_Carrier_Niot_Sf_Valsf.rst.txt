@@ -1,0 +1,20 @@
+Valsf
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:DL:CARRier<Channel>:NIOT:SF<Stream>:VALSf
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:DL:CARRier<Channel>:NIOT:SF<Stream>:VALSf
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Dl_.Carrier_.Niot_.Sf_.Valsf.Valsf
+	:members:
+	:undoc-members:
+	:noindex:

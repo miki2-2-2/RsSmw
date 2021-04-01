@@ -1,0 +1,48 @@
+Pucch
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EUTRa:UL:PUCCh:DESHift
+	single: SOURce<HwInstance>:BB:EUTRa:UL:PUCCh:N1CS
+	single: SOURce<HwInstance>:BB:EUTRa:UL:PUCCh:N2RB
+	single: SOURce<HwInstance>:BB:EUTRa:UL:PUCCh:NORB
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EUTRa:UL:PUCCh:DESHift
+	SOURce<HwInstance>:BB:EUTRa:UL:PUCCh:N1CS
+	SOURce<HwInstance>:BB:EUTRa:UL:PUCCh:N2RB
+	SOURce<HwInstance>:BB:EUTRa:UL:PUCCh:NORB
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Eutra_.Ul_.Pucch.Pucch
+	:members:
+	:undoc-members:
+	:noindex:
+
+
+.. rubric:: Cloning the Group
+
+.. code-block:: python
+
+	# Create a clone of the original group, that exists independently
+	group2 = driver.source.bb.eutra.ul.pucch.clone()
+
+
+
+.. rubric:: Subgroups
+.. toctree::
+	:maxdepth: 6
+	:glob:
+
+	Source_Bb_Eutra_Ul_Pucch_N1Emax.rst
+	Source_Bb_Eutra_Ul_Pucch_N1Nmax.rst
+	Source_Bb_Eutra_Ul_Pucch_N2Max.rst
+	Source_Bb_Eutra_Ul_Pucch_N3Max.rst
+	Source_Bb_Eutra_Ul_Pucch_N4Max.rst
+	Source_Bb_Eutra_Ul_Pucch_N5Max.rst

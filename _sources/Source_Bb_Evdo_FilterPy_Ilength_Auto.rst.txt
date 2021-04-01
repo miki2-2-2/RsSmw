@@ -1,0 +1,20 @@
+Auto
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:EVDO:FILTer:ILENgth:AUTO:STATe
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:EVDO:FILTer:ILENgth:AUTO:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Evdo_.FilterPy_.Ilength_.Auto.Auto
+	:members:
+	:undoc-members:
+	:noindex:

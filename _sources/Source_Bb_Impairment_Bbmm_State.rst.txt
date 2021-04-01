@@ -1,0 +1,20 @@
+State
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce:BB:IMPairment:BBMM<Channel>:STATe
+
+.. code-block:: python
+
+	SOURce:BB:IMPairment:BBMM<Channel>:STATe
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Impairment_.Bbmm_.State.State
+	:members:
+	:undoc-members:
+	:noindex:

@@ -1,0 +1,20 @@
+Set
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: TEST:SERRor:SET
+
+.. code-block:: python
+
+	TEST:SERRor:SET
+
+
+
+.. autoclass:: RsSmw.Implementations.Test_.Serror_.Set.Set
+	:members:
+	:undoc-members:
+	:noindex:

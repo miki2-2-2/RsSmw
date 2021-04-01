@@ -1,0 +1,20 @@
+Icomponent
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:SMAPping:ROW<Stream>:COL<Column>:I
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:WLNN:FBLock<Channel>:SMAPping:ROW<Stream>:COL<Column>:I
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Wlnn_.Fblock_.Smapping_.Row_.Col_.Icomponent.Icomponent
+	:members:
+	:undoc-members:
+	:noindex:

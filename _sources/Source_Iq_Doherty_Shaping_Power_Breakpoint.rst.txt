@@ -1,0 +1,20 @@
+Breakpoint
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:IQ:DOHerty<Stream>:SHAPing:POWer:BREakpoint
+
+.. code-block:: python
+
+	SOURce<HwInstance>:IQ:DOHerty<Stream>:SHAPing:POWer:BREakpoint
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Iq_.Doherty_.Shaping_.Power_.Breakpoint.Breakpoint
+	:members:
+	:undoc-members:
+	:noindex:

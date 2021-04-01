@@ -1,0 +1,22 @@
+Ul
+----------------------------------------
+
+
+
+.. rubric:: SCPI Commands
+
+.. index::
+	single: SOURce<HwInstance>:BB:NR5G:SETTing:TMODel:UL:CATalog
+	single: SOURce<HwInstance>:BB:NR5G:SETTing:TMODel:UL
+
+.. code-block:: python
+
+	SOURce<HwInstance>:BB:NR5G:SETTing:TMODel:UL:CATalog
+	SOURce<HwInstance>:BB:NR5G:SETTing:TMODel:UL
+
+
+
+.. autoclass:: RsSmw.Implementations.Source_.Bb_.Nr5G_.Setting_.Tmodel_.Ul.Ul
+	:members:
+	:undoc-members:
+	:noindex:
